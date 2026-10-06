@@ -1,0 +1,20 @@
+{
+  "TaskName": "random",
+  "TaskDescription": "Random (baseline) condition: the 6 repeating scene images presented in random temporal order. Each image 250 ms, then 250 ms inter-stimulus interval.",
+  "Instructions": "n/a",
+  "SamplingFrequency": 4096.0,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "HardwareFilters": "n/a",
+  "Manufacturer": "Natus",
+  "ManufacturersModelName": "NeuroWorks",
+  "iEEGReference": "Signals were referenced to an electrode chosen by the clinical team to minimize noise in the recording (Dryad methods).",
+  "RecordingDuration": 144.296875,
+  "RecordingType": "continuous",
+  "EEGChannelCount": 190,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 85,
+  "TriggerChannelCount": 1,
+  "ElectricalStimulation": false
+}

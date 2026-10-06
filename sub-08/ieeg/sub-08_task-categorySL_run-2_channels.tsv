@@ -1,0 +1,277 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	group	status	status_description	description
+FP1	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FP2	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FP3	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FP4	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FP5	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FP6	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FP7	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FP8	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FP9	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FP10	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FP11	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FP12	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+OF1	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+OF2	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+OF3	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+OF4	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+OF5	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+OF6	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+OF7	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+OF8	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+OF9	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+OF10	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+OF11	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+OF12	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FOr1	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FOr2	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FOr3	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FOr4	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FOr5	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FOr6	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FOr7	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FOr8	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Or1	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Or2	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Or3	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Or4	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Or5	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Or6	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Or7	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Or8	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Or9	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Or10	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Or11	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Or12	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T1	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T2	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T3	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T4	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T5	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T6	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T7-0	EEG	µV	0.0	2048.0	4096.0	T7-	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T8-0	EEG	µV	0.0	2048.0	4096.0	T8-	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T9	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T10	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T11	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T12	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Op1	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Op2	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Op3	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Op4	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Op5	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Op6	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Op7	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Op8	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Op9	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Op10	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Op11	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Op12	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Ca1	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Ca2	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Ca3	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Ca4	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Ca5	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Ca6	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Ca7	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Ca8	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Ca9	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Ca10	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Ca11	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Ca12	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+AC1	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+AC2	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+AC3	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+AC4	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+AC5	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+AC6	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+AC7	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+AC8	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+AC9	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+AC10	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+AC11	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+AC12	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+A1	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+A2	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+A3	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+A4	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+A5	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+A6	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+A7	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+A8	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+H1	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+H2	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+H3	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+H4	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+H5	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+H6	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+H7	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+H8	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+L1	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+L2	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+L3	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+L4	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+L5	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+L6	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+L7	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+L8	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Mi1	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Mi2	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Mi3	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Mi4	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Mi5	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Mi6	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Mi7	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Mi8	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Pi1	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Pi2	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Pi3	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Pi4	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Pi5	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Pi6	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Pi7	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Pi8	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Pi9	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Pi10	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Pi11	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+Pi12	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+SMA1	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+SMA2	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+SMA3	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+SMA4	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+SMA5	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+SMA6	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+SMA7	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+SMA8	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+SMA9	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+SMA10	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+SMA11	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+SMA12	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+PC1	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+PC2	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+PC3	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+PC4	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+PC5	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+PC6	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+PC7	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+PC8	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+PC9	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+PC10	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+PC11	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+PC12	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+S1	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+S2	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+S3	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+S4	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+S5	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+S6	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+S7	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+S8	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+ECG1	EEG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+ECG2	EEG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FP1'	EEG	µV	0.0	2048.0	4096.0	FP1'	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FP2'	EEG	µV	0.0	2048.0	4096.0	FP2'	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+F7	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+F8	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T7-1	EEG	µV	0.0	2048.0	4096.0	T7-	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T8-1	EEG	µV	0.0	2048.0	4096.0	T8-	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+O1	EEG	µV	0.0	2048.0	4096.0	O	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+O2	EEG	µV	0.0	2048.0	4096.0	O	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+F3	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+F4	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+C3	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C4	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+CZ	EEG	µV	0.0	2048.0	4096.0	CZ	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+E1	EEG	µV	0.0	2048.0	4096.0	E	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+E2	EEG	µV	0.0	2048.0	4096.0	E	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+C186	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C187	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C188	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C189	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C190	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C191	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C192	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C193	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C194	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C195	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C196	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C197	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C198	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C199	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C200	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C201	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C202	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C203	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C204	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C205	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C206	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C207	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C208	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C209	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C210	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C211	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C212	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C213	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C214	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C215	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C216	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C217	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C218	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C219	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C220	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C221	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C222	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C223	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C224	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C225	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C226	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C227	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C228	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C229	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C230	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C231	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C232	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C233	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C234	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C235	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C236	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C237	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C238	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C239	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C240	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C241	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C242	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C243	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C244	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C245	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C246	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C247	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C248	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C249	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C250	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C251	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C252	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C253	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C254	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C255	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+C256	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC1	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC2	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC3	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC4	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC5	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC6	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC7	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC8	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC9	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC10	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC11	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC12	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC13	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC14	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC15	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+DC16	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+TRIG	TRIG	n/a	0.0	2048.0	4096.0	n/a	good	n/a	Trigger channel: above 0 during the screen flip at each image onset (see README)
+OSAT	MISC	n/a	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+PR	MISC	n/a	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
+Pleth	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data

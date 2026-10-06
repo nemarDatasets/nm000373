@@ -1,0 +1,29 @@
+{
+  "onset": {
+    "Description": "Onset (s) from the start of the recording. For source=TRIG: first sample at which TRIG leaves its resting level (trig_baseline).",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "For source=TRIG: time (s) until TRIG returned to its resting level. For source_events_tsv: duration from the source events.tsv.",
+    "Units": "s"
+  },
+  "trial_type": {
+    "Description": "'trigger' = a TRIG pulse. Source README: 'Triggers were sent at the onset of each image; specifically, the trigger channel was set to be above 0 starting at the onset of the screen flip, and was set back to 0 at the end of a screen flip (when the image was presented).' Other values are copied from the source events.tsv (present for sub-3 only in the release)."
+  },
+  "value": {
+    "Description": "For source=TRIG: the sequence of TRIG levels (separated by |) between leaving and returning to the resting level, read from the EDF in physical units (8-bit trigger codes written by the experiment DAQ into the open TRIG channel; the code meanings are not documented in the release). For source_events_tsv: value column of the source file."
+  },
+  "trig_baseline": {
+    "Description": "Resting TRIG level of this run (most frequent value; 0, 8 or 16 depending on the participant)."
+  },
+  "sample": {
+    "Description": "Sample index (0-based) of the onset at the recording sampling rate."
+  },
+  "source": {
+    "Description": "Provenance of the row",
+    "Levels": {
+      "TRIG": "decoded from the TRIG channel of the EDF file",
+      "source_events_tsv": "copied from the Dryad *_events.tsv file"
+    }
+  }
+}

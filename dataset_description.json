@@ -1,0 +1,48 @@
+{
+  "Name": "Intracranial entrainment reveals statistical learning across levels of abstraction (Sherman et al., 2023): raw iEEG from 8 neurosurgical patients",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "License": "CC0-1.0",
+  "Authors": [
+    "Brynn Sherman",
+    "Ayman Aljishi",
+    "Kathryn Graves",
+    "Imran Quraishi",
+    "Adithya Sivaraju",
+    "Eyiyemisi Damisah",
+    "Nicholas Turk-Browne"
+  ],
+  "Acknowledgements": "Original data collected and released by the authors on Dryad (doi:10.5061/dryad.q573n5tph). Converted to iEEG-BIDS for NEMAR without signal modification.",
+  "HowToAcknowledge": "Please cite Sherman et al. (2023) J Cogn Neurosci, doi:10.1162/jocn_a_02012, and the Dryad dataset doi:10.5061/dryad.q573n5tph.",
+  "Funding": [
+    "U.S. National Science Foundation",
+    "Canadian Institute for Advanced Research"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1162/jocn_a_02012",
+    "https://doi.org/10.5061/dryad.q573n5tph",
+    "https://doi.org/10.1101/2023.01.11.523605",
+    "https://zenodo.org/records/8018664"
+  ],
+  "Keywords": [
+    "intracranial EEG",
+    "statistical learning",
+    "neural entrainment",
+    "scene perception",
+    "epilepsy"
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.5061/dryad.q573n5tph",
+      "URL": "https://datadryad.org/dataset/doi:10.5061/dryad.q573n5tph",
+      "Version": "Dryad version 3 (published 2023-07-07)"
+    }
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "b2dryad_convert038.py",
+      "Description": "Byte-identical EDF copy; BIDS renaming and sidecars; events decoded from the source TRIG channel. Code in code/.",
+      "CodeURL": "n/a"
+    }
+  ]
+}

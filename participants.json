@@ -1,0 +1,22 @@
+{
+  "participant_id": {
+    "Description": "BIDS participant label (zero-padded to match allContacts_MNIcoords.csv)"
+  },
+  "source_id": {
+    "Description": "Participant label used in the Dryad file names"
+  },
+  "age": {
+    "Description": "Age in years (not given in the Dryad release)",
+    "Units": "year"
+  },
+  "sex": {
+    "Description": "Sex (not given in the Dryad release)",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  },
+  "handedness": {
+    "Description": "Handedness (not given in the Dryad release)"
+  }
+}

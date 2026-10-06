@@ -1,0 +1,5 @@
+filename	acq_time	source_file
+ieeg/sub-07_task-categorySL_run-1_ieeg.edf	n/a	sub-7_task-categorySL1_eeg.edf
+ieeg/sub-07_task-categorySL_run-2_ieeg.edf	n/a	sub-7_task-categorySL2_eeg.edf
+ieeg/sub-07_task-exemplarSL_run-1_ieeg.edf	n/a	sub-7_task-exemplarSL1_eeg.edf
+ieeg/sub-07_task-random_run-1_ieeg.edf	n/a	sub-7_task-random1_eeg.edf

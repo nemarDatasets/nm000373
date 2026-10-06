@@ -1,0 +1,18 @@
+{
+    "TaskName": "exemplarSL1",
+    "Manufacturer": "n/a",
+    "PowerLineFrequency": 60.0,
+    "SamplingFrequency": 4096.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 260.999755859375,
+    "RecordingType": "continuous",
+    "EEGReference": "n/a",
+    "EEGGround": "n/a",
+    "EEGPlacementScheme": "n/a",
+    "EEGChannelCount": 276,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0
+}

@@ -1,0 +1,866 @@
+[
+ {
+  "path": "allContacts_MNIcoords.csv",
+  "size": 29069,
+  "mime": "text/csv",
+  "digest": "f683ea8abeb2648916d5c5a6d6be5203226053963801531ef7ee35baf5ed7c2e",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336726/download",
+  "status": "copied"
+ },
+ {
+  "path": "README.md",
+  "size": 3668,
+  "mime": "",
+  "digest": "73b62687d51f13b6b2a8d6eac7544daaab67ad45680f728ff37345f07eef8350",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336728/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-1_task-categorySL1_channels.tsv",
+  "size": 16786,
+  "mime": "text/tab-separated-values",
+  "digest": "5cb74b118eaebd6d51be6d33dbfbe42f36499e23e0ce8fecc52983cb14510ab1",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336637/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-1_task-categorySL1_eeg.edf",
+  "size": 345649408,
+  "mime": "",
+  "digest": "6026fd9053ddccbc320f012637471af284f3ec2adeb96a9a20f7e33ae6ad129d",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336646/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-1_task-categorySL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "62ead580c79ef743fa9d5f2985a551e73dc481ff0f6b82be0eae5f9950cbd0eb",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336638/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-1_task-exemplarSL1_channels.tsv",
+  "size": 16786,
+  "mime": "text/tab-separated-values",
+  "digest": "5cb74b118eaebd6d51be6d33dbfbe42f36499e23e0ce8fecc52983cb14510ab1",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336635/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-1_task-exemplarSL1_eeg.edf",
+  "size": 316397824,
+  "mime": "",
+  "digest": "cf0b24df6fda18b4cea938cb28636add31d6c56cd7a77e9a95a1d5c0a557034b",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336644/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-1_task-exemplarSL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "d3d7f587220fc37f6695bfb0aeac5acedb96d382ca5df90fa1e47aa466240ef5",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336636/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-1_task-random1_channels.tsv",
+  "size": 16786,
+  "mime": "text/tab-separated-values",
+  "digest": "5cb74b118eaebd6d51be6d33dbfbe42f36499e23e0ce8fecc52983cb14510ab1",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336633/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-1_task-random1_eeg.edf",
+  "size": 316397824,
+  "mime": "",
+  "digest": "1736e81d433e6e7563ab9d23f76ba2fa89a8213ca70c416b3438f835453fc116",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336641/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-1_task-random1_eeg.json",
+  "size": 477,
+  "mime": "application/json",
+  "digest": "44dd40c609d1d6f80970f6a9f0ac9aff5cb3c2f277b5408f44b426640959e8b0",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336634/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-2_task-categorySL1_channels.tsv",
+  "size": 16811,
+  "mime": "text/tab-separated-values",
+  "digest": "2ee16cde03b323fb139fafa3b7582c53cb334eb88c0f472faa362cc511e1b988",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336639/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-2_task-categorySL1_eeg.edf",
+  "size": 403057408,
+  "mime": "",
+  "digest": "24d8d47366bf663e7a28ba75c9c503769e75515d486ba93b437b90ea3be4a0ba",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336647/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-2_task-categorySL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "4993782559f0108306d68b4ee05c1227684b3ed2506f58f4335286a4a6b42633",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336640/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-2_task-exemplarSL1_channels.tsv",
+  "size": 16811,
+  "mime": "text/tab-separated-values",
+  "digest": "2ee16cde03b323fb139fafa3b7582c53cb334eb88c0f472faa362cc511e1b988",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336642/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-2_task-exemplarSL1_eeg.edf",
+  "size": 590189824,
+  "mime": "",
+  "digest": "e359e55e1af92bacf1f1e014dd611de6beb83d953214c590f1c3ad8146ce5a41",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336651/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-2_task-exemplarSL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "901d23b0ec04f45923532ed884696def6b5ee05f05f853dbe50094371dea041a",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336643/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-2_task-random1_channels.tsv",
+  "size": 16811,
+  "mime": "text/tab-separated-values",
+  "digest": "2ee16cde03b323fb139fafa3b7582c53cb334eb88c0f472faa362cc511e1b988",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336645/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-2_task-random1_eeg.edf",
+  "size": 359427328,
+  "mime": "",
+  "digest": "291cca5ba447ac7e9ec7502371b938d3b50716d84e2020701af07c8540e1de03",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336652/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-2_task-random1_eeg.json",
+  "size": 477,
+  "mime": "application/json",
+  "digest": "376eec587aca7598a3d2fef80ecc0cebc99fd64398fcac1b6c2bee580c9960ac",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336648/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-categorySL1_channels.tsv",
+  "size": 16789,
+  "mime": "text/tab-separated-values",
+  "digest": "2bd3b289b7889525b7c7ee9ffa8889565a2ddb92be545604750edf81f24b6f02",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336662/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-categorySL1_eeg.edf",
+  "size": 363290848,
+  "mime": "",
+  "digest": "44ce6e400ec880829f3ef456f8f591c54cdc0d26d33beefd81ea4fe7b7c94ab5",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336671/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-categorySL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "98f5747baad4109a636def4d270d7ab9e9adae7e3ea4aaf86a1a4e002d8ed453",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336663/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-categorySL1_events.tsv",
+  "size": 92,
+  "mime": "text/tab-separated-values",
+  "digest": "3739b33ffa687aabc681e19d3065144b7c7b940eab6fbee2bc435b838565bd9b",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336664/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-categorySL2_channels.tsv",
+  "size": 16789,
+  "mime": "text/tab-separated-values",
+  "digest": "2bd3b289b7889525b7c7ee9ffa8889565a2ddb92be545604750edf81f24b6f02",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336659/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-categorySL2_eeg.edf",
+  "size": 295082912,
+  "mime": "",
+  "digest": "eff97498d47b2e3cddd7b45b0b13a14cd5fd49f051822d9641154338d8b04fd9",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336667/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-categorySL2_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "0fdbadd2fb0637856c8a4ba99a5a123b5fdf4806097c78c6ca844fd46eb2e2ed",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336660/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-categorySL2_events.tsv",
+  "size": 92,
+  "mime": "text/tab-separated-values",
+  "digest": "7b2a33e5c9cdf523586b12bcd4fd5d711fe12e48a83b8491073fcb0658433ffc",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336661/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-exemplarSL1_channels.tsv",
+  "size": 16789,
+  "mime": "text/tab-separated-values",
+  "digest": "2bd3b289b7889525b7c7ee9ffa8889565a2ddb92be545604750edf81f24b6f02",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336654/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-exemplarSL1_eeg.edf",
+  "size": 317830720,
+  "mime": "",
+  "digest": "7b3c0d07ca89108e6cf1106fe798dee551f19b2d1d033c897f275aa54601a2b9",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336658/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-exemplarSL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "d3d7f587220fc37f6695bfb0aeac5acedb96d382ca5df90fa1e47aa466240ef5",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336656/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-exemplarSL1_events.tsv",
+  "size": 84,
+  "mime": "text/tab-separated-values",
+  "digest": "b4fdff8ed29564b8ee40e89e380f146a2ee5d979638c7067204f287863ad3b8e",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336657/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-random1_channels.tsv",
+  "size": 16789,
+  "mime": "text/tab-separated-values",
+  "digest": "2bd3b289b7889525b7c7ee9ffa8889565a2ddb92be545604750edf81f24b6f02",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336649/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-random1_eeg.edf",
+  "size": 295650720,
+  "mime": "",
+  "digest": "ea3ec502a4fa40a08a6e4927673d747d099abcd3548c90a6b544c7cddcda7359",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336655/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-random1_eeg.json",
+  "size": 477,
+  "mime": "application/json",
+  "digest": "266945f2f5b14d05276bb5bfe4c4c7e5e87bbe00e97aab7d758f79ce914a5a79",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336650/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-3_task-random1_events.tsv",
+  "size": 83,
+  "mime": "text/tab-separated-values",
+  "digest": "890bb4cf3695ce5b52c1e06425eb62169e7cce9336c666e12503aee5bdfd08ea",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336653/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-4_task-categorySL1_channels.tsv",
+  "size": 9151,
+  "mime": "text/tab-separated-values",
+  "digest": "3bd896e1742f654cbae6cb90b9d81bf0c099fc0012d9e32ad4856a2574366430",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336675/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-4_task-categorySL1_eeg.edf",
+  "size": 193342720,
+  "mime": "",
+  "digest": "18956addd6df25f01fecb6db8855a53cc5e016923776e487dd39fd539cff7b75",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336678/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-4_task-categorySL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "46acce9f337dd926d594ed3193122f937e13392458829345856444e210438362",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336676/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-4_task-categorySL2_channels.tsv",
+  "size": 9151,
+  "mime": "text/tab-separated-values",
+  "digest": "3bd896e1742f654cbae6cb90b9d81bf0c099fc0012d9e32ad4856a2574366430",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336670/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-4_task-categorySL2_eeg.edf",
+  "size": 152802560,
+  "mime": "",
+  "digest": "b94cd47a55ca3f2da4802bb0dba045af578d74edb4688d339e7695b32a6e7d3f",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336677/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-4_task-categorySL2_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "74b14d5b0c496c98924e20a68837f9a4ce1b565ac26615e745987cb6c500b24c",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336672/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-4_task-exemplarSL1_channels.tsv",
+  "size": 9151,
+  "mime": "text/tab-separated-values",
+  "digest": "3bd896e1742f654cbae6cb90b9d81bf0c099fc0012d9e32ad4856a2574366430",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336668/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-4_task-exemplarSL1_eeg.edf",
+  "size": 163145984,
+  "mime": "",
+  "digest": "b90e6060e7a7821b8fd7a0ac40fae595740811a062f9a3029a9111bfe800c45f",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336674/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-4_task-exemplarSL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "4a5b9a93d81157d2e76f859eb4281ec20bf5f2835bdf612ab70670824a060bbc",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336669/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-4_task-random1_channels.tsv",
+  "size": 9151,
+  "mime": "text/tab-separated-values",
+  "digest": "3bd896e1742f654cbae6cb90b9d81bf0c099fc0012d9e32ad4856a2574366430",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336665/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-4_task-random1_eeg.edf",
+  "size": 172921088,
+  "mime": "",
+  "digest": "fd7f1e62b0b2a74aa7ad343f7ab1aac2940e751fa4bb3e8e17b64c6ecd6a25ee",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336673/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-4_task-random1_eeg.json",
+  "size": 477,
+  "mime": "application/json",
+  "digest": "731ee01ed72ff7a57680c268d14e006f3a1052b28b7b514ca8cce5b65370aa62",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336666/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-5_task-categorySL1_channels.tsv",
+  "size": 16907,
+  "mime": "text/tab-separated-values",
+  "digest": "be868c57813cf16aefcdee41baec80dc2f73175f89bc2d62b19d8d3d1a547161",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336687/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-5_task-categorySL1_eeg.edf",
+  "size": 325759744,
+  "mime": "",
+  "digest": "364b1d263559b7b221b2131e7faa7b0b19ec0e00a12279d21b393ca829018e9e",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336692/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-5_task-categorySL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "0a63515fca9da4886df951a760126ec717b38c8819ebdf1b164c24bc420524db",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336688/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-5_task-categorySL2_channels.tsv",
+  "size": 16907,
+  "mime": "text/tab-separated-values",
+  "digest": "be868c57813cf16aefcdee41baec80dc2f73175f89bc2d62b19d8d3d1a547161",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336683/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-5_task-categorySL2_eeg.edf",
+  "size": 289901824,
+  "mime": "",
+  "digest": "0b8a74e6cfb14f4dcb18440ee9ba0bb8b85758010f4312f5137e5a9faf19c8f9",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336689/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-5_task-categorySL2_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "d7ad41f2a55b9d7f5f54aa9c73bb2cea3d3f3c8f75a93916c3904695dabc778e",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336685/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-5_task-exemplarSL1_channels.tsv",
+  "size": 16907,
+  "mime": "text/tab-separated-values",
+  "digest": "be868c57813cf16aefcdee41baec80dc2f73175f89bc2d62b19d8d3d1a547161",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336681/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-5_task-exemplarSL1_eeg.edf",
+  "size": 289901824,
+  "mime": "",
+  "digest": "cd0dc505d4c6b81c1edc4b267bee6d15683a7bd8967ada751d75b8557860a7bd",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336686/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-5_task-exemplarSL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "2cc18fc5db6410765e0eb4ff55fda36cbe7b00bb363e493dca9f93159539f3a3",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336682/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-5_task-random1_channels.tsv",
+  "size": 16907,
+  "mime": "text/tab-separated-values",
+  "digest": "be868c57813cf16aefcdee41baec80dc2f73175f89bc2d62b19d8d3d1a547161",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336679/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-5_task-random1_eeg.edf",
+  "size": 326324992,
+  "mime": "",
+  "digest": "4a6c1f4a4bbbfa0707a453c28c8940aa82cfef98131a6cd3861a59c3806b8672",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336684/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-5_task-random1_eeg.json",
+  "size": 477,
+  "mime": "application/json",
+  "digest": "de85d2dbe5bfe0f881a50bb2e607e0f091a1e745de9ebc653f223aeceb42684d",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336680/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-6_task-categorySL1_channels.tsv",
+  "size": 16831,
+  "mime": "text/tab-separated-values",
+  "digest": "e163be8b6ee207f7989014f8e8858ebba8fd60464997afea95b5663a5b8f7640",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336699/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-6_task-categorySL1_eeg.edf",
+  "size": 325759744,
+  "mime": "",
+  "digest": "09032fc3d7525dac32fd238fd77b89f51f11fd88cfce9ebe0ac028d235875815",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336704/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-6_task-categorySL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "0a63515fca9da4886df951a760126ec717b38c8819ebdf1b164c24bc420524db",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336700/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-6_task-categorySL2_channels.tsv",
+  "size": 16831,
+  "mime": "text/tab-separated-values",
+  "digest": "e163be8b6ee207f7989014f8e8858ebba8fd60464997afea95b5663a5b8f7640",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336696/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-6_task-categorySL2_eeg.edf",
+  "size": 326324992,
+  "mime": "",
+  "digest": "01bb7ab1911045e761a657f55edb3dd5ce32d25e5322e8aba7d395e8cc76d8fe",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336701/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-6_task-categorySL2_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "02eec6569eb9347978695e046910801e0843da0c57251a95da2d48f9202a2ddd",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336697/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-6_task-exemplarSL1_channels.tsv",
+  "size": 16831,
+  "mime": "text/tab-separated-values",
+  "digest": "e163be8b6ee207f7989014f8e8858ebba8fd60464997afea95b5663a5b8f7640",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336693/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-6_task-exemplarSL1_eeg.edf",
+  "size": 326324992,
+  "mime": "",
+  "digest": "201c0a246013725d615f17582587703796c757d90c303735d8352223eef94428",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336698/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-6_task-exemplarSL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "59e90cde4294ebbe62e3f10692474e90ad28749add2a21d6a102ea047950741b",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336694/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-6_task-random1_channels.tsv",
+  "size": 16831,
+  "mime": "text/tab-separated-values",
+  "digest": "e163be8b6ee207f7989014f8e8858ebba8fd60464997afea95b5663a5b8f7640",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336690/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-6_task-random1_eeg.edf",
+  "size": 325759744,
+  "mime": "",
+  "digest": "4696e234c796bcd3088ccbe5248f92cd54470e9fd42e535811ed8541c130fcfb",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336695/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-6_task-random1_eeg.json",
+  "size": 477,
+  "mime": "application/json",
+  "digest": "4d9dad0b304f3e3c88d105ad8c1d3306d6bb2ae9b76b5404054dec933de0e419",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336691/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-7_task-categorySL1_channels.tsv",
+  "size": 16899,
+  "mime": "text/tab-separated-values",
+  "digest": "d01637b7dbc48492fd38773470d31f36b617595eca1af3572c286241f11a584f",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336711/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-7_task-categorySL1_eeg.edf",
+  "size": 332401408,
+  "mime": "",
+  "digest": "d9548b9f90add35d1edd3391681968faac799565bf2b9d17a076d5753266301d",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336717/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-7_task-categorySL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "462f16c70acfcf76c6235d0e0eb474e169cd981d378d4583e8c10066c41a90a3",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336713/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-7_task-categorySL2_channels.tsv",
+  "size": 16899,
+  "mime": "text/tab-separated-values",
+  "digest": "d01637b7dbc48492fd38773470d31f36b617595eca1af3572c286241f11a584f",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336708/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-7_task-categorySL2_eeg.edf",
+  "size": 332931328,
+  "mime": "",
+  "digest": "f9cf9dca3c59baefb5575edf1fcec56eb71abed620ff0188f4d1b65470d2934c",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336712/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-7_task-categorySL2_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "ba21770fd66a0f118a9204899980e82e91e44bc4347b8e665ad9a4904032b885",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336710/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-7_task-exemplarSL1_channels.tsv",
+  "size": 16899,
+  "mime": "text/tab-separated-values",
+  "digest": "d01637b7dbc48492fd38773470d31f36b617595eca1af3572c286241f11a584f",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336705/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-7_task-exemplarSL1_eeg.edf",
+  "size": 299263744,
+  "mime": "",
+  "digest": "51d173b6a639ba43c7eb338403cde383e93a02206d83369676509016de91e177",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336709/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-7_task-exemplarSL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "66ae62a9a0ca41a8c3ccd91de85bb2ed6d94048f7a607c54281a79deaf6ebed5",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336706/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-7_task-random1_channels.tsv",
+  "size": 16899,
+  "mime": "text/tab-separated-values",
+  "digest": "d01637b7dbc48492fd38773470d31f36b617595eca1af3572c286241f11a584f",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336702/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-7_task-random1_eeg.edf",
+  "size": 332401408,
+  "mime": "",
+  "digest": "fd6bebaac53a73b0d28a8027ba3c547830251a84288179bee1eb3e6ca8587b12",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336707/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-7_task-random1_eeg.json",
+  "size": 477,
+  "mime": "application/json",
+  "digest": "e71653eb6467b0415137b0f687aa235f1912993945e27906d264ff3e85b6c060",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336703/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-8_task-categorySL1_channels.tsv",
+  "size": 16745,
+  "mime": "text/tab-separated-values",
+  "digest": "93c1d280e401d491ee97dd120cf232bc6c0e8887ad4029b6fea87ce8011f0e0a",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336724/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-8_task-categorySL1_eeg.edf",
+  "size": 350595328,
+  "mime": "",
+  "digest": "cc6b42f8b28c1dc941baf64b2d01e13a5258000f005a4a103ff1456d97609f13",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336727/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-8_task-categorySL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "dbe2c0a587a678645e7934631c0713dc2f4ec37b5c717f9101a92e466a03b385",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336725/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-8_task-categorySL2_channels.tsv",
+  "size": 16745,
+  "mime": "text/tab-separated-values",
+  "digest": "93c1d280e401d491ee97dd120cf232bc6c0e8887ad4029b6fea87ce8011f0e0a",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336721/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-8_task-categorySL2_eeg.edf",
+  "size": 303149824,
+  "mime": "",
+  "digest": "822e8eb2dd022a3d414a798d6bfe148da1382e62c8353c54060354fae500bd3f",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336723/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-8_task-categorySL2_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "4ff755dbfe671912630e6495181b6311cdb6e594ee188a1a7c8794e2e8fbf013",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336722/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-8_task-exemplarSL1_channels.tsv",
+  "size": 16745,
+  "mime": "text/tab-separated-values",
+  "digest": "93c1d280e401d491ee97dd120cf232bc6c0e8887ad4029b6fea87ce8011f0e0a",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336716/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-8_task-exemplarSL1_eeg.edf",
+  "size": 303149824,
+  "mime": "",
+  "digest": "a083c632988793e9c0a6be17bceed67813d2adf4771ab20d9e549ea21b60e7d3",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336720/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-8_task-exemplarSL1_eeg.json",
+  "size": 481,
+  "mime": "application/json",
+  "digest": "3087381e926c396d0d364e7e00f7357df64117cee4ecff8c7a6ced6f9d2fe6e6",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336718/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-8_task-random1_channels.tsv",
+  "size": 16745,
+  "mime": "text/tab-separated-values",
+  "digest": "93c1d280e401d491ee97dd120cf232bc6c0e8887ad4029b6fea87ce8011f0e0a",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336714/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-8_task-random1_eeg.edf",
+  "size": 324664576,
+  "mime": "",
+  "digest": "e64afc5a27aea73c1845811fd96cb4d24abebbe4df53e4123dda73f449cd0ee0",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336719/download",
+  "status": "copied"
+ },
+ {
+  "path": "sub-8_task-random1_eeg.json",
+  "size": 477,
+  "mime": "application/json",
+  "digest": "d9aab4f0010600c0da11595547ab487c27e078fc9138ad83623086eb0e352ffa",
+  "digestType": "sha-256",
+  "download": "/api/v2/files/2336715/download",
+  "status": "copied"
+ }
+]

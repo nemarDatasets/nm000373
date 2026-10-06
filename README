@@ -1,0 +1,48 @@
+# Intracranial entrainment reveals statistical learning across levels of abstraction
+
+Raw intracranial EEG (iEEG) from 8 neurosurgical patients with electrodes implanted for seizure monitoring, recorded
+while they viewed rapid streams of scene photographs with statistical structure at the category or exemplar level.
+
+## Source
+- Dryad: Sherman B, Aljishi A, Graves K, Quraishi I, Sivaraju A, Damisah E, Turk-Browne N. Data for: Intracranial
+  entrainment reveals statistical learning across levels of abstraction. doi:10.5061/dryad.q573n5tph (version
+  3, published 2023-07-07). License: CC0 1.0 (Dryad record
+  `https://spdx.org/licenses/CC0-1.0.html`; the Zenodo replica record 8018664 also states cc-zero).
+- Article: Sherman et al. (2023) J Cogn Neurosci, doi:10.1162/jocn_a_02012. Preprint: doi:10.1101/2023.01.11.523605.
+- Acquired from the Zenodo replica of the Dryad record (community "dryad", same DOI); every file matched the Dryad
+  API sha-256 digest. The original files are kept unchanged in `sourcedata/dryad-q573n5tph/`.
+
+## Task (from the release)
+- Category-level Structured (task-categorySL): trial-unique scene images whose categories were paired across
+  repetitions (e.g., beach always followed by canyon). 6/8 participants completed two runs (run-1, run-2).
+- Exemplar-level Structured (task-exemplarSL): 6 repeating scene images presented in fixed pairs.
+- Random (task-random): the same kind of 6-image set in random order (baseline).
+- Each image 250 ms, followed by a 250 ms inter-stimulus interval.
+
+## Recording (from the Dryad methods)
+- Natus NeuroWorks EEG system, 4096 Hz. Reference: an electrode chosen by the clinical team to minimize noise.
+- Triggers: a custom DAQ converted signals from the research computer into 8-bit triggers inserted into an open EEG
+  channel (TRIG). The authors state the iEEG files are the raw data, unprocessed except that the date information
+  in the file metadata was randomized for anonymity (EDF start date 01.01.85, patient field anonymized).
+
+## Conversion (what changed and what did not)
+- EDF files are byte-identical copies of the source files (sha-256 listed in `code/source_to_bids_mapping.tsv`).
+  No filtering, resampling, re-referencing or channel removal.
+- Renaming: sub-N -> sub-0N; task-categorySL1/2 -> task-categorySL run-1/2; task-exemplarSL1 -> task-exemplarSL
+  run-1; task-random1 -> task-random run-1; datatype eeg -> ieeg.
+- channels.tsv: names, units, cut-offs and status from the source channels.tsv. Intracranial contacts keep the
+  source type label `EEG` because the release does not say which electrodes are grids, strips or depths. Channels
+  the source README says to disregard (C*, DC*, OSAT, PR, Pleth) are typed MISC, ECG/EMG as such, TRIG as TRIG.
+  The `group` column is the electrode prefix of the contact name.
+- events.tsv: one row per TRIG pulse (onset = first sample away from the run's resting TRIG level, duration = until it
+  returns, value = the sequence of TRIG levels in the pulse),
+  plus the rows of the source events.tsv where the release has one (sub-3).
+- Electrodes: `allContacts_MNIcoords.csv` copied verbatim into `*_space-MNI152NLin6Asym_electrodes.tsv`. The values
+  are positive integers consistent with FSL MNI152 2 mm voxel indices, so units are declared n/a and the values are
+  not converted (see coordsystem.json for the affine, an unverified assumption). For sub-01 the labels R1 and R2 each
+  appear twice in the source file with different coordinates and are not among the recorded channels; these 4
+  ambiguous rows are left out of electrodes.tsv (the original file is in sourcedata).
+- participants.tsv: age, sex and handedness are not given in the Dryad release (n/a).
+
+## Notes
+- Stimulus photographs are not part of the release and not included here.

@@ -1,0 +1,20 @@
+{
+  "TaskName": "exemplarSL",
+  "TaskDescription": "Exemplar-level Structured condition: a sequence of 6 repeating scene images (non-overlapping scene categories) presented in fixed pairs (image A always followed by image B). Each image 250 ms, then 250 ms inter-stimulus interval.",
+  "Instructions": "n/a",
+  "SamplingFrequency": 4096.0,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "HardwareFilters": "n/a",
+  "Manufacturer": "Natus",
+  "ManufacturersModelName": "NeuroWorks",
+  "iEEGReference": "Signals were referenced to an electrode chosen by the clinical team to minimize noise in the recording (Dryad methods).",
+  "RecordingDuration": 134.046875,
+  "RecordingType": "continuous",
+  "EEGChannelCount": 183,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 92,
+  "TriggerChannelCount": 1,
+  "ElectricalStimulation": false
+}
