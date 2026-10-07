@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "Intracranial entrainment reveals statistical learning across levels of abstraction (Sherman et al., 2023): raw iEEG from 8 neurosurgical patients",
+  "description": "Raw intracranial EEG (iEEG) recorded from 8 neurosurgical patients with electrodes implanted for seizure monitoring. Patients viewed rapid streams of scene photographs containing statistical structure at either the category level or the exemplar level, alongside a random-order baseline. The data were used to test whether neural entrainment reveals statistical learning across levels of abstraction. This release is a BIDS conversion of the original Dryad data.",
+  "methods_description": "Recordings used a Natus NeuroWorks EEG system sampled at 4096 Hz, with a reference electrode chosen by the clinical team to minimize noise. Scene images were shown for 250 ms each, followed by a 250 ms inter-stimulus interval, in category-structured, exemplar-structured, and random conditions. A custom DAQ inserted 8-bit triggers into an open EEG channel (TRIG). The EDF files are unprocessed apart from anonymization of the date information.",
+  "license": "CC0-1.0",
+  "dataset_type": "raw",
   "authors": {
     "Brynn Sherman": {
       "orcid": "0000-0002-5071-7101",
@@ -19,6 +24,30 @@
     "Eyiyemisi Damisah": {},
     "Nicholas Turk-Browne": {}
   },
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "statistical learning"
+    },
+    {
+      "term": "neural entrainment"
+    },
+    {
+      "term": "scene perception"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "Electrocorticography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.5061/dryad.q573n5tph",
@@ -54,14 +83,11 @@
       "funder_name": "Canadian Institute for Advanced Research"
     }
   ],
-  "title": "Intracranial entrainment reveals statistical learning across levels of abstraction (Sherman et al., 2023): raw iEEG from 8 neurosurgical patients",
-  "license": "CC0-1.0",
-  "dataset_type": "raw",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
     "8.75 GB (31 files)"
   ],
@@ -72,33 +98,8 @@
     ".log",
     ".md",
     ".py",
-    ".tsv"
+    ".tsv",
+    ".yml"
   ],
-  "description": "Raw intracranial EEG (iEEG) recorded from 8 neurosurgical patients with electrodes implanted for seizure monitoring while they viewed rapid streams of scene photographs. Streams contained statistical structure at either the category or exemplar level, plus a random baseline condition, allowing neural entrainment to learned structure to be examined across levels of abstraction. The data are converted to iEEG-BIDS from the original Dryad release without signal modification.",
-  "methods_description": "Recordings used a Natus NeuroWorks EEG system sampled at 4096 Hz, with a reference electrode chosen by the clinical team to minimize noise. Scene images were shown for 250 ms followed by a 250 ms inter-stimulus interval. Triggers from a custom DAQ were inserted as 8-bit codes into an open EEG channel (TRIG), and events were decoded from this channel.",
-  "keywords": [
-    {
-      "term": "intracranial EEG"
-    },
-    {
-      "term": "statistical learning"
-    },
-    {
-      "term": "neural entrainment"
-    },
-    {
-      "term": "scene perception"
-    },
-    {
-      "term": "Epilepsy",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
-    },
-    {
-      "term": "Electrocorticography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
-    }
-  ],
-  "source_hash": "fb5850c46c4bef214e7b67be97316b71d07e029cb7069a70d619e9741829cb5c"
+  "source_hash": "d3b49beb4441dbc575ae57c3d0ac5afb9629d70db951d589e87ff82b19ea9d8e"
 }
