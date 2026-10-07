@@ -18,6 +18,9 @@
     "U.S. National Science Foundation",
     "Canadian Institute for Advanced Research"
   ],
+  "EthicsApprovals": [
+    "Patients were recruited through the Yale Comprehensive Epilepsy Center and provided informed consent in a manner approved by the Yale University Human Subjects Committee."
+  ],
   "ReferencesAndLinks": [
     "https://doi.org/10.1162/jocn_a_02012",
     "https://doi.org/10.5061/dryad.q573n5tph",
