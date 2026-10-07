@@ -8,7 +8,12 @@
     "Units": "s"
   },
   "trial_type": {
-    "Description": "'trigger' = a TRIG pulse. Source README: 'Triggers were sent at the onset of each image; specifically, the trigger channel was set to be above 0 starting at the onset of the screen flip, and was set back to 0 at the end of a screen flip (when the image was presented).' Other values are copied from the source events.tsv (present for sub-3 only in the release)."
+    "Description": "'trigger' = a TRIG pulse. Source README: 'Triggers were sent at the onset of each image; specifically, the trigger channel was set to be above 0 starting at the onset of the screen flip, and was set back to 0 at the end of a screen flip (when the image was presented).' Other values are copied from the source events.tsv (present for sub-3 only in the release).",
+    "Levels": {
+      "trigger": "a TRIG pulse decoded from the TRIG channel (one per image onset per the source README)",
+      "ntb_bs_testing_categ3_v2": "label copied verbatim from the source events.tsv (sub-3 only); its meaning is not documented in the release",
+      "ntb_bs_testing_categ4_v2": "label copied verbatim from the source events.tsv (sub-3 only); its meaning is not documented in the release"
+    }
   },
   "value": {
     "Description": "For source=TRIG: the sequence of TRIG levels (separated by |) between leaving and returning to the resting level, read from the EDF in physical units (8-bit trigger codes written by the experiment DAQ into the open TRIG channel; the code meanings are not documented in the release). For source_events_tsv: value column of the source file."

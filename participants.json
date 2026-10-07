@@ -6,17 +6,38 @@
     "Description": "Participant label used in the Dryad file names"
   },
   "age": {
-    "Description": "Age in years (not given in the Dryad release)",
+    "Description": "Age in years as listed in Sherman et al. (2023) J Cogn Neurosci 35(8):1312-1328, doi:10.1162/jocn_a_02012, Methods Table 1 (\"Patient Demographics and Electrode Placement\"); paper patient ID N = release participant sub-N = BIDS sub-0N (mapping verified against the release electrode files, see README). Not given in the Dryad release itself. Cohort (paper): 8 patients, age range 21-61 years, mean 37.8 years.",
     "Units": "year"
   },
   "sex": {
-    "Description": "Sex (not given in the Dryad release)",
+    "Description": "Sex as listed in Sherman et al. (2023) J Cogn Neurosci 35(8):1312-1328, doi:10.1162/jocn_a_02012, Methods Table 1 (\"Patient Demographics and Electrode Placement\"); paper patient ID N = release participant sub-N = BIDS sub-0N (mapping verified against the release electrode files, see README) (paper: 'one woman'). Not given in the Dryad release itself.",
     "Levels": {
       "M": "male",
       "F": "female"
     }
   },
   "handedness": {
-    "Description": "Handedness (not given in the Dryad release)"
+    "Description": "Handedness: not reported in the Dryad release nor in Sherman et al. (2023) (n/a for all participants)."
+  },
+  "implant_type": {
+    "Description": "Implant type from Sherman et al. (2023) J Cogn Neurosci 35(8):1312-1328, doi:10.1162/jocn_a_02012, Methods Table 1 (\"Patient Demographics and Electrode Placement\"); paper patient ID N = release participant sub-N = BIDS sub-0N (mapping verified against the release electrode files, see README). Table 1 note: 'Implant type indicates whether the implanted electrodes were only depth electrodes (depth) or a combination of depth electrodes and grid/strip electrodes on the cortical surface (combined).'",
+    "Levels": {
+      "combined": "depth electrodes combined with subdural grid/strip electrodes on the cortical surface",
+      "depth": "depth electrodes only"
+    }
+  },
+  "hemisphere": {
+    "Description": "Cerebral hemisphere into which the electrodes were implanted, from Sherman et al. (2023) J Cogn Neurosci 35(8):1312-1328, doi:10.1162/jocn_a_02012, Methods Table 1 (\"Patient Demographics and Electrode Placement\"); paper patient ID N = release participant sub-N = BIDS sub-0N (mapping verified against the release electrode files, see README) (wording of the paper, lower-cased).",
+    "Levels": {
+      "left": "left hemisphere",
+      "right": "right hemisphere",
+      "primarily left": "mostly left hemisphere",
+      "primarily right": "mostly right hemisphere",
+      "bilateral": "both hemispheres"
+    }
+  },
+  "n_contacts_paper": {
+    "Description": "Number of electrode contacts (nContacts) per Sherman et al. (2023) J Cogn Neurosci 35(8):1312-1328, doi:10.1162/jocn_a_02012, Methods Table 1 (\"Patient Demographics and Electrode Placement\"); paper patient ID N = release participant sub-N = BIDS sub-0N (mapping verified against the release electrode files, see README). The release files list slightly more contact labels per participant (the MNI coordinate file has 226/123/198/122/178/176/159/166 rows for sub-1..8, and channels.tsv has more EEG-type channels); the paper count is reported as published and the difference is not explained in the sources.",
+    "Units": "count"
   }
 }

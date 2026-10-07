@@ -1,7 +1,7 @@
 {
   "TaskName": "random",
   "TaskDescription": "Random (baseline) condition: the 6 repeating scene images presented in random temporal order. Each image 250 ms, then 250 ms inter-stimulus interval.",
-  "Instructions": "n/a",
+  "Instructions": "Participants passively viewed a rapid stream of scene images and were asked to pay attention to each image. They were not told the names of the scenes or scene categories (Sherman et al. 2023, Methods, Procedure).",
   "SamplingFrequency": 4096.0,
   "PowerLineFrequency": 60,
   "SoftwareFilters": "n/a",
@@ -16,5 +16,11 @@
   "EMGChannelCount": 0,
   "MiscChannelCount": 105,
   "TriggerChannelCount": 1,
-  "ElectricalStimulation": false
+  "ElectricalStimulation": false,
+  "InstitutionName": "Yale New Haven Hospital",
+  "InstitutionAddress": "New Haven, CT, USA",
+  "iEEGPlacementScheme": "Clinically determined implant (Sherman et al. 2023: 'Electrode placement was determined solely by the clinical care team to localize seizure foci'). Table 1: implant type depth electrodes only; hemisphere: bilateral; 155 contacts.",
+  "StimulusPresentation": {
+    "SoftwareName": "MATLAB (The MathWorks) with the Psychophysics Toolbox; experiment run on a laptop while the participant was seated in the hospital bed (Sherman et al. 2023, Methods, Stimuli and Procedure)"
+  }
 }

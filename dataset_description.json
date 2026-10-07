@@ -12,11 +12,11 @@
     "Eyiyemisi Damisah",
     "Nicholas Turk-Browne"
   ],
-  "Acknowledgements": "Original data collected and released by the authors on Dryad (doi:10.5061/dryad.q573n5tph). Converted to iEEG-BIDS for NEMAR without signal modification.",
-  "HowToAcknowledge": "Please cite Sherman et al. (2023) J Cogn Neurosci, doi:10.1162/jocn_a_02012, and the Dryad dataset doi:10.5061/dryad.q573n5tph.",
+  "Acknowledgements": "Original data collected and released by the authors on Dryad (doi:10.5061/dryad.q573n5tph). Converted to iEEG-BIDS for NEMAR without signal modification. Article acknowledgments (Sherman et al. 2023): 'We are grateful to the patients who participated in the study and to the physicians, fellows, and support staff who cared for them at the Yale New Haven Hospital. We thank Kun Wu for providing the electrode reconstructions; Simon Henin for advice on statistical analyses; Erica Busch for advice on the brain wide analyses; and Isabella Huang, Alene Sherman, and Bryna Shuman for contributing images used in Figure 1.'",
+  "HowToAcknowledge": "Please cite Sherman BE, Aljishi A, Graves KN, Quraishi IH, Sivaraju A, Damisah EC, Turk-Browne NB (2023). Intracranial Entrainment Reveals Statistical Learning across Levels of Abstraction. Journal of Cognitive Neuroscience 35(8):1312-1328, doi:10.1162/jocn_a_02012, and the Dryad dataset doi:10.5061/dryad.q573n5tph.",
   "Funding": [
-    "U.S. National Science Foundation",
-    "Canadian Institute for Advanced Research"
+    "U.S. National Science Foundation: Graduate Research Fellowship to B. E. Sherman (Funder ID 10.13039/100000001)",
+    "Canadian Institute for Advanced Research, to N. B. Turk-Browne (Funder ID 10.13039/100007631)"
   ],
   "EthicsApprovals": [
     "Patients were recruited through the Yale Comprehensive Epilepsy Center and provided informed consent in a manner approved by the Yale University Human Subjects Committee."
@@ -32,7 +32,10 @@
     "statistical learning",
     "neural entrainment",
     "scene perception",
-    "epilepsy"
+    "epilepsy",
+    "frequency tagging",
+    "concept formation",
+    "visual cortex"
   ],
   "SourceDatasets": [
     {
