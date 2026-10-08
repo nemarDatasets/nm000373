@@ -50,5 +50,7 @@
       "Description": "Byte-identical EDF copy; BIDS renaming and sidecars; events decoded from the source TRIG channel. Code in code/.",
       "CodeURL": "n/a"
     }
-  ]
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000373",
+  "Version": "1.0.0"
 }
