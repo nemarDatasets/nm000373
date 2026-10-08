@@ -1,123 +1,123 @@
-name	x	y	z	size	group
-RG5	35	35	73	n/a	RG
-RG10	35	39	75	n/a	RG
-RG15	37	44	75	n/a	RG
-RG20	38	50	76	n/a	RG
-RG4	30	35	74	n/a	RG
-RG9	30	39	76	n/a	RG
-RG14	31	44	75	n/a	RG
-RG19	32	50	74	n/a	RG
-RG3	25	35	72	n/a	RG
-RG8	25	40	74	n/a	RG
-RG13	26	45	74	n/a	RG
-RG18	27	51	74	n/a	RG
-RG2	21	37	68	n/a	RG
-RG7	21	41	70	n/a	RG
-RG12	22	47	71	n/a	RG
-RG17	23	52	71	n/a	RG
-RG1	16	38	65	n/a	RG
-RG6	17	43	67	n/a	RG
-RG11	18	48	67	n/a	RG
-RG16	20	53	67	n/a	RG
-RPID12	24	42	47	n/a	RPID
-RPID11	24	45	46	n/a	RPID
-RPID10	25	47	44	n/a	RPID
-RPID9	24	50	42	n/a	RPID
-RPID8	25	52	40	n/a	RPID
-RPID7	24	54	38	n/a	RPID
-RPID6	24	56	37	n/a	RPID
-RPID5	24	58	35	n/a	RPID
-RPID4	24	61	33	n/a	RPID
-RPID3	24	63	31	n/a	RPID
-RPID2	25	65	30	n/a	RPID
-RPID1	25	67	28	n/a	RPID
-RPCD12	15	34	59	n/a	RPCD
-RPCD11	17	36	60	n/a	RPCD
-RPCD10	21	38	60	n/a	RPCD
-RPCD9	24	39	60	n/a	RPCD
-RPCD8	27	41	60	n/a	RPCD
-RPCD7	29	43	59	n/a	RPCD
-RPCD6	32	44	59	n/a	RPCD
-RPCD5	33	46	59	n/a	RPCD
-RPCD4	36	47	59	n/a	RPCD
-RPCD3	38	49	59	n/a	RPCD
-RPCD2	40	50	60	n/a	RPCD
-RPCD1	42	52	60	n/a	RPCD
-RAi8	43	44	74	n/a	RAi
-RAi7	43	49	74	n/a	RAi
-RAi6	44	53	72	n/a	RAi
-RAi5	44	58	68	n/a	RAi
-RAi4	45	62	65	n/a	RAi
-RAi3	45	67	63	n/a	RAi
-RAi2	45	71	60	n/a	RAi
-RAi1	46	76	58	n/a	RAi
-RPi8	44	48	76	n/a	RPi
-RPi7	44	43	73	n/a	RPi
-RPi6	43	40	68	n/a	RPi
-RPi5	43	36	65	n/a	RPi
-RPi4	44	31	63	n/a	RPi
-RPi3	44	27	59	n/a	RPi
-RSP12	32	31	71	n/a	RSP
-RSP11	33	28	68	n/a	RSP
-RSP10	33	23	64	n/a	RSP
-RSP9	32	20	60	n/a	RSP
-RSP8	33	17	55	n/a	RSP
-RSP7	33	15	49	n/a	RSP
-RSP6	34	14	43	n/a	RSP
-RSP5	32	13	38	n/a	RSP
-RSP4	28	13	33	n/a	RSP
-RSP3	26	17	29	n/a	RSP
-RIP12	22	33	68	n/a	RIP
-RIP11	20	30	63	n/a	RIP
-RIP10	19	26	58	n/a	RIP
-RIP9	19	24	53	n/a	RIP
-RIP8	20	22	47	n/a	RIP
-RIP7	21	19	41	n/a	RIP
-RIP6	23	18	35	n/a	RIP
-RIP5	26	19	29	n/a	RIP
-RIP4	28	23	27	n/a	RIP
-RIP3	30	28	28	n/a	RIP
-RIP2	33	33	30	n/a	RIP
-RIP1	34	37	31	n/a	RIP
-RIF12	23	61	68	n/a	RIF
-RIF11	20	64	66	n/a	RIF
-RIF10	16	67	63	n/a	RIF
-RIF9	14	69	58	n/a	RIF
-RIF8	12	72	51	n/a	RIF
-RIF7	13	73	45	n/a	RIF
-RIF6	14	72	39	n/a	RIF
-RIF5	16	72	33	n/a	RIF
-RIF4	18	72	27	n/a	RIF
-RIF3	20	73	22	n/a	RIF
-RIF2	23	72	16	n/a	RIF
-RIF1	27	71	12	n/a	RIF
-RMF12	26	64	72	n/a	RMF
-RMF11	24	69	70	n/a	RMF
-RMF10	24	73	67	n/a	RMF
-RMF9	23	77	64	n/a	RMF
-RMF8	23	81	60	n/a	RMF
-RMF7	23	85	56	n/a	RMF
-RMF6	23	89	51	n/a	RMF
-RMF5	23	94	47	n/a	RMF
-RMF4	24	96	42	n/a	RMF
-RMF3	27	98	37	n/a	RMF
-RMF2	31	99	32	n/a	RMF
-RMF1	35	100	27	n/a	RMF
-RSF12	30	74	69	n/a	RSF
-RSF11	32	79	67	n/a	RSF
-RSF10	34	83	65	n/a	RSF
-RSF9	36	88	64	n/a	RSF
-RSF8	38	93	62	n/a	RSF
-RSF7	39	97	59	n/a	RSF
-RSF6	41	100	54	n/a	RSF
-RSF5	42	102	48	n/a	RSF
-RSF4	42	103	42	n/a	RSF
-RSF3	42	102	35	n/a	RSF
-RSF2	41	100	29	n/a	RSF
-RSF1	41	97	25	n/a	RSF
-RE2	42	75	82	n/a	RE
-RE1	36	76	80	n/a	RE
-GR4	29	29	70	n/a	GR
-GR3	28	25	66	n/a	GR
-GR2	27	22	61	n/a	GR
-GR1	27	19	56	n/a	GR
+name	x	y	z	size	group	atlas_label_AAL3v1	atlas_label_DesikanKilliany
+RG5	35	35	73	n/a	RG	Parietal_Sup_R	n/a
+RG10	35	39	75	n/a	RG	Parietal_Sup_R	n/a
+RG15	37	44	75	n/a	RG	Postcentral_R	ctx-rh-postcentral
+RG20	38	50	76	n/a	RG	Precentral_R	n/a
+RG4	30	35	74	n/a	RG	Parietal_Sup_R	n/a
+RG9	30	39	76	n/a	RG	Parietal_Sup_R	n/a
+RG14	31	44	75	n/a	RG	Postcentral_R	n/a
+RG19	32	50	74	n/a	RG	Precentral_R	n/a
+RG3	25	35	72	n/a	RG	Parietal_Sup_R	n/a
+RG8	25	40	74	n/a	RG	n/a	n/a
+RG13	26	45	74	n/a	RG	Postcentral_R	n/a
+RG18	27	51	74	n/a	RG	Precentral_R	n/a
+RG2	21	37	68	n/a	RG	Parietal_Sup_R	n/a
+RG7	21	41	70	n/a	RG	Postcentral_R	n/a
+RG12	22	47	71	n/a	RG	Postcentral_R	n/a
+RG17	23	52	71	n/a	RG	Precentral_R	n/a
+RG1	16	38	65	n/a	RG	n/a	n/a
+RG6	17	43	67	n/a	RG	Parietal_Sup_R	n/a
+RG11	18	48	67	n/a	RG	Postcentral_R	n/a
+RG16	20	53	67	n/a	RG	Postcentral_R	ctx-rh-postcentral
+RPID12	24	42	47	n/a	RPID	SupraMarginal_R	Right-Cerebral-White-Matter
+RPID11	24	45	46	n/a	RPID	Rolandic_Oper_R	ctx-rh-supramarginal
+RPID10	25	47	44	n/a	RPID	Temporal_Sup_R	ctx-rh-supramarginal
+RPID9	24	50	42	n/a	RPID	Heschl_R	ctx-rh-transversetemporal
+RPID8	25	52	40	n/a	RPID	Heschl_R	ctx-rh-transversetemporal
+RPID7	24	54	38	n/a	RPID	Insula_R	ctx-rh-transversetemporal
+RPID6	24	56	37	n/a	RPID	Insula_R	ctx-rh-insula
+RPID5	24	58	35	n/a	RPID	Insula_R	ctx-rh-insula
+RPID4	24	61	33	n/a	RPID	Insula_R	ctx-rh-insula
+RPID3	24	63	31	n/a	RPID	Insula_R	ctx-rh-insula
+RPID2	25	65	30	n/a	RPID	Insula_R	ctx-rh-insula
+RPID1	25	67	28	n/a	RPID	Insula_R	ctx-rh-insula
+RPCD12	15	34	59	n/a	RPCD	Parietal_Inf_R	n/a
+RPCD11	17	36	60	n/a	RPCD	Parietal_Inf_R	n/a
+RPCD10	21	38	60	n/a	RPCD	Parietal_Inf_R	ctx-rh-inferiorparietal
+RPCD9	24	39	60	n/a	RPCD	Parietal_Inf_R	n/a
+RPCD8	27	41	60	n/a	RPCD	Parietal_Inf_R	ctx-rh-superiorparietal
+RPCD7	29	43	59	n/a	RPCD	SupraMarginal_R	ctx-rh-superiorparietal
+RPCD6	32	44	59	n/a	RPCD	Postcentral_R	Right-Cerebral-White-Matter
+RPCD5	33	46	59	n/a	RPCD	Postcentral_R	Right-Cerebral-White-Matter
+RPCD4	36	47	59	n/a	RPCD	Cingulate_Mid_R	Right-Cerebral-White-Matter
+RPCD3	38	49	59	n/a	RPCD	Cingulate_Mid_R	ctx-rh-paracentral
+RPCD2	40	50	60	n/a	RPCD	Cingulate_Mid_R	ctx-rh-paracentral
+RPCD1	42	52	60	n/a	RPCD	Supp_Motor_Area_R	ctx-rh-paracentral
+RAi8	43	44	74	n/a	RAi	Paracentral_Lobule_R	ctx-rh-postcentral
+RAi7	43	49	74	n/a	RAi	Paracentral_Lobule_R	ctx-rh-precentral
+RAi6	44	53	72	n/a	RAi	Supp_Motor_Area_R	ctx-rh-paracentral
+RAi5	44	58	68	n/a	RAi	Supp_Motor_Area_R	ctx-rh-paracentral
+RAi4	45	62	65	n/a	RAi	Supp_Motor_Area_L	ctx-lh-superiorfrontal
+RAi3	45	67	63	n/a	RAi	Supp_Motor_Area_L	n/a
+RAi2	45	71	60	n/a	RAi	Supp_Motor_Area_L	n/a
+RAi1	46	76	58	n/a	RAi	Frontal_Sup_Medial_L	ctx-lh-superiorfrontal
+RPi8	44	48	76	n/a	RPi	Paracentral_Lobule_R	n/a
+RPi7	44	43	73	n/a	RPi	Paracentral_Lobule_R	ctx-rh-postcentral
+RPi6	43	40	68	n/a	RPi	Precuneus_R	ctx-rh-precuneus
+RPi5	43	36	65	n/a	RPi	Precuneus_R	ctx-rh-precuneus
+RPi4	44	31	63	n/a	RPi	Precuneus_R	ctx-rh-precuneus
+RPi3	44	27	59	n/a	RPi	Precuneus_L	ctx-rh-precuneus
+RSP12	32	31	71	n/a	RSP	Parietal_Sup_R	n/a
+RSP11	33	28	68	n/a	RSP	Parietal_Sup_R	n/a
+RSP10	33	23	64	n/a	RSP	Parietal_Sup_R	n/a
+RSP9	32	20	60	n/a	RSP	Occipital_Sup_R	n/a
+RSP8	33	17	55	n/a	RSP	Occipital_Sup_R	n/a
+RSP7	33	15	49	n/a	RSP	Occipital_Sup_R	n/a
+RSP6	34	14	43	n/a	RSP	Occipital_Sup_R	ctx-rh-lateraloccipital
+RSP5	32	13	38	n/a	RSP	Occipital_Mid_R	ctx-rh-lateraloccipital
+RSP4	28	13	33	n/a	RSP	Occipital_Inf_R	n/a
+RSP3	26	17	29	n/a	RSP	Occipital_Inf_R	ctx-rh-lateraloccipital
+RIP12	22	33	68	n/a	RIP	Parietal_Sup_R	n/a
+RIP11	20	30	63	n/a	RIP	Angular_R	n/a
+RIP10	19	26	58	n/a	RIP	Angular_R	n/a
+RIP9	19	24	53	n/a	RIP	Angular_R	n/a
+RIP8	20	22	47	n/a	RIP	Occipital_Mid_R	n/a
+RIP7	21	19	41	n/a	RIP	Occipital_Mid_R	n/a
+RIP6	23	18	35	n/a	RIP	Occipital_Inf_R	ctx-rh-lateraloccipital
+RIP5	26	19	29	n/a	RIP	Occipital_Inf_R	ctx-rh-lateraloccipital
+RIP4	28	23	27	n/a	RIP	Lingual_R	ctx-rh-lateraloccipital
+RIP3	30	28	28	n/a	RIP	Fusiform_R	ctx-rh-fusiform
+RIP2	33	33	30	n/a	RIP	Fusiform_R	ctx-rh-fusiform
+RIP1	34	37	31	n/a	RIP	Lingual_R	ctx-rh-lingual
+RIF12	23	61	68	n/a	RIF	Frontal_Mid_2_R	n/a
+RIF11	20	64	66	n/a	RIF	Frontal_Mid_2_R	n/a
+RIF10	16	67	63	n/a	RIF	n/a	n/a
+RIF9	14	69	58	n/a	RIF	Precentral_R	n/a
+RIF8	12	72	51	n/a	RIF	Frontal_Inf_Oper_R	n/a
+RIF7	13	73	45	n/a	RIF	Frontal_Inf_Oper_R	n/a
+RIF6	14	72	39	n/a	RIF	Frontal_Inf_Oper_R	n/a
+RIF5	16	72	33	n/a	RIF	Temporal_Pole_Sup_R	n/a
+RIF4	18	72	27	n/a	RIF	Temporal_Pole_Sup_R	n/a
+RIF3	20	73	22	n/a	RIF	Temporal_Pole_Mid_R	ctx-rh-superiortemporal
+RIF2	23	72	16	n/a	RIF	Temporal_Pole_Mid_R	ctx-rh-temporalpole
+RIF1	27	71	12	n/a	RIF	Temporal_Pole_Mid_R	n/a
+RMF12	26	64	72	n/a	RMF	n/a	n/a
+RMF11	24	69	70	n/a	RMF	n/a	n/a
+RMF10	24	73	67	n/a	RMF	n/a	n/a
+RMF9	23	77	64	n/a	RMF	n/a	n/a
+RMF8	23	81	60	n/a	RMF	n/a	n/a
+RMF7	23	85	56	n/a	RMF	Frontal_Mid_2_R	n/a
+RMF6	23	89	51	n/a	RMF	Frontal_Mid_2_R	n/a
+RMF5	23	94	47	n/a	RMF	n/a	n/a
+RMF4	24	96	42	n/a	RMF	n/a	n/a
+RMF3	27	98	37	n/a	RMF	n/a	n/a
+RMF2	31	99	32	n/a	RMF	n/a	n/a
+RMF1	35	100	27	n/a	RMF	n/a	n/a
+RSF12	30	74	69	n/a	RSF	Frontal_Sup_2_R	n/a
+RSF11	32	79	67	n/a	RSF	Frontal_Sup_2_R	n/a
+RSF10	34	83	65	n/a	RSF	Frontal_Sup_2_R	n/a
+RSF9	36	88	64	n/a	RSF	n/a	n/a
+RSF8	38	93	62	n/a	RSF	n/a	n/a
+RSF7	39	97	59	n/a	RSF	n/a	n/a
+RSF6	41	100	54	n/a	RSF	n/a	n/a
+RSF5	42	102	48	n/a	RSF	n/a	n/a
+RSF4	42	103	42	n/a	RSF	n/a	n/a
+RSF3	42	102	35	n/a	RSF	n/a	n/a
+RSF2	41	100	29	n/a	RSF	n/a	n/a
+RSF1	41	97	25	n/a	RSF	OFCmed_R	n/a
+RE2	42	75	82	n/a	RE	n/a	n/a
+RE1	36	76	80	n/a	RE	n/a	n/a
+GR4	29	29	70	n/a	GR	Parietal_Sup_R	n/a
+GR3	28	25	66	n/a	GR	Parietal_Sup_R	n/a
+GR2	27	22	61	n/a	GR	Parietal_Sup_R	n/a
+GR1	27	19	56	n/a	GR	Occipital_Mid_R	n/a

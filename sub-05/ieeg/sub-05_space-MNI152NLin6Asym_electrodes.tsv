@@ -1,179 +1,179 @@
-name	x	y	z	size	group
-AID12	63	71	58	n/a	AID
-AID11	63	70	55	n/a	AID
-AID10	63	69	53	n/a	AID
-AID9	63	69	50	n/a	AID
-AID8	63	68	48	n/a	AID
-AID7	63	68	46	n/a	AID
-AID6	63	67	44	n/a	AID
-AID5	63	67	41	n/a	AID
-AID4	63	66	38	n/a	AID
-AID3	63	66	36	n/a	AID
-AID2	63	66	33	n/a	AID
-AID1	64	65	30	n/a	AID
-ACD12	64	86	62	n/a	ACD
-ACD11	64	87	60	n/a	ACD
-ACD10	63	86	58	n/a	ACD
-ACD9	61	85	57	n/a	ACD
-ACD8	59	83	55	n/a	ACD
-ACD7	57	82	54	n/a	ACD
-ACD6	56	81	52	n/a	ACD
-ACD5	54	80	51	n/a	ACD
-ACD4	52	80	49	n/a	ACD
-ACD3	50	80	48	n/a	ACD
-ACD2	48	80	46	n/a	ACD
-ACD1	46	79	44	n/a	ACD
-HD8	75	50	32	n/a	HD
-HD7	72	50	31	n/a	HD
-HD6	69	51	31	n/a	HD
-HD5	66	50	31	n/a	HD
-HD4	63	49	31	n/a	HD
-HD3	60	49	30	n/a	HD
-HD2	58	49	30	n/a	HD
-HD1	54	49	30	n/a	HD
-CSD12	83	38	38	n/a	CSD
-CSD11	82	41	36	n/a	CSD
-CSD6	75	50	30	n/a	CSD
-CSD5	72	50	29	n/a	CSD
-CSD4	70	50	27	n/a	CSD
-CSD3	67	50	26	n/a	CSD
-CSD2	65	50	25	n/a	CSD
-CSD1	62	50	24	n/a	CSD
-AD12	82	52	33	n/a	AD
-AD11	81	54	33	n/a	AD
-AD10	79	56	33	n/a	AD
-AD9	76	56	33	n/a	AD
-AD8	73	57	33	n/a	AD
-AD7	70	57	32	n/a	AD
-AD6	68	57	31	n/a	AD
-AD5	65	58	31	n/a	AD
-AD4	63	58	31	n/a	AD
-AD3	60	58	30	n/a	AD
-AD2	58	59	30	n/a	AD
-AD1	55	59	29	n/a	AD
-OF12	67	79	28	n/a	OF
-OF11	63	78	26	n/a	OF
-OF10	58	78	25	n/a	OF
-OF9	52	78	24	n/a	OF
-OF8	45	77	23	n/a	OF
-OF7	39	77	23	n/a	OF
-OF6	34	76	24	n/a	OF
-OF5	79	48	33	n/a	OF
-OF4	26	76	28	n/a	OF
-OF3	22	75	31	n/a	OF
-OF2	19	75	35	n/a	OF
-OF1	17	75	40	n/a	OF
-GMF8	70	87	39	n/a	GMF
-GMF16	70	87	35	n/a	GMF
-GMF7	66	90	40	n/a	GMF
-GMF15	67	91	35	n/a	GMF
-GMF6	62	94	41	n/a	GMF
-GMF14	63	95	35	n/a	GMF
-GMF5	58	97	41	n/a	GMF
-GMF13	59	99	36	n/a	GMF
-GMF4	54	101	42	n/a	GMF
-GMF12	55	102	37	n/a	GMF
-AMT8	74	69	20	n/a	AMT
-AMT7	71	67	17	n/a	AMT
-AMT6	67	65	15	n/a	AMT
-AMT5	62	61	17	n/a	AMT
-AMT4	60	58	20	n/a	AMT
-AMT3	57	54	23	n/a	AMT
-AMT2	55	50	25	n/a	AMT
-ALa6	78	59	20	n/a	ALa
-ALa5	74	55	19	n/a	ALa
-ALa4	69	53	21	n/a	ALa
-ALa3	64	50	22	n/a	ALa
-ALa2	59	47	24	n/a	ALa
-ALb4	78	54	21	n/a	ALb
-ALb3	73	52	21	n/a	ALb
-ALb2	67	51	22	n/a	ALb
-ALb1	61	50	22	n/a	ALb
-MT8	79	44	28	n/a	MT
-MT7	75	41	26	n/a	MT
-MT6	70	38	25	n/a	MT
-MT5	66	35	25	n/a	MT
-MT4	61	34	27	n/a	MT
-MT3	56	33	29	n/a	MT
-MT2	51	31	32	n/a	MT
-MT1	48	29	35	n/a	MT
-PT12	79	35	42	n/a	PT
-PT11	77	30	40	n/a	PT
-PT10	74	25	38	n/a	PT
-PT9	71	21	37	n/a	PT
-PT8	67	17	35	n/a	PT
-PT7	63	14	33	n/a	PT
-PT6	58	12	31	n/a	PT
-PT5	53	11	31	n/a	PT
-PT4	47	13	30	n/a	PT
-PT3	44	16	32	n/a	PT
-PT2	44	21	35	n/a	PT
-PT1	45	25	38	n/a	PT
-SO8	75	46	64	n/a	SO
-SO7	71	41	66	n/a	SO
-SO6	67	37	68	n/a	SO
-SO5	62	33	69	n/a	SO
-SO4	58	29	70	n/a	SO
-SO3	53	26	69	n/a	SO
-GFT8	71	82	37	n/a	GFT
-GFT16	73	78	40	n/a	GFT
-GFT24	73	74	43	n/a	GFT
-GFT32	74	70	47	n/a	GFT
-GFT40	76	67	51	n/a	GFT
-GFT48	77	63	55	n/a	GFT
-GFT56	76	59	59	n/a	GFT
-GFT64	75	56	63	n/a	GFT
-GFT7	70	78	33	n/a	GFT
-GFT15	72	74	36	n/a	GFT
-GFT23	74	71	40	n/a	GFT
-GFT31	76	67	43	n/a	GFT
-GFT39	78	63	47	n/a	GFT
-GFT47	79	60	52	n/a	GFT
-GFT55	79	56	56	n/a	GFT
-GFT63	79	52	60	n/a	GFT
-GFT6	70	74	30	n/a	GFT
-GFT14	73	71	32	n/a	GFT
-GFT22	76	67	35	n/a	GFT
-GFT30	78	63	39	n/a	GFT
-GFT38	79	60	44	n/a	GFT
-GFT46	81	57	49	n/a	GFT
-GFT54	81	53	53	n/a	GFT
-GFT62	81	49	57	n/a	GFT
-GFT5	72	71	25	n/a	GFT
-GFT13	75	68	27	n/a	GFT
-GFT21	78	64	31	n/a	GFT
-GFT29	80	60	35	n/a	GFT
-GFT37	81	56	41	n/a	GFT
-GFT45	82	53	45	n/a	GFT
-GFT53	82	49	49	n/a	GFT
-GFT61	81	45	54	n/a	GFT
-GFT4	74	68	20	n/a	GFT
-GFT12	76	65	23	n/a	GFT
-GFT20	81	61	27	n/a	GFT
-GFT28	82	57	31	n/a	GFT
-GFT36	82	52	37	n/a	GFT
-GFT44	83	49	42	n/a	GFT
-GFT52	82	45	46	n/a	GFT
-GFT60	81	41	50	n/a	GFT
-GFT3	74	65	16	n/a	GFT
-GFT11	78	63	19	n/a	GFT
-GFT19	81	57	24	n/a	GFT
-GFT27	82	54	28	n/a	GFT
-GFT35	82	49	34	n/a	GFT
-GFT43	83	45	38	n/a	GFT
-GFT51	81	42	42	n/a	GFT
-GFT59	80	37	46	n/a	GFT
-Re4	73	49	67	n/a	Re
-Re3	70	45	69	n/a	Re
-Re2	67	40	70	n/a	Re
-Re1	64	34	71	n/a	Re
-Gr2	65	92	53	n/a	Gr
-Gr1	62	93	56	n/a	Gr
-IO8	80	39	54	n/a	IO
-IO7	77	35	57	n/a	IO
-IO6	73	32	60	n/a	IO
-IO5	68	28	62	n/a	IO
-IO4	64	26	64	n/a	IO
-IO3	59	24	66	n/a	IO
-IO2	53	24	66	n/a	IO
-IO1	48	25	65	n/a	IO
+name	x	y	z	size	group	atlas_label_AAL3v1	atlas_label_DesikanKilliany
+AID12	63	71	58	n/a	AID	Frontal_Mid_2_L	Left-Cerebral-White-Matter
+AID11	63	70	55	n/a	AID	Frontal_Mid_2_L	Left-Cerebral-White-Matter
+AID10	63	69	53	n/a	AID	Frontal_Mid_2_L	Left-Cerebral-White-Matter
+AID9	63	69	50	n/a	AID	Frontal_Inf_Oper_L	ctx-lh-caudalmiddlefrontal
+AID8	63	68	48	n/a	AID	Frontal_Inf_Tri_L	ctx-lh-parsopercularis
+AID7	63	68	46	n/a	AID	Frontal_Inf_Oper_L	Left-Cerebral-White-Matter
+AID6	63	67	44	n/a	AID	Frontal_Inf_Oper_L	Left-Cerebral-White-Matter
+AID5	63	67	41	n/a	AID	Insula_L	ctx-lh-parsopercularis
+AID4	63	66	38	n/a	AID	Insula_L	ctx-lh-insula
+AID3	63	66	36	n/a	AID	Insula_L	ctx-lh-insula
+AID2	63	66	33	n/a	AID	Insula_L	Left-Cerebral-White-Matter
+AID1	64	65	30	n/a	AID	Insula_L	ctx-lh-insula
+ACD12	64	86	62	n/a	ACD	n/a	n/a
+ACD11	64	87	60	n/a	ACD	n/a	n/a
+ACD10	63	86	58	n/a	ACD	n/a	n/a
+ACD9	61	85	57	n/a	ACD	Frontal_Sup_2_L	n/a
+ACD8	59	83	55	n/a	ACD	Frontal_Sup_2_L	n/a
+ACD7	57	82	54	n/a	ACD	Frontal_Sup_2_L	ctx-lh-rostralmiddlefrontal
+ACD6	56	81	52	n/a	ACD	Frontal_Sup_2_L	Left-Cerebral-White-Matter
+ACD5	54	80	51	n/a	ACD	Frontal_Sup_2_L	Left-Cerebral-White-Matter
+ACD4	52	80	49	n/a	ACD	Frontal_Sup_Medial_L	Left-Cerebral-White-Matter
+ACD3	50	80	48	n/a	ACD	ACC_sup_L	ctx-lh-superiorfrontal
+ACD2	48	80	46	n/a	ACD	ACC_sup_L	ctx-lh-caudalanteriorcingulate
+ACD1	46	79	44	n/a	ACD	ACC_sup_L	ctx-lh-caudalanteriorcingulate
+HD8	75	50	32	n/a	HD	Temporal_Mid_L	ctx-lh-middletemporal
+HD7	72	50	31	n/a	HD	Temporal_Mid_L	ctx-lh-middletemporal
+HD6	69	51	31	n/a	HD	Temporal_Mid_L	ctx-lh-superiortemporal
+HD5	66	50	31	n/a	HD	Temporal_Mid_L	Left-Cerebral-White-Matter
+HD4	63	49	31	n/a	HD	Hippocampus_L	ctx-lh-unknown
+HD3	60	49	30	n/a	HD	Hippocampus_L	Left-Hippocampus
+HD2	58	49	30	n/a	HD	Hippocampus_L	Left-Hippocampus
+HD1	54	49	30	n/a	HD	Hippocampus_L	Left-Hippocampus
+CSD12	83	38	38	n/a	CSD	n/a	n/a
+CSD11	82	41	36	n/a	CSD	n/a	n/a
+CSD6	75	50	30	n/a	CSD	Temporal_Mid_L	ctx-lh-middletemporal
+CSD5	72	50	29	n/a	CSD	Temporal_Mid_L	Left-Cerebral-White-Matter
+CSD4	70	50	27	n/a	CSD	Temporal_Inf_L	Left-Cerebral-White-Matter
+CSD3	67	50	26	n/a	CSD	Temporal_Inf_L	Left-Cerebral-White-Matter
+CSD2	65	50	25	n/a	CSD	Temporal_Inf_L	ctx-lh-fusiform
+CSD1	62	50	24	n/a	CSD	Fusiform_L	ctx-lh-parahippocampal
+AD12	82	52	33	n/a	AD	Temporal_Mid_L	n/a
+AD11	81	54	33	n/a	AD	Temporal_Mid_L	n/a
+AD10	79	56	33	n/a	AD	Temporal_Mid_L	n/a
+AD9	76	56	33	n/a	AD	Temporal_Mid_L	ctx-lh-superiortemporal
+AD8	73	57	33	n/a	AD	Temporal_Mid_L	Left-Cerebral-White-Matter
+AD7	70	57	32	n/a	AD	Temporal_Mid_L	Left-Cerebral-White-Matter
+AD6	68	57	31	n/a	AD	Temporal_Sup_L	ctx-lh-superiortemporal
+AD5	65	58	31	n/a	AD	Temporal_Sup_L	ctx-lh-insula
+AD4	63	58	31	n/a	AD	Temporal_Sup_L	ctx-lh-insula
+AD3	60	58	30	n/a	AD	Hippocampus_L	Left-Putamen
+AD2	58	59	30	n/a	AD	Amygdala_L	Left-Cerebral-White-Matter
+AD1	55	59	29	n/a	AD	Hippocampus_L	Left-Amygdala
+OF12	67	79	28	n/a	OF	OFClat_L	ctx-lh-parsorbitalis
+OF11	63	78	26	n/a	OF	OFCpost_L	ctx-lh-lateralorbitofrontal
+OF10	58	78	25	n/a	OF	OFCant_L	ctx-lh-lateralorbitofrontal
+OF9	52	78	24	n/a	OF	OFCmed_L	ctx-lh-lateralorbitofrontal
+OF8	45	77	23	n/a	OF	Rectus_L	ctx-lh-medialorbitofrontal
+OF7	39	77	23	n/a	OF	OFCmed_R	ctx-rh-lateralorbitofrontal
+OF6	34	76	24	n/a	OF	OFCmed_R	ctx-rh-lateralorbitofrontal
+OF5	79	48	33	n/a	OF	Temporal_Mid_L	n/a
+OF4	26	76	28	n/a	OF	OFCpost_R	Right-Cerebral-White-Matter
+OF3	22	75	31	n/a	OF	Frontal_Inf_Orb_2_R	ctx-rh-parsorbitalis
+OF2	19	75	35	n/a	OF	Frontal_Inf_Tri_R	ctx-rh-parstriangularis
+OF1	17	75	40	n/a	OF	Frontal_Inf_Tri_R	ctx-rh-parstriangularis
+GMF8	70	87	39	n/a	GMF	Frontal_Inf_Tri_L	n/a
+GMF16	70	87	35	n/a	GMF	Frontal_Mid_2_L	n/a
+GMF7	66	90	40	n/a	GMF	Frontal_Mid_2_L	ctx-lh-rostralmiddlefrontal
+GMF15	67	91	35	n/a	GMF	Frontal_Mid_2_L	ctx-lh-rostralmiddlefrontal
+GMF6	62	94	41	n/a	GMF	Frontal_Mid_2_L	n/a
+GMF14	63	95	35	n/a	GMF	Frontal_Sup_2_L	n/a
+GMF5	58	97	41	n/a	GMF	Frontal_Sup_2_L	n/a
+GMF13	59	99	36	n/a	GMF	n/a	n/a
+GMF4	54	101	42	n/a	GMF	n/a	n/a
+GMF12	55	102	37	n/a	GMF	n/a	n/a
+AMT8	74	69	20	n/a	AMT	Temporal_Pole_Mid_L	n/a
+AMT7	71	67	17	n/a	AMT	Temporal_Pole_Mid_L	ctx-lh-middletemporal
+AMT6	67	65	15	n/a	AMT	Temporal_Inf_L	ctx-lh-inferiortemporal
+AMT5	62	61	17	n/a	AMT	Temporal_Inf_L	Left-Cerebral-White-Matter
+AMT4	60	58	20	n/a	AMT	Fusiform_L	ctx-lh-entorhinal
+AMT3	57	54	23	n/a	AMT	ParaHippocampal_L	Left-Hippocampus
+AMT2	55	50	25	n/a	AMT	ParaHippocampal_L	ctx-lh-parahippocampal
+ALa6	78	59	20	n/a	ALa	n/a	n/a
+ALa5	74	55	19	n/a	ALa	Temporal_Inf_L	ctx-lh-inferiortemporal
+ALa4	69	53	21	n/a	ALa	Temporal_Inf_L	Left-Cerebral-White-Matter
+ALa3	64	50	22	n/a	ALa	Fusiform_L	ctx-lh-fusiform
+ALa2	59	47	24	n/a	ALa	Fusiform_L	ctx-lh-parahippocampal
+ALb4	78	54	21	n/a	ALb	Temporal_Inf_L	n/a
+ALb3	73	52	21	n/a	ALb	Temporal_Inf_L	ctx-lh-inferiortemporal
+ALb2	67	51	22	n/a	ALb	Temporal_Inf_L	ctx-lh-inferiortemporal
+ALb1	61	50	22	n/a	ALb	Fusiform_L	ctx-lh-parahippocampal
+MT8	79	44	28	n/a	MT	Temporal_Inf_L	ctx-lh-middletemporal
+MT7	75	41	26	n/a	MT	Temporal_Inf_L	ctx-lh-inferiortemporal
+MT6	70	38	25	n/a	MT	Temporal_Inf_L	ctx-lh-inferiortemporal
+MT5	66	35	25	n/a	MT	Fusiform_L	ctx-lh-fusiform
+MT4	61	34	27	n/a	MT	Fusiform_L	ctx-lh-fusiform
+MT3	56	33	29	n/a	MT	Cerebellum_6_L	ctx-lh-lingual
+MT2	51	31	32	n/a	MT	Lingual_L	ctx-lh-lingual
+MT1	48	29	35	n/a	MT	Lingual_L	ctx-lh-lingual
+PT12	79	35	42	n/a	PT	n/a	n/a
+PT11	77	30	40	n/a	PT	n/a	n/a
+PT10	74	25	38	n/a	PT	n/a	n/a
+PT9	71	21	37	n/a	PT	Occipital_Mid_L	n/a
+PT8	67	17	35	n/a	PT	Occipital_Mid_L	n/a
+PT7	63	14	33	n/a	PT	Occipital_Mid_L	n/a
+PT6	58	12	31	n/a	PT	Occipital_Inf_L	ctx-lh-lateraloccipital
+PT5	53	11	31	n/a	PT	Occipital_Inf_L	ctx-lh-lateraloccipital
+PT4	47	13	30	n/a	PT	Calcarine_L	n/a
+PT3	44	16	32	n/a	PT	Calcarine_L	ctx-rh-lingual
+PT2	44	21	35	n/a	PT	Calcarine_L	ctx-rh-lingual
+PT1	45	25	38	n/a	PT	Lingual_L	ctx-lh-lingual
+SO8	75	46	64	n/a	SO	n/a	n/a
+SO7	71	41	66	n/a	SO	Parietal_Inf_L	n/a
+SO6	67	37	68	n/a	SO	Parietal_Inf_L	n/a
+SO5	62	33	69	n/a	SO	Parietal_Sup_L	n/a
+SO4	58	29	70	n/a	SO	Parietal_Sup_L	n/a
+SO3	53	26	69	n/a	SO	n/a	n/a
+GFT8	71	82	37	n/a	GFT	Frontal_Inf_Tri_L	ctx-lh-parstriangularis
+GFT16	73	78	40	n/a	GFT	Frontal_Inf_Tri_L	ctx-lh-parstriangularis
+GFT24	73	74	43	n/a	GFT	Frontal_Inf_Tri_L	ctx-lh-parsopercularis
+GFT32	74	70	47	n/a	GFT	Frontal_Inf_Oper_L	ctx-lh-parsopercularis
+GFT40	76	67	51	n/a	GFT	Precentral_L	ctx-lh-precentral
+GFT48	77	63	55	n/a	GFT	Postcentral_L	n/a
+GFT56	76	59	59	n/a	GFT	Postcentral_L	n/a
+GFT64	75	56	63	n/a	GFT	n/a	n/a
+GFT7	70	78	33	n/a	GFT	Frontal_Inf_Orb_2_L	ctx-lh-parstriangularis
+GFT15	72	74	36	n/a	GFT	Frontal_Inf_Tri_L	n/a
+GFT23	74	71	40	n/a	GFT	Frontal_Inf_Tri_L	ctx-lh-parsopercularis
+GFT31	76	67	43	n/a	GFT	Frontal_Inf_Oper_L	ctx-lh-precentral
+GFT39	78	63	47	n/a	GFT	Postcentral_L	n/a
+GFT47	79	60	52	n/a	GFT	Postcentral_L	n/a
+GFT55	79	56	56	n/a	GFT	n/a	n/a
+GFT63	79	52	60	n/a	GFT	n/a	n/a
+GFT6	70	74	30	n/a	GFT	Temporal_Pole_Sup_L	n/a
+GFT14	73	71	32	n/a	GFT	Temporal_Pole_Sup_L	n/a
+GFT22	76	67	35	n/a	GFT	Temporal_Pole_Sup_L	n/a
+GFT30	78	63	39	n/a	GFT	Rolandic_Oper_L	n/a
+GFT38	79	60	44	n/a	GFT	Postcentral_L	n/a
+GFT46	81	57	49	n/a	GFT	n/a	n/a
+GFT54	81	53	53	n/a	GFT	n/a	n/a
+GFT62	81	49	57	n/a	GFT	n/a	n/a
+GFT5	72	71	25	n/a	GFT	Temporal_Pole_Sup_L	ctx-lh-superiortemporal
+GFT13	75	68	27	n/a	GFT	Temporal_Mid_L	n/a
+GFT21	78	64	31	n/a	GFT	n/a	n/a
+GFT29	80	60	35	n/a	GFT	n/a	n/a
+GFT37	81	56	41	n/a	GFT	n/a	n/a
+GFT45	82	53	45	n/a	GFT	n/a	n/a
+GFT53	82	49	49	n/a	GFT	n/a	n/a
+GFT61	81	45	54	n/a	GFT	n/a	n/a
+GFT4	74	68	20	n/a	GFT	Temporal_Pole_Mid_L	n/a
+GFT12	76	65	23	n/a	GFT	Temporal_Mid_L	n/a
+GFT20	81	61	27	n/a	GFT	n/a	n/a
+GFT28	82	57	31	n/a	GFT	n/a	n/a
+GFT36	82	52	37	n/a	GFT	Temporal_Mid_L	n/a
+GFT44	83	49	42	n/a	GFT	n/a	n/a
+GFT52	82	45	46	n/a	GFT	n/a	n/a
+GFT60	81	41	50	n/a	GFT	n/a	n/a
+GFT3	74	65	16	n/a	GFT	Temporal_Pole_Mid_L	n/a
+GFT11	78	63	19	n/a	GFT	n/a	n/a
+GFT19	81	57	24	n/a	GFT	n/a	n/a
+GFT27	82	54	28	n/a	GFT	n/a	n/a
+GFT35	82	49	34	n/a	GFT	Temporal_Mid_L	n/a
+GFT43	83	45	38	n/a	GFT	n/a	n/a
+GFT51	81	42	42	n/a	GFT	n/a	n/a
+GFT59	80	37	46	n/a	GFT	n/a	n/a
+Re4	73	49	67	n/a	Re	n/a	n/a
+Re3	70	45	69	n/a	Re	Postcentral_L	n/a
+Re2	67	40	70	n/a	Re	n/a	n/a
+Re1	64	34	71	n/a	Re	Parietal_Sup_L	n/a
+Gr2	65	92	53	n/a	Gr	n/a	n/a
+Gr1	62	93	56	n/a	Gr	n/a	n/a
+IO8	80	39	54	n/a	IO	n/a	n/a
+IO7	77	35	57	n/a	IO	n/a	n/a
+IO6	73	32	60	n/a	IO	n/a	n/a
+IO5	68	28	62	n/a	IO	Angular_L	n/a
+IO4	64	26	64	n/a	IO	n/a	n/a
+IO3	59	24	66	n/a	IO	n/a	n/a
+IO2	53	24	66	n/a	IO	Precuneus_L	n/a
+IO1	48	25	65	n/a	IO	Precuneus_L	n/a

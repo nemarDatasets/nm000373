@@ -119,3 +119,7 @@ doi:10.1162/jocn_a_02012. Data: doi:10.5061/dryad.q573n5tph.
 Verbatim from Sherman BE, Aljishi A, Graves KN, Quraishi IH, Sivaraju A, Damisah EC, Turk-Browne NB (2023). Intracranial Entrainment Reveals Statistical Learning across Levels of Abstraction. Journal of Cognitive Neuroscience 35(8):1312-1328. https://doi.org/10.1162/jocn_a_02012, Methods, "Participants":
 
 > Patients were recruited through the Yale Comprehensive Epilepsy Center and provided informed consent in a manner approved by the Yale University Human Subjects Committee.
+
+## Atlas labels of the electrode positions (added 2026-10-08)
+
+Each `electrodes.tsv` that has coordinates now has two derived columns, `atlas_label_AAL3v1` and `atlas_label_DesikanKilliany`. They are an atlas lookup of the coordinates already in the file (voxel indices in the MNI152 2 mm template converted to mm with the FSL MNI152_T1_2mm affine (x=-2i+90, y=2j-126, z=2k-72); whether the release indices are 0- or 1-based is not stated (<= 2 mm per axis)), made for NEMAR; they are not labels given by the authors, and the coordinates themselves are unchanged. Method and caveats: `electrodes.json`. 1121 of 1344 contacts received a label.

@@ -1,0 +1,10 @@
+{
+  "atlas_label_AAL3v1": {
+    "LongName": "AAL3v1 atlas label",
+    "Description": "Derived for NEMAR (2026-10-08), not given by the authors: label of the AAL3v1 atlas (Rolls et al. 2020, MNI152, 1 mm) at the contact position, nearest labelled voxel within 4 mm, else n/a. voxel indices in the MNI152 2 mm template converted to mm with the FSL MNI152_T1_2mm affine (x=-2i+90, y=2j-126, z=2k-72); whether the release indices are 0- or 1-based is not stated (<= 2 mm per axis). Coordinates in this file are unchanged."
+  },
+  "atlas_label_DesikanKilliany": {
+    "LongName": "Desikan-Killiany atlas label (FreeSurfer fsaverage aparc+aseg)",
+    "Description": "Derived for NEMAR (2026-10-08), not given by the authors: label of FreeSurfer fsaverage mri/aparc+aseg.mgz (Desikan-Killiany cortical parcels + aseg structures, MNI305 space; the MNI152/MNI305 difference is ignored) at the contact position; cortical/subcortical label within 4 mm if the voxel is unlabelled, white-matter labels kept as such, else n/a. voxel indices in the MNI152 2 mm template converted to mm with the FSL MNI152_T1_2mm affine (x=-2i+90, y=2j-126, z=2k-72); whether the release indices are 0- or 1-based is not stated (<= 2 mm per axis)."
+  }
+}
