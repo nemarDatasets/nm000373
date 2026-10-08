@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Intracranial entrainment reveals statistical learning across levels of abstraction (Sherman et al., 2023): raw iEEG from 8 neurosurgical patients",
-  "description": "Raw intracranial EEG (iEEG) recorded from 8 neurosurgical patients with electrodes implanted for seizure monitoring while they passively viewed rapid streams of scene photographs. Streams contained statistical structure at the category or exemplar level, or were random. Neural entrainment (phase coherence) at the image frequency (2 Hz) and pair frequency (1 Hz) was used to track online statistical learning across levels of abstraction. The data are converted to iEEG-BIDS without signal modification.",
-  "methods_description": "iEEG was recorded with a Natus NeuroWorks system at 4096 Hz in patients at Yale New Haven Hospital. Scenes were shown for 250 ms each with a 250 ms interstimulus interval in category-level structured, exemplar-level structured and random runs. Triggers were sent to an open EEG channel. Electrodes were localized with post-operative CT and MRI and registered to MNI space.",
+  "description": "Raw intracranial EEG (iEEG) recorded from 8 neurosurgical patients with electrodes implanted for seizure monitoring while they passively viewed rapid streams of scene photographs. Streams contained statistical structure at the category level or the exemplar level, alongside a random baseline. Neural entrainment (phase coherence) at the image frequency (2 Hz) and the pair frequency (1 Hz) was used to track online statistical learning across levels of abstraction. The data are converted to iEEG-BIDS without signal modification.",
+  "methods_description": "Patients viewed scene images (250 ms image, 250 ms ISI) in category-structured, exemplar-structured and random runs of 240 trials each. iEEG was recorded with a Natus NeuroWorks system at 4096 Hz. Stimulus triggers were inserted into an open EEG channel via a custom DAQ. Electrodes were localized using post-operative CT and MRI and registered to MNI space.",
   "license": "CC0-1.0",
   "dataset_type": "raw",
   "authors": {
@@ -109,5 +109,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "7c7f732bd2759a40322280da2827ed4cbcfc0ebc7d59a9be4a12beefbfe5e3bc"
+  "source_hash": "ee15e16b180aadb91fad421e0105140b14a84199bf86329bd9d21942fe90bc47"
 }
