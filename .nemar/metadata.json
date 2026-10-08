@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Intracranial entrainment reveals statistical learning across levels of abstraction (Sherman et al., 2023): raw iEEG from 8 neurosurgical patients",
-  "description": "Raw intracranial EEG (iEEG) recordings from 8 neurosurgical patients with electrodes implanted for seizure monitoring. Patients passively viewed rapid streams of scene photographs containing statistical regularities at the category or exemplar level, and neural entrainment (phase coherence) was measured at the image (2 Hz) and pair (1 Hz) frequencies. The data support analysis of online statistical learning across levels of abstraction and are provided in iEEG-BIDS format with MNI electrode coordinates.",
-  "methods_description": "Patients viewed streams of outdoor scene images (250 ms image, 250 ms ISI) in category-level structured, exemplar-level structured, and random conditions, presented with MATLAB and the Psychophysics Toolbox. iEEG was recorded with a Natus NeuroWorks system at 4096 Hz, with 8-bit triggers inserted into an open EEG channel. Electrodes were localized using post-operative CT and MRI and registered to MNI space.",
+  "description": "Raw intracranial EEG (iEEG) recorded from 8 neurosurgical patients with electrodes implanted for seizure monitoring while they viewed rapid streams of scene photographs. The streams contained statistical structure at the category or exemplar level, or were random. Neural entrainment (phase coherence) at the image frequency (2 Hz) and pair frequency (1 Hz) was used to track online statistical learning across levels of abstraction. The data are converted to iEEG-BIDS without signal modification.",
+  "methods_description": "iEEG was recorded with a Natus NeuroWorks system at 4096 Hz in patients at Yale New Haven Hospital. Patients passively viewed streams of outdoor scene images (250 ms image, 250 ms ISI) in category-level structured, exemplar-level structured, and random conditions. Triggers were recorded on an open EEG channel. Electrodes were localized using post-operative CT and MRI and registered to MNI space.",
   "license": "CC0-1.0",
   "dataset_type": "raw",
   "authors": {
@@ -85,7 +85,7 @@
     },
     {
       "funder_name": "U.S. National Science Foundation",
-      "award_title": "Graduate Research Fellowship"
+      "award_title": "Graduate Research Fellowship to B. E. Sherman"
     },
     {
       "funder_name": "Canadian Institute for Advanced Research"
@@ -109,5 +109,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "79159932995e99d4d6d3a9a762b03d711c09c6b84e71565b7cbbc9985bd6742a"
+  "source_hash": "7c7f732bd2759a40322280da2827ed4cbcfc0ebc7d59a9be4a12beefbfe5e3bc"
 }
