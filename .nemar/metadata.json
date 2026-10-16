@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Sherman-2023-intracranial-10.1162/jocn_a_02012",
+  "title": "Intracranial entrainment reveals statistical learning across levels of abstraction (Sherman et al., 2023): raw iEEG from 8 neurosurgical patients",
   "description": "Raw intracranial EEG (iEEG) recorded from 8 neurosurgical patients with electrodes implanted for seizure monitoring while they viewed rapid streams of scene photographs. The streams contained statistical regularities at the category or exemplar level, or were random. Neural entrainment (phase coherence) at the image frequency (2 Hz) and pair frequency (1 Hz) was measured to track online statistical learning across levels of abstraction. The data are provided in iEEG-BIDS format with MNI electrode coordinates.",
   "methods_description": "Patients passively viewed streams of outdoor scene images (250 ms image, 250 ms ISI) in category-level structured, exemplar-level structured, and random conditions. iEEG was recorded with a Natus NeuroWorks system at 4096 Hz, with triggers inserted into an open EEG channel. Electrodes were localized using post-operative CT and MRI and registered to MNI space.",
   "license": "CC0-1.0",
@@ -111,5 +111,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "1da746895d8ac2de71f970c690f2b274333d25b2a4a6b7dedae3f765b074f512"
+  "source_hash": "ee9dbc13818a7a38813507d449f1790250a88945173798c9e577fc4d58c0be49"
 }

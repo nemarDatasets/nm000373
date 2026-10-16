@@ -1,5 +1,5 @@
 {
-  "Name": "Sherman-2023-intracranial-10.1162/jocn_a_02012",
+  "Name": "Intracranial entrainment reveals statistical learning across levels of abstraction (Sherman et al., 2023): raw iEEG from 8 neurosurgical patients",
   "BIDSVersion": "1.10.0",
   "DatasetType": "raw",
   "License": "CC0-1.0",
@@ -52,5 +52,5 @@
     }
   ],
   "DatasetDOI": "10.82901/nemar.nm000373",
-  "Version": "1.0.1"
+  "Version": "1.0.2"
 }
