@@ -1,3 +1,6 @@
+1.0.2 2026-10-16
+  - Restore the descriptive dataset Name recorded in the v1.0.0 history. Update generated metadata title and source hash.
+
 1.0.1 2026-10-07
   - 2026-10-07 metadata enrichment: participants.tsv/json (age, sex, implant type, hemisphere, number of contacts from
     Sherman et al. 2023 Table 1; mapping paper patient N = sub-0N verified), ieeg.json (Instructions, InstitutionName/
