@@ -1,9 +1,9 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Intracranial entrainment reveals statistical learning across levels of abstraction (Sherman et al., 2023): raw iEEG from 8 neurosurgical patients",
-  "description": "Raw intracranial EEG (iEEG) recorded from 8 neurosurgical patients with electrodes implanted for seizure monitoring while they passively viewed rapid streams of scene photographs. Streams contained statistical structure at the category level or the exemplar level, alongside a random baseline. Neural entrainment (phase coherence) at the image frequency (2 Hz) and the pair frequency (1 Hz) was used to track online statistical learning across levels of abstraction. The data are converted to iEEG-BIDS without signal modification.",
-  "methods_description": "Patients viewed scene images (250 ms image, 250 ms ISI) in category-structured, exemplar-structured and random runs of 240 trials each. iEEG was recorded with a Natus NeuroWorks system at 4096 Hz. Stimulus triggers were inserted into an open EEG channel via a custom DAQ. Electrodes were localized using post-operative CT and MRI and registered to MNI space.",
+  "title": "Sherman-2023-intracranial-10.1162/jocn_a_02012",
+  "description": "Raw intracranial EEG (iEEG) recorded from 8 neurosurgical patients with electrodes implanted for seizure monitoring while they viewed rapid streams of scene photographs. The streams contained statistical regularities at the category or exemplar level, or were random. Neural entrainment (phase coherence) at the image frequency (2 Hz) and pair frequency (1 Hz) was measured to track online statistical learning across levels of abstraction. The data are provided in iEEG-BIDS format with MNI electrode coordinates.",
+  "methods_description": "Patients passively viewed streams of outdoor scene images (250 ms image, 250 ms ISI) in category-level structured, exemplar-level structured, and random conditions. iEEG was recorded with a Natus NeuroWorks system at 4096 Hz, with triggers inserted into an open EEG channel. Electrodes were localized using post-operative CT and MRI and registered to MNI space.",
   "license": "CC0-1.0",
   "dataset_type": "raw",
   "authors": {
@@ -38,15 +38,17 @@
       "term": "scene perception"
     },
     {
+      "term": "frequency tagging"
+    },
+    {
       "term": "Epilepsy",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
     },
     {
-      "term": "frequency tagging"
-    },
-    {
-      "term": "visual cortex"
+      "term": "Visual Cortex",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D014793"
     }
   ],
   "related_identifiers": [
@@ -85,7 +87,7 @@
     },
     {
       "funder_name": "U.S. National Science Foundation",
-      "award_title": "Graduate Research Fellowship to B. E. Sherman"
+      "award_title": "Graduate Research Fellowship"
     },
     {
       "funder_name": "Canadian Institute for Advanced Research"
@@ -109,5 +111,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "ee15e16b180aadb91fad421e0105140b14a84199bf86329bd9d21942fe90bc47"
+  "source_hash": "1da746895d8ac2de71f970c690f2b274333d25b2a4a6b7dedae3f765b074f512"
 }
