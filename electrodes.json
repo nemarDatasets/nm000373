@@ -1,10 +1,34 @@
 {
+  "x": {
+    "Description": "x position in MNI152NLin6Asym (FSL MNI152 2 mm), converted from voxel_i as x = 90 - 2*voxel_i (see coordsystem.json).",
+    "Units": "mm"
+  },
+  "y": {
+    "Description": "y position in MNI152NLin6Asym (FSL MNI152 2 mm), converted from voxel_j as y = 2*voxel_j - 126 (see coordsystem.json).",
+    "Units": "mm"
+  },
+  "z": {
+    "Description": "z position in MNI152NLin6Asym (FSL MNI152 2 mm), converted from voxel_k as z = 2*voxel_k - 72 (see coordsystem.json).",
+    "Units": "mm"
+  },
+  "voxel_i": {
+    "LongName": "Voxel index i (release value)",
+    "Description": "First voxel index of the contact in the FSL MNI152_T1_2mm grid (0-based), copied verbatim from column 'MNI X' of sourcedata/dryad-q573n5tph/allContacts_MNIcoords.csv."
+  },
+  "voxel_j": {
+    "LongName": "Voxel index j (release value)",
+    "Description": "Second voxel index of the contact in the FSL MNI152_T1_2mm grid (0-based), copied verbatim from column 'MNI Y' of allContacts_MNIcoords.csv."
+  },
+  "voxel_k": {
+    "LongName": "Voxel index k (release value)",
+    "Description": "Third voxel index of the contact in the FSL MNI152_T1_2mm grid (0-based), copied verbatim from column 'MNI Z' of allContacts_MNIcoords.csv."
+  },
   "atlas_label_AAL3v1": {
     "LongName": "AAL3v1 atlas label",
-    "Description": "Derived for NEMAR (2026-10-08), not given by the authors: label of the AAL3v1 atlas (Rolls et al. 2020, MNI152, 1 mm) at the contact position, nearest labelled voxel within 4 mm, else n/a. voxel indices in the MNI152 2 mm template converted to mm with the FSL MNI152_T1_2mm affine (x=-2i+90, y=2j-126, z=2k-72); whether the release indices are 0- or 1-based is not stated (<= 2 mm per axis). Coordinates in this file are unchanged."
+    "Description": "Derived for NEMAR (2026-10-08), not given by the authors: label of the AAL3v1 atlas (Rolls et al. 2020, MNI152, 1 mm) at the contact position, nearest labelled voxel within 4 mm, else n/a. voxel indices in the MNI152 2 mm template converted to mm with the FSL MNI152_T1_2mm affine (x=-2i+90, y=2j-126, z=2k-72); the 0-based reading was verified in Oct 2026 (see coordsystem.json), and x, y, z now hold these millimetre values."
   },
   "atlas_label_DesikanKilliany": {
     "LongName": "Desikan-Killiany atlas label (FreeSurfer fsaverage aparc+aseg)",
-    "Description": "Derived for NEMAR (2026-10-08), not given by the authors: label of FreeSurfer fsaverage mri/aparc+aseg.mgz (Desikan-Killiany cortical parcels + aseg structures, MNI305 space; the MNI152/MNI305 difference is ignored) at the contact position; cortical/subcortical label within 4 mm if the voxel is unlabelled, white-matter labels kept as such, else n/a. voxel indices in the MNI152 2 mm template converted to mm with the FSL MNI152_T1_2mm affine (x=-2i+90, y=2j-126, z=2k-72); whether the release indices are 0- or 1-based is not stated (<= 2 mm per axis)."
+    "Description": "Derived for NEMAR (2026-10-08), not given by the authors: label of FreeSurfer fsaverage mri/aparc+aseg.mgz (Desikan-Killiany cortical parcels + aseg structures, MNI305 space; the MNI152/MNI305 difference is ignored) at the contact position; cortical/subcortical label within 4 mm if the voxel is unlabelled, white-matter labels kept as such, else n/a. voxel indices in the MNI152 2 mm template converted to mm with the FSL MNI152_T1_2mm affine (x=-2i+90, y=2j-126, z=2k-72); the 0-based reading was verified in Oct 2026 (see coordsystem.json), and x, y, z now hold these millimetre values."
   }
 }

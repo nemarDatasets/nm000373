@@ -77,11 +77,21 @@ to track online statistical learning of exemplar-level and category-level regula
 - events.tsv: one row per TRIG pulse (onset = first sample away from the run's resting TRIG level, duration = until it
   returns, value = the sequence of TRIG levels in the pulse),
   plus the rows of the source events.tsv where the release has one (sub-3).
-- Electrodes: `allContacts_MNIcoords.csv` copied verbatim into `*_space-MNI152NLin6Asym_electrodes.tsv`. The values
-  are positive integers consistent with FSL MNI152 2 mm voxel indices, so units are declared n/a and the values are
-  not converted (see coordsystem.json for the affine, an unverified assumption). For sub-01 the labels R1 and R2 each
+- Electrodes: `allContacts_MNIcoords.csv` copied into `*_space-MNI152NLin6Asym_electrodes.tsv`. The release values
+  are 0-based voxel indices of the FSL MNI152 2 mm template; since the correction of Oct 2026 (below) x, y, z are
+  millimetres and the release values are kept in `voxel_i`, `voxel_j`, `voxel_k`. For sub-01 the labels R1 and R2 each
   appear twice in the source file with different coordinates and are not among the recorded channels; these 4
   ambiguous rows are left out of electrodes.tsv (the original file is in sourcedata).
+- Correction of Oct 2026 (code/fix-20261030_coords_mm.py): electrode coordinates converted from voxel indices to mm
+  with the sform of the FSL MNI152_T1_2mm header, x = 90 - 2i, y = 2j - 126, z = 2k - 72 (MNI152NLin6Asym, units mm
+  in coordsystem.json). Before converting, the index convention was checked against the paper's own atlas numbers
+  (code/fix-20261030_verify_voxel_convention.py and .json, FSL 5.0.7 Harvard-Oxford and MNI structural atlases):
+  with 0-based indices the recorded contacts give 116 contacts in the authors' visual-cortex ROI (paper: 116) and 5
+  hippocampal contacts (paper: 5), and the Harvard-Oxford totals of the paper's Table 2 deviate by 18 contacts
+  summed over its 10 ROIs; with 1-based indices there are 16 hippocampal contacts and a deviation of 72. No other
+  shift of up to 2 voxels per axis fits better. All indices are inside the 91 x 109 x 91 grid, and each patient's
+  implanted hemisphere (Table 1) and the L/R prefix of contact names (281 of 287; the others are reference or
+  midline contacts) agree with the sign of x. Positions stay on the 2 mm grid of the authors' registration.
 - participants.tsv: age, sex and handedness are not given in the Dryad release (n/a); age, sex and implant details
   were added from Table 1 of the paper (2026-10-07, see CHANGES).
 
@@ -93,7 +103,7 @@ to track online statistical learning of exemplar-level and category-level regula
 ## Known caveats
 - Stimulus photographs are not part of the release and not included here.
 - The meanings of the TRIG codes are not documented in the release; source events.tsv files exist for sub-3 only.
-- Electrode coordinates are voxel indices (see Conversion); for sub-01 to sub-06 (combined implants) the electrode type of each contact (grid/strip/depth) is
+- Electrode coordinates are in mm, converted from the release's 2 mm voxel indices (see Conversion); for sub-01 to sub-06 (combined implants) the electrode type of each contact (grid/strip/depth) is
   not given per contact in the release.
 - Contact counts in the release are slightly higher than the nContacts column of the paper's Table 1 (kept as
   published in `n_contacts_paper`).
@@ -127,4 +137,4 @@ Verbatim from Sherman BE, Aljishi A, Graves KN, Quraishi IH, Sivaraju A, Damisah
 
 ## Atlas labels of the electrode positions (added 2026-10-08)
 
-Each `electrodes.tsv` that has coordinates now has two derived columns, `atlas_label_AAL3v1` and `atlas_label_DesikanKilliany`. They are an atlas lookup of the coordinates already in the file (voxel indices in the MNI152 2 mm template converted to mm with the FSL MNI152_T1_2mm affine (x=-2i+90, y=2j-126, z=2k-72); whether the release indices are 0- or 1-based is not stated (<= 2 mm per axis)), made for NEMAR; they are not labels given by the authors, and the coordinates themselves are unchanged. Method and caveats: `electrodes.json`. 1121 of 1344 contacts received a label.
+Each `electrodes.tsv` that has coordinates now has two derived columns, `atlas_label_AAL3v1` and `atlas_label_DesikanKilliany`. They are an atlas lookup of the coordinates already in the file (voxel indices in the MNI152 2 mm template converted to mm with the FSL MNI152_T1_2mm affine (x=-2i+90, y=2j-126, z=2k-72), the 0-based reading verified in Oct 2026; x, y, z now hold these mm values), made for NEMAR; they are not labels given by the authors. Method and caveats: `electrodes.json`. 1121 of 1344 contacts received a label.

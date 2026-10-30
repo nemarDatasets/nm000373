@@ -1,124 +1,124 @@
-name	x	y	z	size	group	atlas_label_AAL3v1	atlas_label_DesikanKilliany
-G8	53	70	76	n/a	G	n/a	n/a
-G16	54	64	78	n/a	G	n/a	n/a
-G24	54	58	80	n/a	G	n/a	n/a
-G32	55	52	81	n/a	G	n/a	n/a
-G40	54	47	81	n/a	G	n/a	n/a
-G48	52	41	77	n/a	G	Postcentral_L	n/a
-G7	58	70	73	n/a	G	n/a	n/a
-G15	59	64	75	n/a	G	n/a	n/a
-G23	59	58	78	n/a	G	n/a	n/a
-G31	59	52	79	n/a	G	n/a	n/a
-G39	59	46	78	n/a	G	n/a	n/a
-G47	57	40	76	n/a	G	Postcentral_L	n/a
-G6	62	70	71	n/a	G	n/a	n/a
-G14	63	64	73	n/a	G	n/a	n/a
-G22	64	58	75	n/a	G	n/a	n/a
-G30	64	52	76	n/a	G	n/a	n/a
-G38	63	45	76	n/a	G	n/a	n/a
-G46	62	39	74	n/a	G	n/a	n/a
-G5	66	69	66	n/a	G	Frontal_Mid_2_L	n/a
-G13	67	64	69	n/a	G	n/a	n/a
-G21	68	57	72	n/a	G	n/a	n/a
-G29	68	51	73	n/a	G	n/a	n/a
-G37	68	45	72	n/a	G	n/a	n/a
-G45	66	39	70	n/a	G	n/a	n/a
-G4	70	68	62	n/a	G	Precentral_L	n/a
-G12	70	63	64	n/a	G	Precentral_L	n/a
-G20	72	57	67	n/a	G	n/a	n/a
-G28	72	51	68	n/a	G	n/a	n/a
-G36	71	45	68	n/a	G	n/a	n/a
-G44	70	39	66	n/a	G	Parietal_Inf_L	n/a
-G3	73	67	57	n/a	G	Precentral_L	n/a
-G11	73	61	59	n/a	G	Postcentral_L	ctx-lh-precentral
-G19	74	56	62	n/a	G	Postcentral_L	n/a
-G27	74	50	63	n/a	G	Postcentral_L	n/a
-G35	74	45	63	n/a	G	Parietal_Inf_L	n/a
-G43	72	39	60	n/a	G	Parietal_Inf_L	ctx-lh-supramarginal
-G2	76	65	52	n/a	G	Precentral_L	ctx-lh-precentral
-G10	76	60	54	n/a	G	Postcentral_L	ctx-lh-postcentral
-G18	77	55	57	n/a	G	Postcentral_L	n/a
-G26	77	49	57	n/a	G	SupraMarginal_L	n/a
-G34	77	45	57	n/a	G	SupraMarginal_L	ctx-lh-supramarginal
-G42	76	40	56	n/a	G	Parietal_Inf_L	ctx-lh-supramarginal
-G1	77	62	47	n/a	G	Postcentral_L	ctx-lh-precentral
-G9	78	58	49	n/a	G	Postcentral_L	ctx-lh-postcentral
-G17	79	54	51	n/a	G	Postcentral_L	n/a
-G25	79	50	52	n/a	G	SupraMarginal_L	n/a
-G33	79	46	52	n/a	G	SupraMarginal_L	ctx-lh-supramarginal
-G41	78	40	51	n/a	G	SupraMarginal_L	ctx-lh-supramarginal
-MF8	59	80	65	n/a	MF	n/a	n/a
-MF7	60	84	60	n/a	MF	Frontal_Sup_2_L	n/a
-MF6	60	88	55	n/a	MF	Frontal_Mid_2_L	n/a
-MF5	60	92	51	n/a	MF	Frontal_Sup_2_L	n/a
-MF4	60	95	46	n/a	MF	Frontal_Sup_2_L	n/a
-MF3	59	98	41	n/a	MF	Frontal_Sup_2_L	n/a
-MF2	57	100	35	n/a	MF	n/a	n/a
-MF1	55	99	29	n/a	MF	n/a	n/a
-IF8	69	73	59	n/a	IF	Frontal_Mid_2_L	ctx-lh-caudalmiddlefrontal
-IF7	72	75	54	n/a	IF	Frontal_Inf_Oper_L	n/a
-IF6	74	76	49	n/a	IF	Frontal_Inf_Tri_L	n/a
-IF5	74	76	43	n/a	IF	Frontal_Inf_Tri_L	ctx-lh-parsopercularis
-IF4	73	74	37	n/a	IF	Frontal_Inf_Tri_L	ctx-lh-parstriangularis
-IF3	72	73	31	n/a	IF	Frontal_Inf_Orb_2_L	n/a
-IF2	72	72	25	n/a	IF	Temporal_Pole_Sup_L	n/a
-IF1	71	71	19	n/a	IF	Temporal_Pole_Mid_L	n/a
-AT8	72	64	63	n/a	AT	Precentral_L	n/a
-AT7	74	64	56	n/a	AT	Precentral_L	ctx-lh-precentral
-AT6	76	64	50	n/a	AT	Precentral_L	ctx-lh-precentral
-AT5	77	62	45	n/a	AT	Postcentral_L	ctx-lh-precentral
-AT4	78	62	39	n/a	AT	Rolandic_Oper_L	n/a
-AT3	78	60	33	n/a	AT	Temporal_Mid_L	n/a
-AT2	78	58	27	n/a	AT	Temporal_Mid_L	ctx-lh-middletemporal
-AT1	78	56	21	n/a	AT	Temporal_Inf_L	n/a
-PT8	73	38	63	n/a	PT	Parietal_Inf_L	n/a
-PT7	72	34	58	n/a	PT	Parietal_Inf_L	ctx-lh-inferiorparietal
-PT6	72	30	54	n/a	PT	Angular_L	ctx-lh-inferiorparietal
-PT5	71	26	49	n/a	PT	Angular_L	ctx-lh-inferiorparietal
-PT4	70	23	44	n/a	PT	Occipital_Mid_L	n/a
-PT3	68	21	39	n/a	PT	Occipital_Mid_L	ctx-lh-lateraloccipital
-PT2	65	18	34	n/a	PT	Occipital_Mid_L	ctx-lh-lateraloccipital
-PT1	62	17	28	n/a	PT	Lingual_L	ctx-lh-lateraloccipital
-IP7	65	31	64	n/a	IP	Parietal_Sup_L	n/a
-IP6	66	26	60	n/a	IP	Angular_L	ctx-lh-inferiorparietal
-IP5	65	23	55	n/a	IP	Occipital_Mid_L	ctx-lh-inferiorparietal
-IP4	65	21	50	n/a	IP	Occipital_Mid_L	ctx-lh-inferiorparietal
-IP3	64	19	44	n/a	IP	Occipital_Mid_L	ctx-lh-inferiorparietal
-IP2	63	17	38	n/a	IP	Occipital_Mid_L	n/a
-IP1	63	15	32	n/a	IP	Occipital_Mid_L	ctx-lh-lateraloccipital
-SP8	55	32	70	n/a	SP	Parietal_Sup_L	ctx-lh-superiorparietal
-SP7	54	28	65	n/a	SP	Parietal_Sup_L	ctx-lh-superiorparietal
-SP6	53	24	61	n/a	SP	Parietal_Sup_L	ctx-lh-superiorparietal
-SP5	53	20	56	n/a	SP	Occipital_Sup_L	ctx-lh-superiorparietal
-SP4	52	17	51	n/a	SP	Occipital_Sup_L	ctx-lh-superiorparietal
-SP3	52	15	45	n/a	SP	Occipital_Sup_L	ctx-lh-lateraloccipital
-SP2	51	13	39	n/a	SP	Occipital_Mid_L	Left-Cerebral-White-Matter
-SP1	51	14	33	n/a	SP	Calcarine_L	ctx-lh-lateraloccipital
-SPL8	52	39	78	n/a	SPL	Precuneus_L	n/a
-SPL7	57	37	75	n/a	SPL	Parietal_Sup_L	n/a
-SPL6	61	36	72	n/a	SPL	Parietal_Sup_L	n/a
-SPL4	68	33	63	n/a	SPL	Parietal_Inf_L	n/a
-AIH10	46	42	59	n/a	AIH	Cingulate_Mid_L	ctx-lh-precuneus
-AIH20	46	42	65	n/a	AIH	Precuneus_L	ctx-lh-paracentral
-AIH9	45	48	59	n/a	AIH	Cingulate_Mid_L	ctx-rh-posteriorcingulate
-AIH19	46	49	65	n/a	AIH	Paracentral_Lobule_L	ctx-lh-paracentral
-AIH8	45	54	58	n/a	AIH	Cingulate_Mid_L	ctx-rh-posteriorcingulate
-AIH18	46	54	64	n/a	AIH	Supp_Motor_Area_L	ctx-lh-paracentral
-AIH7	45	60	58	n/a	AIH	Cingulate_Mid_L	ctx-lh-posteriorcingulate
-AIH17	46	60	64	n/a	AIH	Supp_Motor_Area_L	ctx-lh-superiorfrontal
-AIH6	45	66	58	n/a	AIH	Supp_Motor_Area_L	n/a
-AIH16	46	67	64	n/a	AIH	Supp_Motor_Area_L	ctx-lh-superiorfrontal
-AIH5	45	72	57	n/a	AIH	Frontal_Sup_Medial_L	n/a
-AIH15	45	73	63	n/a	AIH	Supp_Motor_Area_L	ctx-rh-superiorfrontal
-PIH8	46	42	66	n/a	PIH	Precuneus_L	ctx-lh-paracentral
-PIH7	46	38	63	n/a	PIH	Precuneus_L	ctx-lh-precuneus
-PIH6	46	34	60	n/a	PIH	Precuneus_L	ctx-lh-precuneus
-PIH5	46	30	54	n/a	PIH	Precuneus_L	ctx-lh-precuneus
-PIH4	46	26	49	n/a	PIH	Cuneus_L	ctx-lh-cuneus
-PIH3	45	24	44	n/a	PIH	Calcarine_L	ctx-lh-cuneus
-REF2	53	90	71	n/a	REF	n/a	n/a
-REF1	58	90	69	n/a	REF	n/a	n/a
-GR4	65	74	66	n/a	GR	n/a	n/a
-GR3	64	79	62	n/a	GR	Frontal_Mid_2_L	n/a
-GR2	63	83	58	n/a	GR	Frontal_Mid_2_L	n/a
-GR1	63	88	54	n/a	GR	Frontal_Mid_2_L	n/a
+name	x	y	z	size	group	voxel_i	voxel_j	voxel_k	atlas_label_AAL3v1	atlas_label_DesikanKilliany
+G8	-16	14	80	n/a	G	53	70	76	n/a	n/a
+G16	-18	2	84	n/a	G	54	64	78	n/a	n/a
+G24	-18	-10	88	n/a	G	54	58	80	n/a	n/a
+G32	-20	-22	90	n/a	G	55	52	81	n/a	n/a
+G40	-18	-32	90	n/a	G	54	47	81	n/a	n/a
+G48	-14	-44	82	n/a	G	52	41	77	Postcentral_L	n/a
+G7	-26	14	74	n/a	G	58	70	73	n/a	n/a
+G15	-28	2	78	n/a	G	59	64	75	n/a	n/a
+G23	-28	-10	84	n/a	G	59	58	78	n/a	n/a
+G31	-28	-22	86	n/a	G	59	52	79	n/a	n/a
+G39	-28	-34	84	n/a	G	59	46	78	n/a	n/a
+G47	-24	-46	80	n/a	G	57	40	76	Postcentral_L	n/a
+G6	-34	14	70	n/a	G	62	70	71	n/a	n/a
+G14	-36	2	74	n/a	G	63	64	73	n/a	n/a
+G22	-38	-10	78	n/a	G	64	58	75	n/a	n/a
+G30	-38	-22	80	n/a	G	64	52	76	n/a	n/a
+G38	-36	-36	80	n/a	G	63	45	76	n/a	n/a
+G46	-34	-48	76	n/a	G	62	39	74	n/a	n/a
+G5	-42	12	60	n/a	G	66	69	66	Frontal_Mid_2_L	n/a
+G13	-44	2	66	n/a	G	67	64	69	n/a	n/a
+G21	-46	-12	72	n/a	G	68	57	72	n/a	n/a
+G29	-46	-24	74	n/a	G	68	51	73	n/a	n/a
+G37	-46	-36	72	n/a	G	68	45	72	n/a	n/a
+G45	-42	-48	68	n/a	G	66	39	70	n/a	n/a
+G4	-50	10	52	n/a	G	70	68	62	Precentral_L	n/a
+G12	-50	0	56	n/a	G	70	63	64	Precentral_L	n/a
+G20	-54	-12	62	n/a	G	72	57	67	n/a	n/a
+G28	-54	-24	64	n/a	G	72	51	68	n/a	n/a
+G36	-52	-36	64	n/a	G	71	45	68	n/a	n/a
+G44	-50	-48	60	n/a	G	70	39	66	Parietal_Inf_L	n/a
+G3	-56	8	42	n/a	G	73	67	57	Precentral_L	n/a
+G11	-56	-4	46	n/a	G	73	61	59	Postcentral_L	ctx-lh-precentral
+G19	-58	-14	52	n/a	G	74	56	62	Postcentral_L	n/a
+G27	-58	-26	54	n/a	G	74	50	63	Postcentral_L	n/a
+G35	-58	-36	54	n/a	G	74	45	63	Parietal_Inf_L	n/a
+G43	-54	-48	48	n/a	G	72	39	60	Parietal_Inf_L	ctx-lh-supramarginal
+G2	-62	4	32	n/a	G	76	65	52	Precentral_L	ctx-lh-precentral
+G10	-62	-6	36	n/a	G	76	60	54	Postcentral_L	ctx-lh-postcentral
+G18	-64	-16	42	n/a	G	77	55	57	Postcentral_L	n/a
+G26	-64	-28	42	n/a	G	77	49	57	SupraMarginal_L	n/a
+G34	-64	-36	42	n/a	G	77	45	57	SupraMarginal_L	ctx-lh-supramarginal
+G42	-62	-46	40	n/a	G	76	40	56	Parietal_Inf_L	ctx-lh-supramarginal
+G1	-64	-2	22	n/a	G	77	62	47	Postcentral_L	ctx-lh-precentral
+G9	-66	-10	26	n/a	G	78	58	49	Postcentral_L	ctx-lh-postcentral
+G17	-68	-18	30	n/a	G	79	54	51	Postcentral_L	n/a
+G25	-68	-26	32	n/a	G	79	50	52	SupraMarginal_L	n/a
+G33	-68	-34	32	n/a	G	79	46	52	SupraMarginal_L	ctx-lh-supramarginal
+G41	-66	-46	30	n/a	G	78	40	51	SupraMarginal_L	ctx-lh-supramarginal
+MF8	-28	34	58	n/a	MF	59	80	65	n/a	n/a
+MF7	-30	42	48	n/a	MF	60	84	60	Frontal_Sup_2_L	n/a
+MF6	-30	50	38	n/a	MF	60	88	55	Frontal_Mid_2_L	n/a
+MF5	-30	58	30	n/a	MF	60	92	51	Frontal_Sup_2_L	n/a
+MF4	-30	64	20	n/a	MF	60	95	46	Frontal_Sup_2_L	n/a
+MF3	-28	70	10	n/a	MF	59	98	41	Frontal_Sup_2_L	n/a
+MF2	-24	74	-2	n/a	MF	57	100	35	n/a	n/a
+MF1	-20	72	-14	n/a	MF	55	99	29	n/a	n/a
+IF8	-48	20	46	n/a	IF	69	73	59	Frontal_Mid_2_L	ctx-lh-caudalmiddlefrontal
+IF7	-54	24	36	n/a	IF	72	75	54	Frontal_Inf_Oper_L	n/a
+IF6	-58	26	26	n/a	IF	74	76	49	Frontal_Inf_Tri_L	n/a
+IF5	-58	26	14	n/a	IF	74	76	43	Frontal_Inf_Tri_L	ctx-lh-parsopercularis
+IF4	-56	22	2	n/a	IF	73	74	37	Frontal_Inf_Tri_L	ctx-lh-parstriangularis
+IF3	-54	20	-10	n/a	IF	72	73	31	Frontal_Inf_Orb_2_L	n/a
+IF2	-54	18	-22	n/a	IF	72	72	25	Temporal_Pole_Sup_L	n/a
+IF1	-52	16	-34	n/a	IF	71	71	19	Temporal_Pole_Mid_L	n/a
+AT8	-54	2	54	n/a	AT	72	64	63	Precentral_L	n/a
+AT7	-58	2	40	n/a	AT	74	64	56	Precentral_L	ctx-lh-precentral
+AT6	-62	2	28	n/a	AT	76	64	50	Precentral_L	ctx-lh-precentral
+AT5	-64	-2	18	n/a	AT	77	62	45	Postcentral_L	ctx-lh-precentral
+AT4	-66	-2	6	n/a	AT	78	62	39	Rolandic_Oper_L	n/a
+AT3	-66	-6	-6	n/a	AT	78	60	33	Temporal_Mid_L	n/a
+AT2	-66	-10	-18	n/a	AT	78	58	27	Temporal_Mid_L	ctx-lh-middletemporal
+AT1	-66	-14	-30	n/a	AT	78	56	21	Temporal_Inf_L	n/a
+PT8	-56	-50	54	n/a	PT	73	38	63	Parietal_Inf_L	n/a
+PT7	-54	-58	44	n/a	PT	72	34	58	Parietal_Inf_L	ctx-lh-inferiorparietal
+PT6	-54	-66	36	n/a	PT	72	30	54	Angular_L	ctx-lh-inferiorparietal
+PT5	-52	-74	26	n/a	PT	71	26	49	Angular_L	ctx-lh-inferiorparietal
+PT4	-50	-80	16	n/a	PT	70	23	44	Occipital_Mid_L	n/a
+PT3	-46	-84	6	n/a	PT	68	21	39	Occipital_Mid_L	ctx-lh-lateraloccipital
+PT2	-40	-90	-4	n/a	PT	65	18	34	Occipital_Mid_L	ctx-lh-lateraloccipital
+PT1	-34	-92	-16	n/a	PT	62	17	28	Lingual_L	ctx-lh-lateraloccipital
+IP7	-40	-64	56	n/a	IP	65	31	64	Parietal_Sup_L	n/a
+IP6	-42	-74	48	n/a	IP	66	26	60	Angular_L	ctx-lh-inferiorparietal
+IP5	-40	-80	38	n/a	IP	65	23	55	Occipital_Mid_L	ctx-lh-inferiorparietal
+IP4	-40	-84	28	n/a	IP	65	21	50	Occipital_Mid_L	ctx-lh-inferiorparietal
+IP3	-38	-88	16	n/a	IP	64	19	44	Occipital_Mid_L	ctx-lh-inferiorparietal
+IP2	-36	-92	4	n/a	IP	63	17	38	Occipital_Mid_L	n/a
+IP1	-36	-96	-8	n/a	IP	63	15	32	Occipital_Mid_L	ctx-lh-lateraloccipital
+SP8	-20	-62	68	n/a	SP	55	32	70	Parietal_Sup_L	ctx-lh-superiorparietal
+SP7	-18	-70	58	n/a	SP	54	28	65	Parietal_Sup_L	ctx-lh-superiorparietal
+SP6	-16	-78	50	n/a	SP	53	24	61	Parietal_Sup_L	ctx-lh-superiorparietal
+SP5	-16	-86	40	n/a	SP	53	20	56	Occipital_Sup_L	ctx-lh-superiorparietal
+SP4	-14	-92	30	n/a	SP	52	17	51	Occipital_Sup_L	ctx-lh-superiorparietal
+SP3	-14	-96	18	n/a	SP	52	15	45	Occipital_Sup_L	ctx-lh-lateraloccipital
+SP2	-12	-100	6	n/a	SP	51	13	39	Occipital_Mid_L	Left-Cerebral-White-Matter
+SP1	-12	-98	-6	n/a	SP	51	14	33	Calcarine_L	ctx-lh-lateraloccipital
+SPL8	-14	-48	84	n/a	SPL	52	39	78	Precuneus_L	n/a
+SPL7	-24	-52	78	n/a	SPL	57	37	75	Parietal_Sup_L	n/a
+SPL6	-32	-54	72	n/a	SPL	61	36	72	Parietal_Sup_L	n/a
+SPL4	-46	-60	54	n/a	SPL	68	33	63	Parietal_Inf_L	n/a
+AIH10	-2	-42	46	n/a	AIH	46	42	59	Cingulate_Mid_L	ctx-lh-precuneus
+AIH20	-2	-42	58	n/a	AIH	46	42	65	Precuneus_L	ctx-lh-paracentral
+AIH9	0	-30	46	n/a	AIH	45	48	59	Cingulate_Mid_L	ctx-rh-posteriorcingulate
+AIH19	-2	-28	58	n/a	AIH	46	49	65	Paracentral_Lobule_L	ctx-lh-paracentral
+AIH8	0	-18	44	n/a	AIH	45	54	58	Cingulate_Mid_L	ctx-rh-posteriorcingulate
+AIH18	-2	-18	56	n/a	AIH	46	54	64	Supp_Motor_Area_L	ctx-lh-paracentral
+AIH7	0	-6	44	n/a	AIH	45	60	58	Cingulate_Mid_L	ctx-lh-posteriorcingulate
+AIH17	-2	-6	56	n/a	AIH	46	60	64	Supp_Motor_Area_L	ctx-lh-superiorfrontal
+AIH6	0	6	44	n/a	AIH	45	66	58	Supp_Motor_Area_L	n/a
+AIH16	-2	8	56	n/a	AIH	46	67	64	Supp_Motor_Area_L	ctx-lh-superiorfrontal
+AIH5	0	18	42	n/a	AIH	45	72	57	Frontal_Sup_Medial_L	n/a
+AIH15	0	20	54	n/a	AIH	45	73	63	Supp_Motor_Area_L	ctx-rh-superiorfrontal
+PIH8	-2	-42	60	n/a	PIH	46	42	66	Precuneus_L	ctx-lh-paracentral
+PIH7	-2	-50	54	n/a	PIH	46	38	63	Precuneus_L	ctx-lh-precuneus
+PIH6	-2	-58	48	n/a	PIH	46	34	60	Precuneus_L	ctx-lh-precuneus
+PIH5	-2	-66	36	n/a	PIH	46	30	54	Precuneus_L	ctx-lh-precuneus
+PIH4	-2	-74	26	n/a	PIH	46	26	49	Cuneus_L	ctx-lh-cuneus
+PIH3	0	-78	16	n/a	PIH	45	24	44	Calcarine_L	ctx-lh-cuneus
+REF2	-16	54	70	n/a	REF	53	90	71	n/a	n/a
+REF1	-26	54	66	n/a	REF	58	90	69	n/a	n/a
+GR4	-40	22	60	n/a	GR	65	74	66	n/a	n/a
+GR3	-38	32	52	n/a	GR	64	79	62	Frontal_Mid_2_L	n/a
+GR2	-36	40	44	n/a	GR	63	83	58	Frontal_Mid_2_L	n/a
+GR1	-36	50	36	n/a	GR	63	88	54	Frontal_Mid_2_L	n/a

@@ -1,0 +1,890 @@
+{
+ "headers": {
+  "MNI152_T1_2mm": {
+   "shape": [
+    91,
+    109,
+    91
+   ],
+   "sform": [
+    [
+     -2.0,
+     0.0,
+     0.0,
+     90.0
+    ],
+    [
+     0.0,
+     2.0,
+     0.0,
+     -126.0
+    ],
+    [
+     0.0,
+     0.0,
+     2.0,
+     -72.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "sform_code": 4,
+   "qform": [
+    [
+     -2.0,
+     0.0,
+     0.0,
+     90.0
+    ],
+    [
+     0.0,
+     2.0,
+     0.0,
+     -126.0
+    ],
+    [
+     0.0,
+     0.0,
+     2.0,
+     -72.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "qform_code": 4
+  },
+  "brain_mask": {
+   "shape": [
+    91,
+    109,
+    91
+   ],
+   "sform": [
+    [
+     -2.0,
+     0.0,
+     0.0,
+     90.0
+    ],
+    [
+     0.0,
+     2.0,
+     0.0,
+     -126.0
+    ],
+    [
+     0.0,
+     0.0,
+     2.0,
+     -72.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "sform_code": 4,
+   "qform": [
+    [
+     -2.0,
+     0.0,
+     0.0,
+     90.0
+    ],
+    [
+     0.0,
+     2.0,
+     0.0,
+     -126.0
+    ],
+    [
+     0.0,
+     0.0,
+     2.0,
+     -72.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "qform_code": 4
+  },
+  "HO-cort-maxprob-thr0": {
+   "shape": [
+    91,
+    109,
+    91
+   ],
+   "sform": [
+    [
+     -2.0,
+     0.0,
+     0.0,
+     90.0
+    ],
+    [
+     0.0,
+     2.0,
+     0.0,
+     -126.0
+    ],
+    [
+     0.0,
+     0.0,
+     2.0,
+     -72.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "sform_code": 2,
+   "qform": [
+    [
+     -2.0,
+     0.0,
+     0.0,
+     90.0
+    ],
+    [
+     0.0,
+     2.0,
+     0.0,
+     -126.0
+    ],
+    [
+     0.0,
+     0.0,
+     2.0,
+     -72.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "qform_code": 2
+  },
+  "HO-sub-maxprob-thr0": {
+   "shape": [
+    91,
+    109,
+    91
+   ],
+   "sform": [
+    [
+     -2.0,
+     0.0,
+     0.0,
+     90.0
+    ],
+    [
+     0.0,
+     2.0,
+     0.0,
+     -126.0
+    ],
+    [
+     0.0,
+     0.0,
+     2.0,
+     -72.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "sform_code": 4,
+   "qform": [
+    [
+     -2.0,
+     0.0,
+     0.0,
+     90.0
+    ],
+    [
+     0.0,
+     2.0,
+     0.0,
+     -126.0
+    ],
+    [
+     0.0,
+     0.0,
+     2.0,
+     -72.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "qform_code": 4
+  },
+  "HO-cort-prob": {
+   "shape": [
+    91,
+    109,
+    91,
+    48
+   ],
+   "sform": [
+    [
+     -2.0,
+     0.0,
+     0.0,
+     90.0
+    ],
+    [
+     0.0,
+     2.0,
+     0.0,
+     -126.0
+    ],
+    [
+     0.0,
+     0.0,
+     2.0,
+     -72.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "sform_code": 2,
+   "qform": [
+    [
+     -2.0,
+     0.0,
+     0.0,
+     90.0
+    ],
+    [
+     0.0,
+     2.0,
+     0.0,
+     -126.0
+    ],
+    [
+     0.0,
+     0.0,
+     2.0,
+     -72.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "qform_code": 2
+  },
+  "MNI-prob": {
+   "shape": [
+    91,
+    109,
+    91,
+    9
+   ],
+   "sform": [
+    [
+     -2.0,
+     0.0,
+     0.0,
+     90.0
+    ],
+    [
+     0.0,
+     2.0,
+     0.0,
+     -126.0
+    ],
+    [
+     0.0,
+     0.0,
+     2.0,
+     -72.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "sform_code": 2,
+   "qform": [
+    [
+     -2.0,
+     0.0,
+     0.0,
+     90.0
+    ],
+    [
+     0.0,
+     2.0,
+     0.0,
+     -126.0
+    ],
+    [
+     0.0,
+     0.0,
+     2.0,
+     -72.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ],
+   "qform_code": 2
+  }
+ },
+ "bounds": {
+  "0-based_inside_0..dim-1": true,
+  "1-based_inside_1..dim": true,
+  "n_index_eq_0": 0,
+  "n_index_eq_dim": 0,
+  "dims": [
+   91,
+   109,
+   91
+  ]
+ },
+ "n_contacts": 1348,
+ "n_used": 1284,
+ "paper": {
+  "visual": 116,
+  "hippocampus": 5,
+  "T2": {
+   "Frontal Pole": 176,
+   "Insular Cortex": 59,
+   "Middle Frontal Gyrus": 65,
+   "Precentral Gyrus": 52,
+   "Temporal Pole": 51,
+   "Middle Temporal Gyrus, posterior division": 45,
+   "Postcentral Gyrus": 47,
+   "Lateral Occipital Cortex, superior division": 36,
+   "Lingual Gyrus": 13,
+   "Occipital Pole": 21
+  },
+  "total": 1310
+ },
+ "all": {
+  "0-based": {
+   "visual": 120,
+   "visual_subjects": 7,
+   "hippocampus": 5,
+   "in_brain_mask": 837,
+   "outside_volume": 0,
+   "T2": {
+    "Frontal Pole": 179,
+    "Insular Cortex": 59,
+    "Middle Frontal Gyrus": 65,
+    "Precentral Gyrus": 54,
+    "Temporal Pole": 52,
+    "Middle Temporal Gyrus, posterior division": 45,
+    "Postcentral Gyrus": 50,
+    "Lateral Occipital Cortex, superior division": 46,
+    "Lingual Gyrus": 13,
+    "Occipital Pole": 21
+   },
+   "T2_gm": {
+    "Frontal Pole": 157,
+    "Insular Cortex": 46,
+    "Middle Frontal Gyrus": 43,
+    "Precentral Gyrus": 46,
+    "Temporal Pole": 52,
+    "Middle Temporal Gyrus, posterior division": 37,
+    "Postcentral Gyrus": 42,
+    "Lateral Occipital Cortex, superior division": 46,
+    "Lingual Gyrus": 13,
+    "Occipital Pole": 21
+   },
+   "T2_absdev": 19,
+   "T2gm_absdev": 84
+  },
+  "1-based": {
+   "visual": 120,
+   "visual_subjects": 7,
+   "hippocampus": 16,
+   "in_brain_mask": 888,
+   "outside_volume": 0,
+   "T2": {
+    "Frontal Pole": 160,
+    "Insular Cortex": 46,
+    "Middle Frontal Gyrus": 74,
+    "Precentral Gyrus": 51,
+    "Temporal Pole": 56,
+    "Middle Temporal Gyrus, posterior division": 36,
+    "Postcentral Gyrus": 58,
+    "Lateral Occipital Cortex, superior division": 39,
+    "Lingual Gyrus": 10,
+    "Occipital Pole": 28
+   },
+   "T2_gm": {
+    "Frontal Pole": 143,
+    "Insular Cortex": 34,
+    "Middle Frontal Gyrus": 57,
+    "Precentral Gyrus": 43,
+    "Temporal Pole": 56,
+    "Middle Temporal Gyrus, posterior division": 29,
+    "Postcentral Gyrus": 51,
+    "Lateral Occipital Cortex, superior division": 39,
+    "Lingual Gyrus": 10,
+    "Occipital Pole": 28
+   },
+   "T2_absdev": 77,
+   "T2gm_absdev": 113
+  },
+  "shift_scan_top10": [
+   {
+    "off": [
+     0,
+     0,
+     0
+    ],
+    "visual": 120,
+    "vis_dev": 4,
+    "T2_absdev": 19,
+    "T2gm_absdev": 84,
+    "hippocampus": 5,
+    "in_brain_mask": 837
+   },
+   {
+    "off": [
+     0,
+     0,
+     1
+    ],
+    "visual": 119,
+    "vis_dev": 3,
+    "T2_absdev": 22,
+    "T2gm_absdev": 89,
+    "hippocampus": 5,
+    "in_brain_mask": 837
+   },
+   {
+    "off": [
+     -1,
+     0,
+     1
+    ],
+    "visual": 117,
+    "vis_dev": 1,
+    "T2_absdev": 28,
+    "T2gm_absdev": 101,
+    "hippocampus": 4,
+    "in_brain_mask": 860
+   },
+   {
+    "off": [
+     2,
+     0,
+     0
+    ],
+    "visual": 115,
+    "vis_dev": 1,
+    "T2_absdev": 29,
+    "T2gm_absdev": 100,
+    "hippocampus": 7,
+    "in_brain_mask": 792
+   },
+   {
+    "off": [
+     0,
+     -1,
+     0
+    ],
+    "visual": 115,
+    "vis_dev": 1,
+    "T2_absdev": 31,
+    "T2gm_absdev": 90,
+    "hippocampus": 12,
+    "in_brain_mask": 858
+   },
+   {
+    "off": [
+     1,
+     0,
+     0
+    ],
+    "visual": 120,
+    "vis_dev": 4,
+    "T2_absdev": 28,
+    "T2gm_absdev": 93,
+    "hippocampus": 7,
+    "in_brain_mask": 805
+   },
+   {
+    "off": [
+     2,
+     -1,
+     -2
+    ],
+    "visual": 116,
+    "vis_dev": 0,
+    "T2_absdev": 36,
+    "T2gm_absdev": 99,
+    "hippocampus": 17,
+    "in_brain_mask": 823
+   },
+   {
+    "off": [
+     1,
+     0,
+     1
+    ],
+    "visual": 113,
+    "vis_dev": 3,
+    "T2_absdev": 35,
+    "T2gm_absdev": 89,
+    "hippocampus": 5,
+    "in_brain_mask": 805
+   },
+   {
+    "off": [
+     0,
+     -1,
+     1
+    ],
+    "visual": 112,
+    "vis_dev": 4,
+    "T2_absdev": 37,
+    "T2gm_absdev": 93,
+    "hippocampus": 5,
+    "in_brain_mask": 846
+   },
+   {
+    "off": [
+     0,
+     0,
+     -1
+    ],
+    "visual": 126,
+    "vis_dev": 10,
+    "T2_absdev": 31,
+    "T2gm_absdev": 91,
+    "hippocampus": 14,
+    "in_brain_mask": 848
+   }
+  ],
+  "rank_0based": 1,
+  "rank_1based": 84
+ },
+ "used": {
+  "0-based": {
+   "visual": 116,
+   "visual_subjects": 7,
+   "hippocampus": 5,
+   "in_brain_mask": 826,
+   "outside_volume": 0,
+   "T2": {
+    "Frontal Pole": 173,
+    "Insular Cortex": 59,
+    "Middle Frontal Gyrus": 62,
+    "Precentral Gyrus": 54,
+    "Temporal Pole": 52,
+    "Middle Temporal Gyrus, posterior division": 44,
+    "Postcentral Gyrus": 49,
+    "Lateral Occipital Cortex, superior division": 42,
+    "Lingual Gyrus": 13,
+    "Occipital Pole": 21
+   },
+   "T2_gm": {
+    "Frontal Pole": 151,
+    "Insular Cortex": 46,
+    "Middle Frontal Gyrus": 40,
+    "Precentral Gyrus": 46,
+    "Temporal Pole": 52,
+    "Middle Temporal Gyrus, posterior division": 36,
+    "Postcentral Gyrus": 41,
+    "Lateral Occipital Cortex, superior division": 42,
+    "Lingual Gyrus": 13,
+    "Occipital Pole": 21
+   },
+   "T2_absdev": 18,
+   "T2gm_absdev": 91
+  },
+  "1-based": {
+   "visual": 116,
+   "visual_subjects": 7,
+   "hippocampus": 16,
+   "in_brain_mask": 872,
+   "outside_volume": 0,
+   "T2": {
+    "Frontal Pole": 155,
+    "Insular Cortex": 46,
+    "Middle Frontal Gyrus": 67,
+    "Precentral Gyrus": 49,
+    "Temporal Pole": 56,
+    "Middle Temporal Gyrus, posterior division": 36,
+    "Postcentral Gyrus": 56,
+    "Lateral Occipital Cortex, superior division": 36,
+    "Lingual Gyrus": 10,
+    "Occipital Pole": 28
+   },
+   "T2_gm": {
+    "Frontal Pole": 138,
+    "Insular Cortex": 34,
+    "Middle Frontal Gyrus": 50,
+    "Precentral Gyrus": 41,
+    "Temporal Pole": 56,
+    "Middle Temporal Gyrus, posterior division": 29,
+    "Postcentral Gyrus": 49,
+    "Lateral Occipital Cortex, superior division": 36,
+    "Lingual Gyrus": 10,
+    "Occipital Pole": 28
+   },
+   "T2_absdev": 72,
+   "T2gm_absdev": 122
+  },
+  "shift_scan_top10": [
+   {
+    "off": [
+     0,
+     0,
+     0
+    ],
+    "visual": 116,
+    "vis_dev": 0,
+    "T2_absdev": 18,
+    "T2gm_absdev": 91,
+    "hippocampus": 5,
+    "in_brain_mask": 826
+   },
+   {
+    "off": [
+     0,
+     0,
+     1
+    ],
+    "visual": 115,
+    "vis_dev": 1,
+    "T2_absdev": 29,
+    "T2gm_absdev": 98,
+    "hippocampus": 5,
+    "in_brain_mask": 828
+   },
+   {
+    "off": [
+     1,
+     0,
+     0
+    ],
+    "visual": 116,
+    "vis_dev": 0,
+    "T2_absdev": 30,
+    "T2gm_absdev": 95,
+    "hippocampus": 7,
+    "in_brain_mask": 792
+   },
+   {
+    "off": [
+     0,
+     0,
+     -1
+    ],
+    "visual": 122,
+    "vis_dev": 6,
+    "T2_absdev": 26,
+    "T2gm_absdev": 98,
+    "hippocampus": 14,
+    "in_brain_mask": 834
+   },
+   {
+    "off": [
+     -1,
+     0,
+     1
+    ],
+    "visual": 114,
+    "vis_dev": 2,
+    "T2_absdev": 32,
+    "T2gm_absdev": 107,
+    "hippocampus": 4,
+    "in_brain_mask": 850
+   },
+   {
+    "off": [
+     2,
+     0,
+     0
+    ],
+    "visual": 111,
+    "vis_dev": 5,
+    "T2_absdev": 32,
+    "T2gm_absdev": 103,
+    "hippocampus": 7,
+    "in_brain_mask": 780
+   },
+   {
+    "off": [
+     2,
+     0,
+     -2
+    ],
+    "visual": 115,
+    "vis_dev": 1,
+    "T2_absdev": 37,
+    "T2gm_absdev": 113,
+    "hippocampus": 12,
+    "in_brain_mask": 794
+   },
+   {
+    "off": [
+     0,
+     -1,
+     0
+    ],
+    "visual": 111,
+    "vis_dev": 5,
+    "T2_absdev": 35,
+    "T2gm_absdev": 102,
+    "hippocampus": 12,
+    "in_brain_mask": 844
+   },
+   {
+    "off": [
+     1,
+     0,
+     -2
+    ],
+    "visual": 120,
+    "vis_dev": 4,
+    "T2_absdev": 38,
+    "T2gm_absdev": 91,
+    "hippocampus": 15,
+    "in_brain_mask": 819
+   },
+   {
+    "off": [
+     2,
+     -1,
+     -2
+    ],
+    "visual": 110,
+    "vis_dev": 6,
+    "T2_absdev": 38,
+    "T2gm_absdev": 109,
+    "hippocampus": 17,
+    "in_brain_mask": 806
+   }
+  ],
+  "rank_0based": 1,
+  "rank_1based": 60
+ },
+ "hemisphere_check": {
+  "n_named_LR": 287,
+  "agree_with_FSL_sform_sign": 281,
+  "disagree_examples": [
+   [
+    "sub-02",
+    "REF2",
+    "R",
+    -16.0
+   ],
+   [
+    "sub-02",
+    "REF1",
+    "R",
+    -26.0
+   ],
+   [
+    "sub-04",
+    "RAi4",
+    "R",
+    0.0
+   ],
+   [
+    "sub-04",
+    "RAi3",
+    "R",
+    0.0
+   ],
+   [
+    "sub-04",
+    "RAi2",
+    "R",
+    0.0
+   ],
+   [
+    "sub-04",
+    "RAi1",
+    "R",
+    -2.0
+   ]
+  ]
+ },
+ "per_subject_x": {
+  "sub-01": {
+   "n": 226,
+   "n_left(x<0)": 6,
+   "n_right(x>0)": 219
+  },
+  "sub-02": {
+   "n": 123,
+   "n_left(x<0)": 116,
+   "n_right(x>0)": 0
+  },
+  "sub-03": {
+   "n": 198,
+   "n_left(x<0)": 15,
+   "n_right(x>0)": 182
+  },
+  "sub-04": {
+   "n": 122,
+   "n_left(x<0)": 1,
+   "n_right(x>0)": 118
+  },
+  "sub-05": {
+   "n": 178,
+   "n_left(x<0)": 168,
+   "n_right(x>0)": 8
+  },
+  "sub-06": {
+   "n": 176,
+   "n_left(x<0)": 172,
+   "n_right(x>0)": 0
+  },
+  "sub-07": {
+   "n": 159,
+   "n_left(x<0)": 81,
+   "n_right(x>0)": 78
+  },
+  "sub-08": {
+   "n": 166,
+   "n_left(x<0)": 166,
+   "n_right(x>0)": 0
+  }
+ }
+}
