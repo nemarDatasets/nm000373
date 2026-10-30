@@ -1,179 +1,179 @@
-name	x	y	z	size	group	atlas_label_AAL3v1	atlas_label_DesikanKilliany
-AID12	63	71	58	n/a	AID	Frontal_Mid_2_L	Left-Cerebral-White-Matter
-AID11	63	70	55	n/a	AID	Frontal_Mid_2_L	Left-Cerebral-White-Matter
-AID10	63	69	53	n/a	AID	Frontal_Mid_2_L	Left-Cerebral-White-Matter
-AID9	63	69	50	n/a	AID	Frontal_Inf_Oper_L	ctx-lh-caudalmiddlefrontal
-AID8	63	68	48	n/a	AID	Frontal_Inf_Tri_L	ctx-lh-parsopercularis
-AID7	63	68	46	n/a	AID	Frontal_Inf_Oper_L	Left-Cerebral-White-Matter
-AID6	63	67	44	n/a	AID	Frontal_Inf_Oper_L	Left-Cerebral-White-Matter
-AID5	63	67	41	n/a	AID	Insula_L	ctx-lh-parsopercularis
-AID4	63	66	38	n/a	AID	Insula_L	ctx-lh-insula
-AID3	63	66	36	n/a	AID	Insula_L	ctx-lh-insula
-AID2	63	66	33	n/a	AID	Insula_L	Left-Cerebral-White-Matter
-AID1	64	65	30	n/a	AID	Insula_L	ctx-lh-insula
-ACD12	64	86	62	n/a	ACD	n/a	n/a
-ACD11	64	87	60	n/a	ACD	n/a	n/a
-ACD10	63	86	58	n/a	ACD	n/a	n/a
-ACD9	61	85	57	n/a	ACD	Frontal_Sup_2_L	n/a
-ACD8	59	83	55	n/a	ACD	Frontal_Sup_2_L	n/a
-ACD7	57	82	54	n/a	ACD	Frontal_Sup_2_L	ctx-lh-rostralmiddlefrontal
-ACD6	56	81	52	n/a	ACD	Frontal_Sup_2_L	Left-Cerebral-White-Matter
-ACD5	54	80	51	n/a	ACD	Frontal_Sup_2_L	Left-Cerebral-White-Matter
-ACD4	52	80	49	n/a	ACD	Frontal_Sup_Medial_L	Left-Cerebral-White-Matter
-ACD3	50	80	48	n/a	ACD	ACC_sup_L	ctx-lh-superiorfrontal
-ACD2	48	80	46	n/a	ACD	ACC_sup_L	ctx-lh-caudalanteriorcingulate
-ACD1	46	79	44	n/a	ACD	ACC_sup_L	ctx-lh-caudalanteriorcingulate
-HD8	75	50	32	n/a	HD	Temporal_Mid_L	ctx-lh-middletemporal
-HD7	72	50	31	n/a	HD	Temporal_Mid_L	ctx-lh-middletemporal
-HD6	69	51	31	n/a	HD	Temporal_Mid_L	ctx-lh-superiortemporal
-HD5	66	50	31	n/a	HD	Temporal_Mid_L	Left-Cerebral-White-Matter
-HD4	63	49	31	n/a	HD	Hippocampus_L	ctx-lh-unknown
-HD3	60	49	30	n/a	HD	Hippocampus_L	Left-Hippocampus
-HD2	58	49	30	n/a	HD	Hippocampus_L	Left-Hippocampus
-HD1	54	49	30	n/a	HD	Hippocampus_L	Left-Hippocampus
-CSD12	83	38	38	n/a	CSD	n/a	n/a
-CSD11	82	41	36	n/a	CSD	n/a	n/a
-CSD6	75	50	30	n/a	CSD	Temporal_Mid_L	ctx-lh-middletemporal
-CSD5	72	50	29	n/a	CSD	Temporal_Mid_L	Left-Cerebral-White-Matter
-CSD4	70	50	27	n/a	CSD	Temporal_Inf_L	Left-Cerebral-White-Matter
-CSD3	67	50	26	n/a	CSD	Temporal_Inf_L	Left-Cerebral-White-Matter
-CSD2	65	50	25	n/a	CSD	Temporal_Inf_L	ctx-lh-fusiform
-CSD1	62	50	24	n/a	CSD	Fusiform_L	ctx-lh-parahippocampal
-AD12	82	52	33	n/a	AD	Temporal_Mid_L	n/a
-AD11	81	54	33	n/a	AD	Temporal_Mid_L	n/a
-AD10	79	56	33	n/a	AD	Temporal_Mid_L	n/a
-AD9	76	56	33	n/a	AD	Temporal_Mid_L	ctx-lh-superiortemporal
-AD8	73	57	33	n/a	AD	Temporal_Mid_L	Left-Cerebral-White-Matter
-AD7	70	57	32	n/a	AD	Temporal_Mid_L	Left-Cerebral-White-Matter
-AD6	68	57	31	n/a	AD	Temporal_Sup_L	ctx-lh-superiortemporal
-AD5	65	58	31	n/a	AD	Temporal_Sup_L	ctx-lh-insula
-AD4	63	58	31	n/a	AD	Temporal_Sup_L	ctx-lh-insula
-AD3	60	58	30	n/a	AD	Hippocampus_L	Left-Putamen
-AD2	58	59	30	n/a	AD	Amygdala_L	Left-Cerebral-White-Matter
-AD1	55	59	29	n/a	AD	Hippocampus_L	Left-Amygdala
-OF12	67	79	28	n/a	OF	OFClat_L	ctx-lh-parsorbitalis
-OF11	63	78	26	n/a	OF	OFCpost_L	ctx-lh-lateralorbitofrontal
-OF10	58	78	25	n/a	OF	OFCant_L	ctx-lh-lateralorbitofrontal
-OF9	52	78	24	n/a	OF	OFCmed_L	ctx-lh-lateralorbitofrontal
-OF8	45	77	23	n/a	OF	Rectus_L	ctx-lh-medialorbitofrontal
-OF7	39	77	23	n/a	OF	OFCmed_R	ctx-rh-lateralorbitofrontal
-OF6	34	76	24	n/a	OF	OFCmed_R	ctx-rh-lateralorbitofrontal
-OF5	79	48	33	n/a	OF	Temporal_Mid_L	n/a
-OF4	26	76	28	n/a	OF	OFCpost_R	Right-Cerebral-White-Matter
-OF3	22	75	31	n/a	OF	Frontal_Inf_Orb_2_R	ctx-rh-parsorbitalis
-OF2	19	75	35	n/a	OF	Frontal_Inf_Tri_R	ctx-rh-parstriangularis
-OF1	17	75	40	n/a	OF	Frontal_Inf_Tri_R	ctx-rh-parstriangularis
-GMF8	70	87	39	n/a	GMF	Frontal_Inf_Tri_L	n/a
-GMF16	70	87	35	n/a	GMF	Frontal_Mid_2_L	n/a
-GMF7	66	90	40	n/a	GMF	Frontal_Mid_2_L	ctx-lh-rostralmiddlefrontal
-GMF15	67	91	35	n/a	GMF	Frontal_Mid_2_L	ctx-lh-rostralmiddlefrontal
-GMF6	62	94	41	n/a	GMF	Frontal_Mid_2_L	n/a
-GMF14	63	95	35	n/a	GMF	Frontal_Sup_2_L	n/a
-GMF5	58	97	41	n/a	GMF	Frontal_Sup_2_L	n/a
-GMF13	59	99	36	n/a	GMF	n/a	n/a
-GMF4	54	101	42	n/a	GMF	n/a	n/a
-GMF12	55	102	37	n/a	GMF	n/a	n/a
-AMT8	74	69	20	n/a	AMT	Temporal_Pole_Mid_L	n/a
-AMT7	71	67	17	n/a	AMT	Temporal_Pole_Mid_L	ctx-lh-middletemporal
-AMT6	67	65	15	n/a	AMT	Temporal_Inf_L	ctx-lh-inferiortemporal
-AMT5	62	61	17	n/a	AMT	Temporal_Inf_L	Left-Cerebral-White-Matter
-AMT4	60	58	20	n/a	AMT	Fusiform_L	ctx-lh-entorhinal
-AMT3	57	54	23	n/a	AMT	ParaHippocampal_L	Left-Hippocampus
-AMT2	55	50	25	n/a	AMT	ParaHippocampal_L	ctx-lh-parahippocampal
-ALa6	78	59	20	n/a	ALa	n/a	n/a
-ALa5	74	55	19	n/a	ALa	Temporal_Inf_L	ctx-lh-inferiortemporal
-ALa4	69	53	21	n/a	ALa	Temporal_Inf_L	Left-Cerebral-White-Matter
-ALa3	64	50	22	n/a	ALa	Fusiform_L	ctx-lh-fusiform
-ALa2	59	47	24	n/a	ALa	Fusiform_L	ctx-lh-parahippocampal
-ALb4	78	54	21	n/a	ALb	Temporal_Inf_L	n/a
-ALb3	73	52	21	n/a	ALb	Temporal_Inf_L	ctx-lh-inferiortemporal
-ALb2	67	51	22	n/a	ALb	Temporal_Inf_L	ctx-lh-inferiortemporal
-ALb1	61	50	22	n/a	ALb	Fusiform_L	ctx-lh-parahippocampal
-MT8	79	44	28	n/a	MT	Temporal_Inf_L	ctx-lh-middletemporal
-MT7	75	41	26	n/a	MT	Temporal_Inf_L	ctx-lh-inferiortemporal
-MT6	70	38	25	n/a	MT	Temporal_Inf_L	ctx-lh-inferiortemporal
-MT5	66	35	25	n/a	MT	Fusiform_L	ctx-lh-fusiform
-MT4	61	34	27	n/a	MT	Fusiform_L	ctx-lh-fusiform
-MT3	56	33	29	n/a	MT	Cerebellum_6_L	ctx-lh-lingual
-MT2	51	31	32	n/a	MT	Lingual_L	ctx-lh-lingual
-MT1	48	29	35	n/a	MT	Lingual_L	ctx-lh-lingual
-PT12	79	35	42	n/a	PT	n/a	n/a
-PT11	77	30	40	n/a	PT	n/a	n/a
-PT10	74	25	38	n/a	PT	n/a	n/a
-PT9	71	21	37	n/a	PT	Occipital_Mid_L	n/a
-PT8	67	17	35	n/a	PT	Occipital_Mid_L	n/a
-PT7	63	14	33	n/a	PT	Occipital_Mid_L	n/a
-PT6	58	12	31	n/a	PT	Occipital_Inf_L	ctx-lh-lateraloccipital
-PT5	53	11	31	n/a	PT	Occipital_Inf_L	ctx-lh-lateraloccipital
-PT4	47	13	30	n/a	PT	Calcarine_L	n/a
-PT3	44	16	32	n/a	PT	Calcarine_L	ctx-rh-lingual
-PT2	44	21	35	n/a	PT	Calcarine_L	ctx-rh-lingual
-PT1	45	25	38	n/a	PT	Lingual_L	ctx-lh-lingual
-SO8	75	46	64	n/a	SO	n/a	n/a
-SO7	71	41	66	n/a	SO	Parietal_Inf_L	n/a
-SO6	67	37	68	n/a	SO	Parietal_Inf_L	n/a
-SO5	62	33	69	n/a	SO	Parietal_Sup_L	n/a
-SO4	58	29	70	n/a	SO	Parietal_Sup_L	n/a
-SO3	53	26	69	n/a	SO	n/a	n/a
-GFT8	71	82	37	n/a	GFT	Frontal_Inf_Tri_L	ctx-lh-parstriangularis
-GFT16	73	78	40	n/a	GFT	Frontal_Inf_Tri_L	ctx-lh-parstriangularis
-GFT24	73	74	43	n/a	GFT	Frontal_Inf_Tri_L	ctx-lh-parsopercularis
-GFT32	74	70	47	n/a	GFT	Frontal_Inf_Oper_L	ctx-lh-parsopercularis
-GFT40	76	67	51	n/a	GFT	Precentral_L	ctx-lh-precentral
-GFT48	77	63	55	n/a	GFT	Postcentral_L	n/a
-GFT56	76	59	59	n/a	GFT	Postcentral_L	n/a
-GFT64	75	56	63	n/a	GFT	n/a	n/a
-GFT7	70	78	33	n/a	GFT	Frontal_Inf_Orb_2_L	ctx-lh-parstriangularis
-GFT15	72	74	36	n/a	GFT	Frontal_Inf_Tri_L	n/a
-GFT23	74	71	40	n/a	GFT	Frontal_Inf_Tri_L	ctx-lh-parsopercularis
-GFT31	76	67	43	n/a	GFT	Frontal_Inf_Oper_L	ctx-lh-precentral
-GFT39	78	63	47	n/a	GFT	Postcentral_L	n/a
-GFT47	79	60	52	n/a	GFT	Postcentral_L	n/a
-GFT55	79	56	56	n/a	GFT	n/a	n/a
-GFT63	79	52	60	n/a	GFT	n/a	n/a
-GFT6	70	74	30	n/a	GFT	Temporal_Pole_Sup_L	n/a
-GFT14	73	71	32	n/a	GFT	Temporal_Pole_Sup_L	n/a
-GFT22	76	67	35	n/a	GFT	Temporal_Pole_Sup_L	n/a
-GFT30	78	63	39	n/a	GFT	Rolandic_Oper_L	n/a
-GFT38	79	60	44	n/a	GFT	Postcentral_L	n/a
-GFT46	81	57	49	n/a	GFT	n/a	n/a
-GFT54	81	53	53	n/a	GFT	n/a	n/a
-GFT62	81	49	57	n/a	GFT	n/a	n/a
-GFT5	72	71	25	n/a	GFT	Temporal_Pole_Sup_L	ctx-lh-superiortemporal
-GFT13	75	68	27	n/a	GFT	Temporal_Mid_L	n/a
-GFT21	78	64	31	n/a	GFT	n/a	n/a
-GFT29	80	60	35	n/a	GFT	n/a	n/a
-GFT37	81	56	41	n/a	GFT	n/a	n/a
-GFT45	82	53	45	n/a	GFT	n/a	n/a
-GFT53	82	49	49	n/a	GFT	n/a	n/a
-GFT61	81	45	54	n/a	GFT	n/a	n/a
-GFT4	74	68	20	n/a	GFT	Temporal_Pole_Mid_L	n/a
-GFT12	76	65	23	n/a	GFT	Temporal_Mid_L	n/a
-GFT20	81	61	27	n/a	GFT	n/a	n/a
-GFT28	82	57	31	n/a	GFT	n/a	n/a
-GFT36	82	52	37	n/a	GFT	Temporal_Mid_L	n/a
-GFT44	83	49	42	n/a	GFT	n/a	n/a
-GFT52	82	45	46	n/a	GFT	n/a	n/a
-GFT60	81	41	50	n/a	GFT	n/a	n/a
-GFT3	74	65	16	n/a	GFT	Temporal_Pole_Mid_L	n/a
-GFT11	78	63	19	n/a	GFT	n/a	n/a
-GFT19	81	57	24	n/a	GFT	n/a	n/a
-GFT27	82	54	28	n/a	GFT	n/a	n/a
-GFT35	82	49	34	n/a	GFT	Temporal_Mid_L	n/a
-GFT43	83	45	38	n/a	GFT	n/a	n/a
-GFT51	81	42	42	n/a	GFT	n/a	n/a
-GFT59	80	37	46	n/a	GFT	n/a	n/a
-Re4	73	49	67	n/a	Re	n/a	n/a
-Re3	70	45	69	n/a	Re	Postcentral_L	n/a
-Re2	67	40	70	n/a	Re	n/a	n/a
-Re1	64	34	71	n/a	Re	Parietal_Sup_L	n/a
-Gr2	65	92	53	n/a	Gr	n/a	n/a
-Gr1	62	93	56	n/a	Gr	n/a	n/a
-IO8	80	39	54	n/a	IO	n/a	n/a
-IO7	77	35	57	n/a	IO	n/a	n/a
-IO6	73	32	60	n/a	IO	n/a	n/a
-IO5	68	28	62	n/a	IO	Angular_L	n/a
-IO4	64	26	64	n/a	IO	n/a	n/a
-IO3	59	24	66	n/a	IO	n/a	n/a
-IO2	53	24	66	n/a	IO	Precuneus_L	n/a
-IO1	48	25	65	n/a	IO	Precuneus_L	n/a
+name	x	y	z	size	group	voxel_i	voxel_j	voxel_k	atlas_label_AAL3v1	atlas_label_DesikanKilliany
+AID12	-36	16	44	n/a	AID	63	71	58	Frontal_Mid_2_L	Left-Cerebral-White-Matter
+AID11	-36	14	38	n/a	AID	63	70	55	Frontal_Mid_2_L	Left-Cerebral-White-Matter
+AID10	-36	12	34	n/a	AID	63	69	53	Frontal_Mid_2_L	Left-Cerebral-White-Matter
+AID9	-36	12	28	n/a	AID	63	69	50	Frontal_Inf_Oper_L	ctx-lh-caudalmiddlefrontal
+AID8	-36	10	24	n/a	AID	63	68	48	Frontal_Inf_Tri_L	ctx-lh-parsopercularis
+AID7	-36	10	20	n/a	AID	63	68	46	Frontal_Inf_Oper_L	Left-Cerebral-White-Matter
+AID6	-36	8	16	n/a	AID	63	67	44	Frontal_Inf_Oper_L	Left-Cerebral-White-Matter
+AID5	-36	8	10	n/a	AID	63	67	41	Insula_L	ctx-lh-parsopercularis
+AID4	-36	6	4	n/a	AID	63	66	38	Insula_L	ctx-lh-insula
+AID3	-36	6	0	n/a	AID	63	66	36	Insula_L	ctx-lh-insula
+AID2	-36	6	-6	n/a	AID	63	66	33	Insula_L	Left-Cerebral-White-Matter
+AID1	-38	4	-12	n/a	AID	64	65	30	Insula_L	ctx-lh-insula
+ACD12	-38	46	52	n/a	ACD	64	86	62	n/a	n/a
+ACD11	-38	48	48	n/a	ACD	64	87	60	n/a	n/a
+ACD10	-36	46	44	n/a	ACD	63	86	58	n/a	n/a
+ACD9	-32	44	42	n/a	ACD	61	85	57	Frontal_Sup_2_L	n/a
+ACD8	-28	40	38	n/a	ACD	59	83	55	Frontal_Sup_2_L	n/a
+ACD7	-24	38	36	n/a	ACD	57	82	54	Frontal_Sup_2_L	ctx-lh-rostralmiddlefrontal
+ACD6	-22	36	32	n/a	ACD	56	81	52	Frontal_Sup_2_L	Left-Cerebral-White-Matter
+ACD5	-18	34	30	n/a	ACD	54	80	51	Frontal_Sup_2_L	Left-Cerebral-White-Matter
+ACD4	-14	34	26	n/a	ACD	52	80	49	Frontal_Sup_Medial_L	Left-Cerebral-White-Matter
+ACD3	-10	34	24	n/a	ACD	50	80	48	ACC_sup_L	ctx-lh-superiorfrontal
+ACD2	-6	34	20	n/a	ACD	48	80	46	ACC_sup_L	ctx-lh-caudalanteriorcingulate
+ACD1	-2	32	16	n/a	ACD	46	79	44	ACC_sup_L	ctx-lh-caudalanteriorcingulate
+HD8	-60	-26	-8	n/a	HD	75	50	32	Temporal_Mid_L	ctx-lh-middletemporal
+HD7	-54	-26	-10	n/a	HD	72	50	31	Temporal_Mid_L	ctx-lh-middletemporal
+HD6	-48	-24	-10	n/a	HD	69	51	31	Temporal_Mid_L	ctx-lh-superiortemporal
+HD5	-42	-26	-10	n/a	HD	66	50	31	Temporal_Mid_L	Left-Cerebral-White-Matter
+HD4	-36	-28	-10	n/a	HD	63	49	31	Hippocampus_L	ctx-lh-unknown
+HD3	-30	-28	-12	n/a	HD	60	49	30	Hippocampus_L	Left-Hippocampus
+HD2	-26	-28	-12	n/a	HD	58	49	30	Hippocampus_L	Left-Hippocampus
+HD1	-18	-28	-12	n/a	HD	54	49	30	Hippocampus_L	Left-Hippocampus
+CSD12	-76	-50	4	n/a	CSD	83	38	38	n/a	n/a
+CSD11	-74	-44	0	n/a	CSD	82	41	36	n/a	n/a
+CSD6	-60	-26	-12	n/a	CSD	75	50	30	Temporal_Mid_L	ctx-lh-middletemporal
+CSD5	-54	-26	-14	n/a	CSD	72	50	29	Temporal_Mid_L	Left-Cerebral-White-Matter
+CSD4	-50	-26	-18	n/a	CSD	70	50	27	Temporal_Inf_L	Left-Cerebral-White-Matter
+CSD3	-44	-26	-20	n/a	CSD	67	50	26	Temporal_Inf_L	Left-Cerebral-White-Matter
+CSD2	-40	-26	-22	n/a	CSD	65	50	25	Temporal_Inf_L	ctx-lh-fusiform
+CSD1	-34	-26	-24	n/a	CSD	62	50	24	Fusiform_L	ctx-lh-parahippocampal
+AD12	-74	-22	-6	n/a	AD	82	52	33	Temporal_Mid_L	n/a
+AD11	-72	-18	-6	n/a	AD	81	54	33	Temporal_Mid_L	n/a
+AD10	-68	-14	-6	n/a	AD	79	56	33	Temporal_Mid_L	n/a
+AD9	-62	-14	-6	n/a	AD	76	56	33	Temporal_Mid_L	ctx-lh-superiortemporal
+AD8	-56	-12	-6	n/a	AD	73	57	33	Temporal_Mid_L	Left-Cerebral-White-Matter
+AD7	-50	-12	-8	n/a	AD	70	57	32	Temporal_Mid_L	Left-Cerebral-White-Matter
+AD6	-46	-12	-10	n/a	AD	68	57	31	Temporal_Sup_L	ctx-lh-superiortemporal
+AD5	-40	-10	-10	n/a	AD	65	58	31	Temporal_Sup_L	ctx-lh-insula
+AD4	-36	-10	-10	n/a	AD	63	58	31	Temporal_Sup_L	ctx-lh-insula
+AD3	-30	-10	-12	n/a	AD	60	58	30	Hippocampus_L	Left-Putamen
+AD2	-26	-8	-12	n/a	AD	58	59	30	Amygdala_L	Left-Cerebral-White-Matter
+AD1	-20	-8	-14	n/a	AD	55	59	29	Hippocampus_L	Left-Amygdala
+OF12	-44	32	-16	n/a	OF	67	79	28	OFClat_L	ctx-lh-parsorbitalis
+OF11	-36	30	-20	n/a	OF	63	78	26	OFCpost_L	ctx-lh-lateralorbitofrontal
+OF10	-26	30	-22	n/a	OF	58	78	25	OFCant_L	ctx-lh-lateralorbitofrontal
+OF9	-14	30	-24	n/a	OF	52	78	24	OFCmed_L	ctx-lh-lateralorbitofrontal
+OF8	0	28	-26	n/a	OF	45	77	23	Rectus_L	ctx-lh-medialorbitofrontal
+OF7	12	28	-26	n/a	OF	39	77	23	OFCmed_R	ctx-rh-lateralorbitofrontal
+OF6	22	26	-24	n/a	OF	34	76	24	OFCmed_R	ctx-rh-lateralorbitofrontal
+OF5	-68	-30	-6	n/a	OF	79	48	33	Temporal_Mid_L	n/a
+OF4	38	26	-16	n/a	OF	26	76	28	OFCpost_R	Right-Cerebral-White-Matter
+OF3	46	24	-10	n/a	OF	22	75	31	Frontal_Inf_Orb_2_R	ctx-rh-parsorbitalis
+OF2	52	24	-2	n/a	OF	19	75	35	Frontal_Inf_Tri_R	ctx-rh-parstriangularis
+OF1	56	24	8	n/a	OF	17	75	40	Frontal_Inf_Tri_R	ctx-rh-parstriangularis
+GMF8	-50	48	6	n/a	GMF	70	87	39	Frontal_Inf_Tri_L	n/a
+GMF16	-50	48	-2	n/a	GMF	70	87	35	Frontal_Mid_2_L	n/a
+GMF7	-42	54	8	n/a	GMF	66	90	40	Frontal_Mid_2_L	ctx-lh-rostralmiddlefrontal
+GMF15	-44	56	-2	n/a	GMF	67	91	35	Frontal_Mid_2_L	ctx-lh-rostralmiddlefrontal
+GMF6	-34	62	10	n/a	GMF	62	94	41	Frontal_Mid_2_L	n/a
+GMF14	-36	64	-2	n/a	GMF	63	95	35	Frontal_Sup_2_L	n/a
+GMF5	-26	68	10	n/a	GMF	58	97	41	Frontal_Sup_2_L	n/a
+GMF13	-28	72	0	n/a	GMF	59	99	36	n/a	n/a
+GMF4	-18	76	12	n/a	GMF	54	101	42	n/a	n/a
+GMF12	-20	78	2	n/a	GMF	55	102	37	n/a	n/a
+AMT8	-58	12	-32	n/a	AMT	74	69	20	Temporal_Pole_Mid_L	n/a
+AMT7	-52	8	-38	n/a	AMT	71	67	17	Temporal_Pole_Mid_L	ctx-lh-middletemporal
+AMT6	-44	4	-42	n/a	AMT	67	65	15	Temporal_Inf_L	ctx-lh-inferiortemporal
+AMT5	-34	-4	-38	n/a	AMT	62	61	17	Temporal_Inf_L	Left-Cerebral-White-Matter
+AMT4	-30	-10	-32	n/a	AMT	60	58	20	Fusiform_L	ctx-lh-entorhinal
+AMT3	-24	-18	-26	n/a	AMT	57	54	23	ParaHippocampal_L	Left-Hippocampus
+AMT2	-20	-26	-22	n/a	AMT	55	50	25	ParaHippocampal_L	ctx-lh-parahippocampal
+ALa6	-66	-8	-32	n/a	ALa	78	59	20	n/a	n/a
+ALa5	-58	-16	-34	n/a	ALa	74	55	19	Temporal_Inf_L	ctx-lh-inferiortemporal
+ALa4	-48	-20	-30	n/a	ALa	69	53	21	Temporal_Inf_L	Left-Cerebral-White-Matter
+ALa3	-38	-26	-28	n/a	ALa	64	50	22	Fusiform_L	ctx-lh-fusiform
+ALa2	-28	-32	-24	n/a	ALa	59	47	24	Fusiform_L	ctx-lh-parahippocampal
+ALb4	-66	-18	-30	n/a	ALb	78	54	21	Temporal_Inf_L	n/a
+ALb3	-56	-22	-30	n/a	ALb	73	52	21	Temporal_Inf_L	ctx-lh-inferiortemporal
+ALb2	-44	-24	-28	n/a	ALb	67	51	22	Temporal_Inf_L	ctx-lh-inferiortemporal
+ALb1	-32	-26	-28	n/a	ALb	61	50	22	Fusiform_L	ctx-lh-parahippocampal
+MT8	-68	-38	-16	n/a	MT	79	44	28	Temporal_Inf_L	ctx-lh-middletemporal
+MT7	-60	-44	-20	n/a	MT	75	41	26	Temporal_Inf_L	ctx-lh-inferiortemporal
+MT6	-50	-50	-22	n/a	MT	70	38	25	Temporal_Inf_L	ctx-lh-inferiortemporal
+MT5	-42	-56	-22	n/a	MT	66	35	25	Fusiform_L	ctx-lh-fusiform
+MT4	-32	-58	-18	n/a	MT	61	34	27	Fusiform_L	ctx-lh-fusiform
+MT3	-22	-60	-14	n/a	MT	56	33	29	Cerebellum_6_L	ctx-lh-lingual
+MT2	-12	-64	-8	n/a	MT	51	31	32	Lingual_L	ctx-lh-lingual
+MT1	-6	-68	-2	n/a	MT	48	29	35	Lingual_L	ctx-lh-lingual
+PT12	-68	-56	12	n/a	PT	79	35	42	n/a	n/a
+PT11	-64	-66	8	n/a	PT	77	30	40	n/a	n/a
+PT10	-58	-76	4	n/a	PT	74	25	38	n/a	n/a
+PT9	-52	-84	2	n/a	PT	71	21	37	Occipital_Mid_L	n/a
+PT8	-44	-92	-2	n/a	PT	67	17	35	Occipital_Mid_L	n/a
+PT7	-36	-98	-6	n/a	PT	63	14	33	Occipital_Mid_L	n/a
+PT6	-26	-102	-10	n/a	PT	58	12	31	Occipital_Inf_L	ctx-lh-lateraloccipital
+PT5	-16	-104	-10	n/a	PT	53	11	31	Occipital_Inf_L	ctx-lh-lateraloccipital
+PT4	-4	-100	-12	n/a	PT	47	13	30	Calcarine_L	n/a
+PT3	2	-94	-8	n/a	PT	44	16	32	Calcarine_L	ctx-rh-lingual
+PT2	2	-84	-2	n/a	PT	44	21	35	Calcarine_L	ctx-rh-lingual
+PT1	0	-76	4	n/a	PT	45	25	38	Lingual_L	ctx-lh-lingual
+SO8	-60	-34	56	n/a	SO	75	46	64	n/a	n/a
+SO7	-52	-44	60	n/a	SO	71	41	66	Parietal_Inf_L	n/a
+SO6	-44	-52	64	n/a	SO	67	37	68	Parietal_Inf_L	n/a
+SO5	-34	-60	66	n/a	SO	62	33	69	Parietal_Sup_L	n/a
+SO4	-26	-68	68	n/a	SO	58	29	70	Parietal_Sup_L	n/a
+SO3	-16	-74	66	n/a	SO	53	26	69	n/a	n/a
+GFT8	-52	38	2	n/a	GFT	71	82	37	Frontal_Inf_Tri_L	ctx-lh-parstriangularis
+GFT16	-56	30	8	n/a	GFT	73	78	40	Frontal_Inf_Tri_L	ctx-lh-parstriangularis
+GFT24	-56	22	14	n/a	GFT	73	74	43	Frontal_Inf_Tri_L	ctx-lh-parsopercularis
+GFT32	-58	14	22	n/a	GFT	74	70	47	Frontal_Inf_Oper_L	ctx-lh-parsopercularis
+GFT40	-62	8	30	n/a	GFT	76	67	51	Precentral_L	ctx-lh-precentral
+GFT48	-64	0	38	n/a	GFT	77	63	55	Postcentral_L	n/a
+GFT56	-62	-8	46	n/a	GFT	76	59	59	Postcentral_L	n/a
+GFT64	-60	-14	54	n/a	GFT	75	56	63	n/a	n/a
+GFT7	-50	30	-6	n/a	GFT	70	78	33	Frontal_Inf_Orb_2_L	ctx-lh-parstriangularis
+GFT15	-54	22	0	n/a	GFT	72	74	36	Frontal_Inf_Tri_L	n/a
+GFT23	-58	16	8	n/a	GFT	74	71	40	Frontal_Inf_Tri_L	ctx-lh-parsopercularis
+GFT31	-62	8	14	n/a	GFT	76	67	43	Frontal_Inf_Oper_L	ctx-lh-precentral
+GFT39	-66	0	22	n/a	GFT	78	63	47	Postcentral_L	n/a
+GFT47	-68	-6	32	n/a	GFT	79	60	52	Postcentral_L	n/a
+GFT55	-68	-14	40	n/a	GFT	79	56	56	n/a	n/a
+GFT63	-68	-22	48	n/a	GFT	79	52	60	n/a	n/a
+GFT6	-50	22	-12	n/a	GFT	70	74	30	Temporal_Pole_Sup_L	n/a
+GFT14	-56	16	-8	n/a	GFT	73	71	32	Temporal_Pole_Sup_L	n/a
+GFT22	-62	8	-2	n/a	GFT	76	67	35	Temporal_Pole_Sup_L	n/a
+GFT30	-66	0	6	n/a	GFT	78	63	39	Rolandic_Oper_L	n/a
+GFT38	-68	-6	16	n/a	GFT	79	60	44	Postcentral_L	n/a
+GFT46	-72	-12	26	n/a	GFT	81	57	49	n/a	n/a
+GFT54	-72	-20	34	n/a	GFT	81	53	53	n/a	n/a
+GFT62	-72	-28	42	n/a	GFT	81	49	57	n/a	n/a
+GFT5	-54	16	-22	n/a	GFT	72	71	25	Temporal_Pole_Sup_L	ctx-lh-superiortemporal
+GFT13	-60	10	-18	n/a	GFT	75	68	27	Temporal_Mid_L	n/a
+GFT21	-66	2	-10	n/a	GFT	78	64	31	n/a	n/a
+GFT29	-70	-6	-2	n/a	GFT	80	60	35	n/a	n/a
+GFT37	-72	-14	10	n/a	GFT	81	56	41	n/a	n/a
+GFT45	-74	-20	18	n/a	GFT	82	53	45	n/a	n/a
+GFT53	-74	-28	26	n/a	GFT	82	49	49	n/a	n/a
+GFT61	-72	-36	36	n/a	GFT	81	45	54	n/a	n/a
+GFT4	-58	10	-32	n/a	GFT	74	68	20	Temporal_Pole_Mid_L	n/a
+GFT12	-62	4	-26	n/a	GFT	76	65	23	Temporal_Mid_L	n/a
+GFT20	-72	-4	-18	n/a	GFT	81	61	27	n/a	n/a
+GFT28	-74	-12	-10	n/a	GFT	82	57	31	n/a	n/a
+GFT36	-74	-22	2	n/a	GFT	82	52	37	Temporal_Mid_L	n/a
+GFT44	-76	-28	12	n/a	GFT	83	49	42	n/a	n/a
+GFT52	-74	-36	20	n/a	GFT	82	45	46	n/a	n/a
+GFT60	-72	-44	28	n/a	GFT	81	41	50	n/a	n/a
+GFT3	-58	4	-40	n/a	GFT	74	65	16	Temporal_Pole_Mid_L	n/a
+GFT11	-66	0	-34	n/a	GFT	78	63	19	n/a	n/a
+GFT19	-72	-12	-24	n/a	GFT	81	57	24	n/a	n/a
+GFT27	-74	-18	-16	n/a	GFT	82	54	28	n/a	n/a
+GFT35	-74	-28	-4	n/a	GFT	82	49	34	Temporal_Mid_L	n/a
+GFT43	-76	-36	4	n/a	GFT	83	45	38	n/a	n/a
+GFT51	-72	-42	12	n/a	GFT	81	42	42	n/a	n/a
+GFT59	-70	-52	20	n/a	GFT	80	37	46	n/a	n/a
+Re4	-56	-28	62	n/a	Re	73	49	67	n/a	n/a
+Re3	-50	-36	66	n/a	Re	70	45	69	Postcentral_L	n/a
+Re2	-44	-46	68	n/a	Re	67	40	70	n/a	n/a
+Re1	-38	-58	70	n/a	Re	64	34	71	Parietal_Sup_L	n/a
+Gr2	-40	58	34	n/a	Gr	65	92	53	n/a	n/a
+Gr1	-34	60	40	n/a	Gr	62	93	56	n/a	n/a
+IO8	-70	-48	36	n/a	IO	80	39	54	n/a	n/a
+IO7	-64	-56	42	n/a	IO	77	35	57	n/a	n/a
+IO6	-56	-62	48	n/a	IO	73	32	60	n/a	n/a
+IO5	-46	-70	52	n/a	IO	68	28	62	Angular_L	n/a
+IO4	-38	-74	56	n/a	IO	64	26	64	n/a	n/a
+IO3	-28	-78	60	n/a	IO	59	24	66	n/a	n/a
+IO2	-16	-78	60	n/a	IO	53	24	66	Precuneus_L	n/a
+IO1	-6	-76	58	n/a	IO	48	25	65	Precuneus_L	n/a
