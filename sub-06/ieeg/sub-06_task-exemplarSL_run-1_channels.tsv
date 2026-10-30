@@ -167,8 +167,8 @@ IO9	EEG	µV	0.0	2048.0	4096.0	IO	good	n/a	Intracranial contact (source type labe
 IO10	EEG	µV	0.0	2048.0	4096.0	IO	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
 IO11	EEG	µV	0.0	2048.0	4096.0	IO	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
 IO12	EEG	µV	0.0	2048.0	4096.0	IO	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-ECG1	EEG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-ECG2	EEG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+ECG1	ECG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Electrocardiogram (non-neural; source README: channels labelled ECG do not contain EEG data)
+ECG2	ECG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Electrocardiogram (non-neural; source README: channels labelled ECG do not contain EEG data)
 C171	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
 C172	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
 C173	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data

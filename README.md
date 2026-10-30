@@ -68,6 +68,11 @@ to track online statistical learning of exemplar-level and category-level regula
 - channels.tsv: names, units, cut-offs and status from the source channels.tsv. Intracranial contacts keep the
   source type label `EEG` because the release does not say which electrodes are grids, strips or depths. Channels
   the source README says to disregard (C*, DC*, OSAT, PR, Pleth) are typed MISC, ECG/EMG as such, TRIG as TRIG.
+  Correction of 30 Oct 2026 (code/fix-20261030_channel_types.py): the first conversion typed only channels named
+  exactly ECG/EMG, so ECG1, ECG2, "ECG 2", EMG1 and EMG2 had stayed EEG; they are now ECG/EMG. sub-07 and sub-08 had
+  depth electrodes only (paper Table 1), so their contacts on electrodes of the authors' contact table are now SEEG
+  (160 and 166 channels). Channels whose electrode is not in that table (e.g. F3, T7, O1, CZ, FP1', E1, LOC) keep
+  type EEG, with a description saying so. The *_ieeg.json channel counts were recomputed.
   The `group` column is the electrode prefix of the contact name.
 - events.tsv: one row per TRIG pulse (onset = first sample away from the run's resting TRIG level, duration = until it
   returns, value = the sequence of TRIG levels in the pulse),
@@ -88,7 +93,7 @@ to track online statistical learning of exemplar-level and category-level regula
 ## Known caveats
 - Stimulus photographs are not part of the release and not included here.
 - The meanings of the TRIG codes are not documented in the release; source events.tsv files exist for sub-3 only.
-- Electrode coordinates are voxel indices (see Conversion); the electrode type of each contact (grid/strip/depth) is
+- Electrode coordinates are voxel indices (see Conversion); for sub-01 to sub-06 (combined implants) the electrode type of each contact (grid/strip/depth) is
   not given per contact in the release.
 - Contact counts in the release are slightly higher than the nContacts column of the paper's Table 1 (kept as
   published in `n_contacts_paper`).
