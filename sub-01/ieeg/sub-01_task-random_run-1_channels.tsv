@@ -216,16 +216,16 @@ PCD9	EEG	µV	0.0	2048.0	4096.0	PCD	good	n/a	Intracranial contact (source type la
 PCD10	EEG	µV	0.0	2048.0	4096.0	PCD	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
 PCD11	EEG	µV	0.0	2048.0	4096.0	PCD	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
 PCD12	EEG	µV	0.0	2048.0	4096.0	PCD	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-ECG1	EEG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-ECG2	EEG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-F3	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+ECG1	ECG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Electrocardiogram (non-neural; source README: channels labelled ECG do not contain EEG data)
+ECG2	ECG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Electrocardiogram (non-neural; source README: channels labelled ECG do not contain EEG data)
+F3	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
 C3	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
-T7	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-O1	EEG	µV	0.0	2048.0	4096.0	O	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-F4	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T7	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+O1	EEG	µV	0.0	2048.0	4096.0	O	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+F4	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
 C4	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
-T8	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-02	EEG	µV	0.0	2048.0	4096.0	n/a	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+T8	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+02	EEG	µV	0.0	2048.0	4096.0	n/a	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
 C228	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
 C229	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
 C230	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
