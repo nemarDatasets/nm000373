@@ -68,15 +68,29 @@ to track online statistical learning of exemplar-level and category-level regula
 - channels.tsv: names, units, cut-offs and status from the source channels.tsv. Intracranial contacts keep the
   source type label `EEG` because the release does not say which electrodes are grids, strips or depths. Channels
   the source README says to disregard (C*, DC*, OSAT, PR, Pleth) are typed MISC, ECG/EMG as such, TRIG as TRIG.
+  The `group` column is the electrode prefix of the contact name.
+- events.tsv: one row per TRIG pulse (onset = first sample away from the run's resting TRIG level, duration = until it
+  returns, value = the sequence of TRIG levels in the pulse),
+  plus the rows of the source events.tsv where the release has one (sub-3).
+- Electrodes: `allContacts_MNIcoords.csv` copied verbatim into `*_space-MNI152NLin6Asym_electrodes.tsv`. The values
+  are positive integers consistent with FSL MNI152 2 mm voxel indices, so units are declared n/a and the values are
+  not converted (see coordsystem.json for the affine, an unverified assumption). For sub-01 the labels R1 and R2 each
+  appear twice in the source file with different coordinates and are not among the recorded channels; these 4
+  ambiguous rows are left out of electrodes.tsv (the original file is in sourcedata).
+- participants.tsv: age, sex and handedness are not given in the Dryad release (n/a); age, sex and implant details
+  were added from Table 1 of the paper (2026-10-07, see CHANGES).
+
+Updated in version 1.0.3 by the depositors of this NEMAR copy (the published text above is kept unchanged; these items replace or extend it):
+
+- channels.tsv: names, units, cut-offs and status from the source channels.tsv. Intracranial contacts keep the
+  source type label `EEG` because the release does not say which electrodes are grids, strips or depths. Channels
+  the source README says to disregard (C*, DC*, OSAT, PR, Pleth) are typed MISC, ECG/EMG as such, TRIG as TRIG.
   Correction of 30 Oct 2026 (code/fix-20261030_channel_types.py): the first conversion typed only channels named
   exactly ECG/EMG, so ECG1, ECG2, "ECG 2", EMG1 and EMG2 had stayed EEG; they are now ECG/EMG. sub-07 and sub-08 had
   depth electrodes only (paper Table 1), so their contacts on electrodes of the authors' contact table are now SEEG
   (160 and 166 channels). Channels whose electrode is not in that table (e.g. F3, T7, O1, CZ, FP1', E1, LOC) keep
   type EEG, with a description saying so. The *_ieeg.json channel counts were recomputed.
   The `group` column is the electrode prefix of the contact name.
-- events.tsv: one row per TRIG pulse (onset = first sample away from the run's resting TRIG level, duration = until it
-  returns, value = the sequence of TRIG levels in the pulse),
-  plus the rows of the source events.tsv where the release has one (sub-3).
 - Electrodes: `allContacts_MNIcoords.csv` copied into `*_space-MNI152NLin6Asym_electrodes.tsv`. The release values
   are 0-based voxel indices of the FSL MNI152 2 mm template; since the correction of Oct 2026 (below) x, y, z are
   millimetres and the release values are kept in `voxel_i`, `voxel_j`, `voxel_k`. For sub-01 the labels R1 and R2 each
@@ -92,8 +106,6 @@ to track online statistical learning of exemplar-level and category-level regula
   shift of up to 2 voxels per axis fits better. All indices are inside the 91 x 109 x 91 grid, and each patient's
   implanted hemisphere (Table 1) and the L/R prefix of contact names (281 of 287; the others are reference or
   midline contacts) agree with the sign of x. Positions stay on the 2 mm grid of the authors' registration.
-- participants.tsv: age, sex and handedness are not given in the Dryad release (n/a); age, sex and implant details
-  were added from Table 1 of the paper (2026-10-07, see CHANGES).
 
 ## Files
 - `sub-0N/ieeg/`: EDF recordings, `*_channels.tsv`, `*_events.tsv`, `*_ieeg.json` per run; MNI electrode table and
@@ -103,7 +115,7 @@ to track online statistical learning of exemplar-level and category-level regula
 ## Known caveats
 - Stimulus photographs are not part of the release and not included here.
 - The meanings of the TRIG codes are not documented in the release; source events.tsv files exist for sub-3 only.
-- Electrode coordinates are in mm, converted from the release's 2 mm voxel indices (see Conversion); for sub-01 to sub-06 (combined implants) the electrode type of each contact (grid/strip/depth) is
+- Electrode coordinates are voxel indices (see Conversion); the electrode type of each contact (grid/strip/depth) is
   not given per contact in the release.
 - Contact counts in the release are slightly higher than the nContacts column of the paper's Table 1 (kept as
   published in `n_contacts_paper`).
@@ -111,6 +123,11 @@ to track online statistical learning of exemplar-level and category-level regula
   one, a trigger error in the other); the paper does not say which patients (the release contains one set of runs per
   participant).
 - The first trial's ISI was shorter than intended in some runs (paper); the authors dropped the first two trials.
+
+Updated in version 1.0.3 by the depositors of this NEMAR copy (the published text above is kept unchanged; these items replace or extend it):
+
+- Electrode coordinates are in mm, converted from the release's 2 mm voxel indices (see Conversion); for sub-01 to sub-06 (combined implants) the electrode type of each contact (grid/strip/depth) is
+  not given per contact in the release.
 
 ## How to load
 ```python
@@ -136,5 +153,9 @@ Verbatim from Sherman BE, Aljishi A, Graves KN, Quraishi IH, Sivaraju A, Damisah
 > Patients were recruited through the Yale Comprehensive Epilepsy Center and provided informed consent in a manner approved by the Yale University Human Subjects Committee.
 
 ## Atlas labels of the electrode positions (added 2026-10-08)
+
+Each `electrodes.tsv` that has coordinates now has two derived columns, `atlas_label_AAL3v1` and `atlas_label_DesikanKilliany`. They are an atlas lookup of the coordinates already in the file (voxel indices in the MNI152 2 mm template converted to mm with the FSL MNI152_T1_2mm affine (x=-2i+90, y=2j-126, z=2k-72); whether the release indices are 0- or 1-based is not stated (<= 2 mm per axis)), made for NEMAR; they are not labels given by the authors, and the coordinates themselves are unchanged. Method and caveats: `electrodes.json`. 1121 of 1344 contacts received a label.
+
+Updated in version 1.0.3 by the depositors of this NEMAR copy (the published text above is kept unchanged; these items replace or extend it):
 
 Each `electrodes.tsv` that has coordinates now has two derived columns, `atlas_label_AAL3v1` and `atlas_label_DesikanKilliany`. They are an atlas lookup of the coordinates already in the file (voxel indices in the MNI152 2 mm template converted to mm with the FSL MNI152_T1_2mm affine (x=-2i+90, y=2j-126, z=2k-72), the 0-based reading verified in Oct 2026; x, y, z now hold these mm values), made for NEMAR; they are not labels given by the authors. Method and caveats: `electrodes.json`. 1121 of 1344 contacts received a label.
