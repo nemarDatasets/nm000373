@@ -1,3 +1,15 @@
+1.0.3 2026-10-30
+
+  - channels.tsv/ieeg.json (all 8 subjects): channel types corrected from the source montage: ECG1, ECG2, 'ECG 2'
+    and EMG1/EMG2 (were EEG) typed ECG (60 channels) and EMG (8); the contacts of sub-07 and sub-08, who had depth
+    electrodes only (paper Table 1), typed SEEG (1304 channel rows over their runs); channel counts in ieeg.json
+    recomputed (code/fix-20261030_channel_types.py).
+  - electrodes.tsv (8 files), electrodes.json, coordsystem.json (8 files): x, y, z converted from the release's
+    0-based FSL MNI152 2 mm voxel indices to mm (x = 90 - 2i, y = 2j - 126, z = 2k - 72; units mm); the release
+    values are kept in the new columns voxel_i, voxel_j, voxel_k. The 0-based convention was checked against the
+    paper's atlas counts (code/fix-20261030_coords_mm.py, code/fix-20261030_verify_voxel_convention.py and .json).
+  - README: the published text is kept unchanged; paragraphs added after it describe both corrections.
+
 1.0.2 2026-10-16
   - Restore the descriptive dataset Name recorded in the v1.0.0 history. Update generated metadata title and source hash.
 

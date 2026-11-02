@@ -1,189 +1,189 @@
 name	type	units	low_cutoff	high_cutoff	sampling_frequency	group	status	status_description	description
-FP1	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FP2	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FP3	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FP4	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FP5	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FP6	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FP7	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FP8	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FP9	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FP10	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FP11	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FP12	EEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-OF1	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-OF2	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-OF3	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-OF4	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-OF5	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-OF6	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-OF7	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-OF8	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-OF9	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-OF10	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-OF11	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-OF12	EEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FOr1	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FOr2	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FOr3	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FOr4	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FOr5	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FOr6	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FOr7	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FOr8	EEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Or1	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Or2	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Or3	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Or4	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Or5	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Or6	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Or7	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Or8	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Or9	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Or10	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Or11	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Or12	EEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-T1	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-T2	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-T3	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-T4	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-T5	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-T6	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-T7-0	EEG	µV	0.0	2048.0	4096.0	T7-	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-T8-0	EEG	µV	0.0	2048.0	4096.0	T8-	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-T9	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-T10	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-T11	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-T12	EEG	µV	0.0	2048.0	4096.0	T	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Op1	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Op2	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Op3	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Op4	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Op5	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Op6	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Op7	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Op8	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Op9	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Op10	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Op11	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Op12	EEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Ca1	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Ca2	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Ca3	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Ca4	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Ca5	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Ca6	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Ca7	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Ca8	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Ca9	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Ca10	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Ca11	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Ca12	EEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-AC1	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-AC2	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-AC3	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-AC4	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-AC5	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-AC6	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-AC7	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-AC8	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-AC9	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-AC10	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-AC11	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-AC12	EEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-A1	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-A2	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-A3	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-A4	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-A5	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-A6	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-A7	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-A8	EEG	µV	0.0	2048.0	4096.0	A	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-H1	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-H2	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-H3	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-H4	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-H5	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-H6	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-H7	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-H8	EEG	µV	0.0	2048.0	4096.0	H	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-L1	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-L2	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-L3	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-L4	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-L5	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-L6	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-L7	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-L8	EEG	µV	0.0	2048.0	4096.0	L	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Mi1	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Mi2	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Mi3	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Mi4	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Mi5	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Mi6	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Mi7	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Mi8	EEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Pi1	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Pi2	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Pi3	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Pi4	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Pi5	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Pi6	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Pi7	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Pi8	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Pi9	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Pi10	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Pi11	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-Pi12	EEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-SMA1	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-SMA2	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-SMA3	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-SMA4	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-SMA5	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-SMA6	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-SMA7	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-SMA8	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-SMA9	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-SMA10	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-SMA11	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-SMA12	EEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-PC1	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-PC2	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-PC3	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-PC4	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-PC5	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-PC6	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-PC7	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-PC8	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-PC9	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-PC10	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-PC11	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-PC12	EEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-S1	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-S2	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-S3	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-S4	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-S5	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-S6	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-S7	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-S8	EEG	µV	0.0	2048.0	4096.0	S	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-ECG1	EEG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-ECG2	EEG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FP1'	EEG	µV	0.0	2048.0	4096.0	FP1'	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-FP2'	EEG	µV	0.0	2048.0	4096.0	FP2'	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-F7	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-F8	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-T7-1	EEG	µV	0.0	2048.0	4096.0	T7-	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-T8-1	EEG	µV	0.0	2048.0	4096.0	T8-	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-O1	EEG	µV	0.0	2048.0	4096.0	O	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-O2	EEG	µV	0.0	2048.0	4096.0	O	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-F3	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-F4	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+FP1	SEEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FP2	SEEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FP3	SEEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FP4	SEEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FP5	SEEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FP6	SEEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FP7	SEEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FP8	SEEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FP9	SEEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FP10	SEEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FP11	SEEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FP12	SEEG	µV	0.0	2048.0	4096.0	FP	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+OF1	SEEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+OF2	SEEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+OF3	SEEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+OF4	SEEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+OF5	SEEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+OF6	SEEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+OF7	SEEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+OF8	SEEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+OF9	SEEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+OF10	SEEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+OF11	SEEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+OF12	SEEG	µV	0.0	2048.0	4096.0	OF	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FOr1	SEEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FOr2	SEEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FOr3	SEEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FOr4	SEEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FOr5	SEEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FOr6	SEEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FOr7	SEEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+FOr8	SEEG	µV	0.0	2048.0	4096.0	FOr	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Or1	SEEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Or2	SEEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Or3	SEEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Or4	SEEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Or5	SEEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Or6	SEEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Or7	SEEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Or8	SEEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Or9	SEEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Or10	SEEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Or11	SEEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Or12	SEEG	µV	0.0	2048.0	4096.0	Or	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+T1	SEEG	µV	0.0	2048.0	4096.0	T	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+T2	SEEG	µV	0.0	2048.0	4096.0	T	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+T3	SEEG	µV	0.0	2048.0	4096.0	T	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+T4	SEEG	µV	0.0	2048.0	4096.0	T	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+T5	SEEG	µV	0.0	2048.0	4096.0	T	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+T6	SEEG	µV	0.0	2048.0	4096.0	T	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+T7-0	EEG	µV	0.0	2048.0	4096.0	T7-	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+T8-0	EEG	µV	0.0	2048.0	4096.0	T8-	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+T9	SEEG	µV	0.0	2048.0	4096.0	T	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+T10	SEEG	µV	0.0	2048.0	4096.0	T	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+T11	SEEG	µV	0.0	2048.0	4096.0	T	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+T12	SEEG	µV	0.0	2048.0	4096.0	T	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Op1	SEEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Op2	SEEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Op3	SEEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Op4	SEEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Op5	SEEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Op6	SEEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Op7	SEEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Op8	SEEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Op9	SEEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Op10	SEEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Op11	SEEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Op12	SEEG	µV	0.0	2048.0	4096.0	Op	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Ca1	SEEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Ca2	SEEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Ca3	SEEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Ca4	SEEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Ca5	SEEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Ca6	SEEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Ca7	SEEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Ca8	SEEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Ca9	SEEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Ca10	SEEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Ca11	SEEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Ca12	SEEG	µV	0.0	2048.0	4096.0	Ca	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+AC1	SEEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+AC2	SEEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+AC3	SEEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+AC4	SEEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+AC5	SEEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+AC6	SEEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+AC7	SEEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+AC8	SEEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+AC9	SEEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+AC10	SEEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+AC11	SEEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+AC12	SEEG	µV	0.0	2048.0	4096.0	AC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+A1	SEEG	µV	0.0	2048.0	4096.0	A	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+A2	SEEG	µV	0.0	2048.0	4096.0	A	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+A3	SEEG	µV	0.0	2048.0	4096.0	A	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+A4	SEEG	µV	0.0	2048.0	4096.0	A	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+A5	SEEG	µV	0.0	2048.0	4096.0	A	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+A6	SEEG	µV	0.0	2048.0	4096.0	A	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+A7	SEEG	µV	0.0	2048.0	4096.0	A	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+A8	SEEG	µV	0.0	2048.0	4096.0	A	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+H1	SEEG	µV	0.0	2048.0	4096.0	H	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+H2	SEEG	µV	0.0	2048.0	4096.0	H	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+H3	SEEG	µV	0.0	2048.0	4096.0	H	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+H4	SEEG	µV	0.0	2048.0	4096.0	H	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+H5	SEEG	µV	0.0	2048.0	4096.0	H	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+H6	SEEG	µV	0.0	2048.0	4096.0	H	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+H7	SEEG	µV	0.0	2048.0	4096.0	H	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+H8	SEEG	µV	0.0	2048.0	4096.0	H	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+L1	SEEG	µV	0.0	2048.0	4096.0	L	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+L2	SEEG	µV	0.0	2048.0	4096.0	L	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+L3	SEEG	µV	0.0	2048.0	4096.0	L	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+L4	SEEG	µV	0.0	2048.0	4096.0	L	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+L5	SEEG	µV	0.0	2048.0	4096.0	L	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+L6	SEEG	µV	0.0	2048.0	4096.0	L	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+L7	SEEG	µV	0.0	2048.0	4096.0	L	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+L8	SEEG	µV	0.0	2048.0	4096.0	L	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Mi1	SEEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Mi2	SEEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Mi3	SEEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Mi4	SEEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Mi5	SEEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Mi6	SEEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Mi7	SEEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Mi8	SEEG	µV	0.0	2048.0	4096.0	Mi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Pi1	SEEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Pi2	SEEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Pi3	SEEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Pi4	SEEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Pi5	SEEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Pi6	SEEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Pi7	SEEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Pi8	SEEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Pi9	SEEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Pi10	SEEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Pi11	SEEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+Pi12	SEEG	µV	0.0	2048.0	4096.0	Pi	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+SMA1	SEEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+SMA2	SEEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+SMA3	SEEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+SMA4	SEEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+SMA5	SEEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+SMA6	SEEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+SMA7	SEEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+SMA8	SEEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+SMA9	SEEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+SMA10	SEEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+SMA11	SEEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+SMA12	SEEG	µV	0.0	2048.0	4096.0	SMA	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+PC1	SEEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+PC2	SEEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+PC3	SEEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+PC4	SEEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+PC5	SEEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+PC6	SEEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+PC7	SEEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+PC8	SEEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+PC9	SEEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+PC10	SEEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+PC11	SEEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+PC12	SEEG	µV	0.0	2048.0	4096.0	PC	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+S1	SEEG	µV	0.0	2048.0	4096.0	S	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+S2	SEEG	µV	0.0	2048.0	4096.0	S	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+S3	SEEG	µV	0.0	2048.0	4096.0	S	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+S4	SEEG	µV	0.0	2048.0	4096.0	S	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+S5	SEEG	µV	0.0	2048.0	4096.0	S	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+S6	SEEG	µV	0.0	2048.0	4096.0	S	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+S7	SEEG	µV	0.0	2048.0	4096.0	S	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+S8	SEEG	µV	0.0	2048.0	4096.0	S	good	n/a	Depth (stereo-EEG) contact: participant implanted with depth electrodes only (paper Table 1) and electrode listed in allContacts_MNIcoords.csv
+ECG1	ECG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Electrocardiogram (non-neural; source README: channels labelled ECG do not contain EEG data)
+ECG2	ECG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Electrocardiogram (non-neural; source README: channels labelled ECG do not contain EEG data)
+FP1'	EEG	µV	0.0	2048.0	4096.0	FP1'	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+FP2'	EEG	µV	0.0	2048.0	4096.0	FP2'	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+F7	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+F8	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+T7-1	EEG	µV	0.0	2048.0	4096.0	T7-	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+T8-1	EEG	µV	0.0	2048.0	4096.0	T8-	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+O1	EEG	µV	0.0	2048.0	4096.0	O	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+O2	EEG	µV	0.0	2048.0	4096.0	O	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+F3	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+F4	EEG	µV	0.0	2048.0	4096.0	F	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
 C3	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
 C4	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
-CZ	EEG	µV	0.0	2048.0	4096.0	CZ	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-E1	EEG	µV	0.0	2048.0	4096.0	E	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-E2	EEG	µV	0.0	2048.0	4096.0	E	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+CZ	EEG	µV	0.0	2048.0	4096.0	CZ	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+E1	EEG	µV	0.0	2048.0	4096.0	E	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
+E2	EEG	µV	0.0	2048.0	4096.0	E	good	n/a	Not an electrode of the authors' contact table (allContacts_MNIcoords.csv); kind of electrode not stated in the release (type kept EEG)
 C186	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
 C187	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
 C188	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data

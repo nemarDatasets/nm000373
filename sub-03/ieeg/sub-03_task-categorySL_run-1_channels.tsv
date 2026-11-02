@@ -191,8 +191,8 @@ G61	EEG	µV	0.0	2048.0	4096.0	G	good	n/a	Intracranial contact (source type label
 G62	EEG	µV	0.0	2048.0	4096.0	G	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
 G63	EEG	µV	0.0	2048.0	4096.0	G	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
 G64	EEG	µV	0.0	2048.0	4096.0	G	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-ECG1	EEG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
-ECG 2	EEG	µV	0.0	2048.0	4096.0	ECG 	good	n/a	Intracranial contact (source type label EEG; electrode type not stated in the release)
+ECG1	ECG	µV	0.0	2048.0	4096.0	ECG	good	n/a	Electrocardiogram (non-neural; source README: channels labelled ECG do not contain EEG data)
+ECG 2	ECG	µV	0.0	2048.0	4096.0	ECG 	good	n/a	Electrocardiogram (non-neural; source README: channels labelled ECG do not contain EEG data)
 C195	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
 C196	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data
 C197	MISC	µV	0.0	2048.0	4096.0	n/a	good	n/a	Non-EEG channel (C/DC/OSAT/PR/Pleth); source README: disregard, does not contain EEG data

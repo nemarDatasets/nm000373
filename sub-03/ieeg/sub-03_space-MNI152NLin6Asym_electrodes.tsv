@@ -1,199 +1,199 @@
-name	x	y	z	size	group	atlas_label_AAL3v1	atlas_label_DesikanKilliany
-G8	13	64	55	n/a	G	Precentral_R	n/a
-G16	14	69	57	n/a	G	Precentral_R	n/a
-G24	18	73	63	n/a	G	n/a	n/a
-G32	20	78	63	n/a	G	n/a	n/a
-G40	24	82	63	n/a	G	n/a	n/a
-G48	27	87	64	n/a	G	n/a	n/a
-G56	31	90	65	n/a	G	n/a	n/a
-G64	36	92	64	n/a	G	n/a	n/a
-G7	13	64	49	n/a	G	Precentral_R	ctx-rh-precentral
-G15	13	70	50	n/a	G	Frontal_Inf_Oper_R	n/a
-G23	16	75	58	n/a	G	n/a	n/a
-G31	18	80	58	n/a	G	n/a	n/a
-G39	22	84	58	n/a	G	n/a	n/a
-G47	26	88	58	n/a	G	n/a	n/a
-G55	30	92	59	n/a	G	n/a	n/a
-G63	35	94	59	n/a	G	n/a	n/a
-G6	12	66	44	n/a	G	Precentral_R	ctx-rh-precentral
-G14	13	71	45	n/a	G	Frontal_Inf_Oper_R	n/a
-G22	13	77	51	n/a	G	Frontal_Inf_Tri_R	n/a
-G30	15	82	53	n/a	G	n/a	n/a
-G38	20	86	53	n/a	G	n/a	n/a
-G46	24	91	54	n/a	G	n/a	n/a
-G54	29	95	55	n/a	G	n/a	n/a
-G62	34	97	55	n/a	G	n/a	n/a
-G5	13	67	38	n/a	G	Rolandic_Oper_R	n/a
-G13	14	72	39	n/a	G	Frontal_Inf_Oper_R	n/a
-G21	11	79	45	n/a	G	n/a	n/a
-G29	14	84	47	n/a	G	n/a	n/a
-G37	20	88	47	n/a	G	Frontal_Mid_2_R	n/a
-G45	24	92	48	n/a	G	Frontal_Mid_2_R	n/a
-G53	28	97	49	n/a	G	n/a	n/a
-G61	33	99	49	n/a	G	n/a	n/a
-G4	14	67	32	n/a	G	Temporal_Pole_Sup_R	ctx-rh-superiortemporal
-G12	16	72	33	n/a	G	Temporal_Pole_Sup_R	n/a
-G20	12	80	39	n/a	G	Frontal_Inf_Tri_R	n/a
-G28	13	85	41	n/a	G	n/a	n/a
-G36	20	89	41	n/a	G	Frontal_Mid_2_R	n/a
-G44	23	93	42	n/a	G	Frontal_Mid_2_R	n/a
-G52	28	99	44	n/a	G	n/a	n/a
-G60	32	101	44	n/a	G	n/a	n/a
-G3	15	67	26	n/a	G	Temporal_Pole_Mid_R	n/a
-G11	18	72	28	n/a	G	Temporal_Pole_Sup_R	n/a
-G19	14	80	33	n/a	G	Frontal_Inf_Orb_2_R	n/a
-G27	15	86	35	n/a	G	Frontal_Inf_Tri_R	n/a
-G35	20	90	35	n/a	G	Frontal_Mid_2_R	n/a
-G43	24	94	36	n/a	G	Frontal_Mid_2_R	n/a
-G51	27	100	38	n/a	G	n/a	n/a
-G59	32	102	38	n/a	G	n/a	n/a
-G2	16	68	21	n/a	G	Temporal_Pole_Mid_R	ctx-rh-middletemporal
-G10	19	72	23	n/a	G	Temporal_Pole_Mid_R	ctx-rh-superiortemporal
-G18	18	81	30	n/a	G	Frontal_Inf_Orb_2_R	ctx-rh-parsorbitalis
-G26	18	87	30	n/a	G	Frontal_Inf_Orb_2_R	n/a
-G34	22	90	29	n/a	G	OFCant_R	n/a
-G42	22	95	29	n/a	G	n/a	n/a
-G50	28	100	32	n/a	G	n/a	n/a
-G58	31	103	33	n/a	G	n/a	n/a
-G1	19	68	17	n/a	G	Temporal_Inf_R	ctx-rh-middletemporal
-G9	21	71	18	n/a	G	Temporal_Pole_Mid_R	ctx-rh-middletemporal
-G17	23	81	26	n/a	G	OFClat_R	ctx-rh-parsorbitalis
-G25	22	88	26	n/a	G	OFCant_R	n/a
-G33	25	89	24	n/a	G	n/a	n/a
-G41	28	93	26	n/a	G	OFCant_R	n/a
-G49	29	98	27	n/a	G	n/a	n/a
-AI12	33	69	61	n/a	AI	Frontal_Sup_2_R	ctx-rh-superiorfrontal
-AI11	32	69	59	n/a	AI	Frontal_Mid_2_R	ctx-rh-caudalmiddlefrontal
-AI10	31	69	57	n/a	AI	Frontal_Mid_2_R	Right-Cerebral-White-Matter
-AI9	30	69	54	n/a	AI	Frontal_Inf_Oper_R	Right-Cerebral-White-Matter
-AI8	29	69	52	n/a	AI	Frontal_Inf_Oper_R	Right-Cerebral-White-Matter
-AI7	27	70	49	n/a	AI	Frontal_Inf_Oper_R	ctx-rh-caudalmiddlefrontal
-AI6	26	70	46	n/a	AI	Frontal_Inf_Tri_R	Right-Cerebral-White-Matter
-AI5	25	70	43	n/a	AI	Frontal_Inf_Oper_R	Right-Cerebral-White-Matter
-AI4	24	71	40	n/a	AI	Frontal_Inf_Oper_R	ctx-rh-parsopercularis
-AI3	24	71	37	n/a	AI	Insula_R	ctx-rh-parsopercularis
-AI2	23	71	34	n/a	AI	Insula_R	ctx-rh-insula
-AI1	23	71	31	n/a	AI	Insula_R	ctx-rh-insula
-Ca12	33	87	59	n/a	Ca	Frontal_Sup_2_R	n/a
-Ca11	34	87	57	n/a	Ca	Frontal_Sup_2_R	n/a
-Ca10	35	86	55	n/a	Ca	Frontal_Sup_2_R	ctx-rh-superiorfrontal
-Ca9	35	85	53	n/a	Ca	Frontal_Sup_2_R	ctx-rh-superiorfrontal
-Ca8	36	84	50	n/a	Ca	Frontal_Sup_2_R	Right-Cerebral-White-Matter
-Ca7	36	83	48	n/a	Ca	Frontal_Sup_2_R	Right-Cerebral-White-Matter
-Ca6	37	82	45	n/a	Ca	ACC_pre_R	Right-Cerebral-White-Matter
-Ca5	37	80	41	n/a	Ca	ACC_sup_R	Right-Cerebral-White-Matter
-Ca4	38	79	39	n/a	Ca	ACC_sup_R	Right-Cerebral-White-Matter
-Ca3	39	77	36	n/a	Ca	Caudate_R	Right-Cerebral-White-Matter
-Ca2	39	76	33	n/a	Ca	Caudate_R	Right-Cerebral-White-Matter
-Ca1	40	75	31	n/a	Ca	Olfactory_R	Right-Cerebral-White-Matter
-LZ12	32	95	48	n/a	LZ	Frontal_Mid_2_R	n/a
-LZ11	33	96	46	n/a	LZ	Frontal_Sup_2_R	n/a
-LZ10	34	96	43	n/a	LZ	Frontal_Sup_2_R	ctx-rh-rostralmiddlefrontal
-LZ9	35	96	40	n/a	LZ	Frontal_Sup_2_R	ctx-rh-rostralmiddlefrontal
-LZ8	36	97	37	n/a	LZ	Frontal_Sup_2_R	ctx-rh-superiorfrontal
-LZ7	37	97	35	n/a	LZ	Frontal_Sup_2_R	ctx-rh-superiorfrontal
-LZ6	38	98	33	n/a	LZ	Frontal_Sup_2_R	ctx-rh-frontalpole
-LZ5	38	98	30	n/a	LZ	Frontal_Med_Orb_R	n/a
-LZ4	39	99	27	n/a	LZ	OFCant_R	n/a
-LZ3	40	99	24	n/a	LZ	n/a	n/a
-LZ2	41	100	21	n/a	LZ	n/a	n/a
-LZ1	41	101	18	n/a	LZ	n/a	n/a
-ENC12	27	90	52	n/a	ENC	Frontal_Mid_2_R	n/a
-ENC11	28	92	51	n/a	ENC	Frontal_Mid_2_R	n/a
-ENC10	29	93	48	n/a	ENC	Frontal_Mid_2_R	n/a
-ENC9	31	94	46	n/a	ENC	Frontal_Sup_2_R	n/a
-ENC8	32	94	44	n/a	ENC	Frontal_Sup_2_R	ctx-rh-rostralmiddlefrontal
-ENC7	34	95	41	n/a	ENC	Frontal_Sup_2_R	ctx-rh-rostralmiddlefrontal
-ENC6	35	95	38	n/a	ENC	Frontal_Sup_2_R	ctx-rh-rostralmiddlefrontal
-ENC5	37	95	36	n/a	ENC	Frontal_Sup_2_R	Right-Cerebral-White-Matter
-ENC4	38	95	34	n/a	ENC	Frontal_Sup_2_R	ctx-rh-frontalpole
-ENC3	40	95	31	n/a	ENC	Frontal_Med_Orb_R	ctx-rh-frontalpole
-ENC2	41	95	29	n/a	ENC	Frontal_Med_Orb_R	ctx-rh-frontalpole
-ENC1	42	95	26	n/a	ENC	Rectus_R	ctx-rh-frontalpole
-AC12	19	71	62	n/a	AC	Frontal_Mid_2_R	n/a
-AC11	21	73	62	n/a	AC	Frontal_Mid_2_R	n/a
-AC10	23	74	62	n/a	AC	Frontal_Mid_2_R	ctx-rh-caudalmiddlefrontal
-AC9	26	75	60	n/a	AC	Frontal_Mid_2_R	ctx-rh-caudalmiddlefrontal
-AC8	28	76	60	n/a	AC	Frontal_Mid_2_R	ctx-rh-caudalmiddlefrontal
-AC7	31	77	58	n/a	AC	Frontal_Mid_2_R	ctx-rh-caudalmiddlefrontal
-AC6	33	78	57	n/a	AC	Frontal_Mid_2_R	ctx-rh-superiorfrontal
-AC5	36	79	56	n/a	AC	Frontal_Sup_2_R	Right-Cerebral-White-Matter
-AC4	38	80	54	n/a	AC	Frontal_Sup_2_R	Right-Cerebral-White-Matter
-AC3	41	81	53	n/a	AC	Cingulate_Mid_R	ctx-rh-superiorfrontal
-AC2	43	81	52	n/a	AC	Cingulate_Mid_R	ctx-rh-superiorfrontal
-AC1	45	82	51	n/a	AC	Frontal_Sup_Medial_L	ctx-lh-superiorfrontal
-MFa8	38	106	34	n/a	MFa	n/a	n/a
-MFa7	42	106	31	n/a	MFa	n/a	n/a
-MFa6	47	104	28	n/a	MFa	n/a	n/a
-MFa5	50	100	26	n/a	MFa	n/a	n/a
-MFa4	53	95	25	n/a	MFa	n/a	n/a
-MFa3	55	90	26	n/a	MFa	OFCant_L	ctx-lh-lateralorbitofrontal
-MFa2	58	86	26	n/a	MFa	OFCant_L	n/a
-MFa1	61	81	25	n/a	MFa	OFCant_L	n/a
-MFb6	28	102	37	n/a	MFb	n/a	n/a
-MFb5	30	103	33	n/a	MFb	n/a	n/a
-MFb3	36	102	22	n/a	MFb	n/a	n/a
-MFb2	40	101	18	n/a	MFb	n/a	n/a
-MiF6	25	94	30	n/a	MiF	Frontal_Mid_2_R	n/a
-MiF5	26	95	27	n/a	MiF	n/a	n/a
-MiF4	32	96	26	n/a	MiF	OFCant_R	n/a
-MiF3	36	97	23	n/a	MiF	n/a	n/a
-MiF2	41	98	18	n/a	MiF	n/a	n/a
-OF12	23	83	25	n/a	OF	OFClat_R	n/a
-OF11	28	82	23	n/a	OF	OFCpost_R	n/a
-OF10	34	82	22	n/a	OF	OFCmed_R	n/a
-OF9	40	81	21	n/a	OF	Rectus_R	ctx-rh-lateralorbitofrontal
-OF8	44	80	19	n/a	OF	n/a	n/a
-OF7	50	80	19	n/a	OF	n/a	n/a
-OF6	54	82	22	n/a	OF	OFCmed_L	ctx-lh-lateralorbitofrontal
-OF5	59	84	24	n/a	OF	OFCant_L	n/a
-OF4	63	86	26	n/a	OF	OFCant_L	n/a
-OF3	67	88	31	n/a	OF	Frontal_Mid_2_L	ctx-lh-parsorbitalis
-OF2	69	89	36	n/a	OF	Frontal_Mid_2_L	n/a
-OF1	69	89	42	n/a	OF	Frontal_Mid_2_L	n/a
-AMT12	20	75	26	n/a	AMT	Temporal_Pole_Sup_R	n/a
-AMT11	23	77	22	n/a	AMT	Temporal_Pole_Sup_R	n/a
-AMT10	27	78	18	n/a	AMT	Temporal_Pole_Mid_R	n/a
-AMT9	31	76	14	n/a	AMT	n/a	n/a
-AMT8	35	73	13	n/a	AMT	n/a	n/a
-AMT7	37	68	13	n/a	AMT	Fusiform_R	n/a
-AMT6	36	63	15	n/a	AMT	Fusiform_R	n/a
-AMT5	34	59	18	n/a	AMT	ParaHippocampal_R	ctx-rh-entorhinal
-AMT4	31	56	20	n/a	AMT	Fusiform_R	ctx-rh-entorhinal
-AMT3	29	51	21	n/a	AMT	Fusiform_R	ctx-rh-parahippocampal
-AMT2	27	47	23	n/a	AMT	Fusiform_R	ctx-rh-fusiform
-AMT1	25	42	24	n/a	AMT	Fusiform_R	ctx-rh-fusiform
-ALT8	11	59	36	n/a	ALT	Temporal_Sup_R	ctx-rh-superiortemporal
-ALT7	10	57	30	n/a	ALT	Temporal_Mid_R	n/a
-ALT6	11	56	24	n/a	ALT	Temporal_Mid_R	ctx-rh-middletemporal
-ALT5	15	55	19	n/a	ALT	Temporal_Inf_R	ctx-rh-inferiortemporal
-ALT4	19	55	16	n/a	ALT	Temporal_Inf_R	ctx-rh-inferiortemporal
-ALT3	24	57	14	n/a	ALT	Temporal_Inf_R	ctx-rh-inferiortemporal
-ALT2	29	60	14	n/a	ALT	Fusiform_R	ctx-rh-fusiform
-ALT1	33	63	13	n/a	ALT	Fusiform_R	n/a
-PT12	11	56	49	n/a	PT	Postcentral_R	ctx-rh-postcentral
-PT11	10	51	47	n/a	PT	SupraMarginal_R	n/a
-PT10	9	46	44	n/a	PT	Temporal_Sup_R	n/a
-PT9	9	41	41	n/a	PT	Temporal_Mid_R	n/a
-PT8	10	36	37	n/a	PT	Temporal_Mid_R	n/a
-PT7	12	32	34	n/a	PT	Temporal_Inf_R	n/a
-PT6	16	29	31	n/a	PT	Temporal_Inf_R	n/a
-PT5	19	26	29	n/a	PT	Occipital_Inf_R	ctx-rh-lateraloccipital
-PT4	25	24	29	n/a	PT	Occipital_Inf_R	ctx-rh-lateraloccipital
-PT3	30	23	29	n/a	PT	Fusiform_R	ctx-rh-lateraloccipital
-PT2	35	21	29	n/a	PT	Lingual_R	ctx-rh-lingual
-PT1	40	19	30	n/a	PT	Lingual_R	ctx-rh-lingual
-P8	28	78	66	n/a	P	n/a	n/a
-P7	29	74	70	n/a	P	n/a	n/a
-P6	30	69	73	n/a	P	n/a	n/a
-P5	31	64	74	n/a	P	n/a	n/a
-P4	32	59	75	n/a	P	Frontal_Sup_2_R	n/a
-P3	33	54	76	n/a	P	Precentral_R	n/a
-P2	35	49	76	n/a	P	Precentral_R	n/a
-P1	37	44	76	n/a	P	Postcentral_R	ctx-rh-postcentral
-R4	16	63	63	n/a	R	Frontal_Mid_2_R	n/a
-R3	16	58	66	n/a	R	n/a	n/a
-R2	16	53	68	n/a	R	n/a	n/a
-R1	17	48	68	n/a	R	Postcentral_R	n/a
-L2	74	79	59	n/a	L	n/a	n/a
-L1	72	83	56	n/a	L	n/a	n/a
+name	x	y	z	size	group	voxel_i	voxel_j	voxel_k	atlas_label_AAL3v1	atlas_label_DesikanKilliany
+G8	64	2	38	n/a	G	13	64	55	Precentral_R	n/a
+G16	62	12	42	n/a	G	14	69	57	Precentral_R	n/a
+G24	54	20	54	n/a	G	18	73	63	n/a	n/a
+G32	50	30	54	n/a	G	20	78	63	n/a	n/a
+G40	42	38	54	n/a	G	24	82	63	n/a	n/a
+G48	36	48	56	n/a	G	27	87	64	n/a	n/a
+G56	28	54	58	n/a	G	31	90	65	n/a	n/a
+G64	18	58	56	n/a	G	36	92	64	n/a	n/a
+G7	64	2	26	n/a	G	13	64	49	Precentral_R	ctx-rh-precentral
+G15	64	14	28	n/a	G	13	70	50	Frontal_Inf_Oper_R	n/a
+G23	58	24	44	n/a	G	16	75	58	n/a	n/a
+G31	54	34	44	n/a	G	18	80	58	n/a	n/a
+G39	46	42	44	n/a	G	22	84	58	n/a	n/a
+G47	38	50	44	n/a	G	26	88	58	n/a	n/a
+G55	30	58	46	n/a	G	30	92	59	n/a	n/a
+G63	20	62	46	n/a	G	35	94	59	n/a	n/a
+G6	66	6	16	n/a	G	12	66	44	Precentral_R	ctx-rh-precentral
+G14	64	16	18	n/a	G	13	71	45	Frontal_Inf_Oper_R	n/a
+G22	64	28	30	n/a	G	13	77	51	Frontal_Inf_Tri_R	n/a
+G30	60	38	34	n/a	G	15	82	53	n/a	n/a
+G38	50	46	34	n/a	G	20	86	53	n/a	n/a
+G46	42	56	36	n/a	G	24	91	54	n/a	n/a
+G54	32	64	38	n/a	G	29	95	55	n/a	n/a
+G62	22	68	38	n/a	G	34	97	55	n/a	n/a
+G5	64	8	4	n/a	G	13	67	38	Rolandic_Oper_R	n/a
+G13	62	18	6	n/a	G	14	72	39	Frontal_Inf_Oper_R	n/a
+G21	68	32	18	n/a	G	11	79	45	n/a	n/a
+G29	62	42	22	n/a	G	14	84	47	n/a	n/a
+G37	50	50	22	n/a	G	20	88	47	Frontal_Mid_2_R	n/a
+G45	42	58	24	n/a	G	24	92	48	Frontal_Mid_2_R	n/a
+G53	34	68	26	n/a	G	28	97	49	n/a	n/a
+G61	24	72	26	n/a	G	33	99	49	n/a	n/a
+G4	62	8	-8	n/a	G	14	67	32	Temporal_Pole_Sup_R	ctx-rh-superiortemporal
+G12	58	18	-6	n/a	G	16	72	33	Temporal_Pole_Sup_R	n/a
+G20	66	34	6	n/a	G	12	80	39	Frontal_Inf_Tri_R	n/a
+G28	64	44	10	n/a	G	13	85	41	n/a	n/a
+G36	50	52	10	n/a	G	20	89	41	Frontal_Mid_2_R	n/a
+G44	44	60	12	n/a	G	23	93	42	Frontal_Mid_2_R	n/a
+G52	34	72	16	n/a	G	28	99	44	n/a	n/a
+G60	26	76	16	n/a	G	32	101	44	n/a	n/a
+G3	60	8	-20	n/a	G	15	67	26	Temporal_Pole_Mid_R	n/a
+G11	54	18	-16	n/a	G	18	72	28	Temporal_Pole_Sup_R	n/a
+G19	62	34	-6	n/a	G	14	80	33	Frontal_Inf_Orb_2_R	n/a
+G27	60	46	-2	n/a	G	15	86	35	Frontal_Inf_Tri_R	n/a
+G35	50	54	-2	n/a	G	20	90	35	Frontal_Mid_2_R	n/a
+G43	42	62	0	n/a	G	24	94	36	Frontal_Mid_2_R	n/a
+G51	36	74	4	n/a	G	27	100	38	n/a	n/a
+G59	26	78	4	n/a	G	32	102	38	n/a	n/a
+G2	58	10	-30	n/a	G	16	68	21	Temporal_Pole_Mid_R	ctx-rh-middletemporal
+G10	52	18	-26	n/a	G	19	72	23	Temporal_Pole_Mid_R	ctx-rh-superiortemporal
+G18	54	36	-12	n/a	G	18	81	30	Frontal_Inf_Orb_2_R	ctx-rh-parsorbitalis
+G26	54	48	-12	n/a	G	18	87	30	Frontal_Inf_Orb_2_R	n/a
+G34	46	54	-14	n/a	G	22	90	29	OFCant_R	n/a
+G42	46	64	-14	n/a	G	22	95	29	n/a	n/a
+G50	34	74	-8	n/a	G	28	100	32	n/a	n/a
+G58	28	80	-6	n/a	G	31	103	33	n/a	n/a
+G1	52	10	-38	n/a	G	19	68	17	Temporal_Inf_R	ctx-rh-middletemporal
+G9	48	16	-36	n/a	G	21	71	18	Temporal_Pole_Mid_R	ctx-rh-middletemporal
+G17	44	36	-20	n/a	G	23	81	26	OFClat_R	ctx-rh-parsorbitalis
+G25	46	50	-20	n/a	G	22	88	26	OFCant_R	n/a
+G33	40	52	-24	n/a	G	25	89	24	n/a	n/a
+G41	34	60	-20	n/a	G	28	93	26	OFCant_R	n/a
+G49	32	70	-18	n/a	G	29	98	27	n/a	n/a
+AI12	24	12	50	n/a	AI	33	69	61	Frontal_Sup_2_R	ctx-rh-superiorfrontal
+AI11	26	12	46	n/a	AI	32	69	59	Frontal_Mid_2_R	ctx-rh-caudalmiddlefrontal
+AI10	28	12	42	n/a	AI	31	69	57	Frontal_Mid_2_R	Right-Cerebral-White-Matter
+AI9	30	12	36	n/a	AI	30	69	54	Frontal_Inf_Oper_R	Right-Cerebral-White-Matter
+AI8	32	12	32	n/a	AI	29	69	52	Frontal_Inf_Oper_R	Right-Cerebral-White-Matter
+AI7	36	14	26	n/a	AI	27	70	49	Frontal_Inf_Oper_R	ctx-rh-caudalmiddlefrontal
+AI6	38	14	20	n/a	AI	26	70	46	Frontal_Inf_Tri_R	Right-Cerebral-White-Matter
+AI5	40	14	14	n/a	AI	25	70	43	Frontal_Inf_Oper_R	Right-Cerebral-White-Matter
+AI4	42	16	8	n/a	AI	24	71	40	Frontal_Inf_Oper_R	ctx-rh-parsopercularis
+AI3	42	16	2	n/a	AI	24	71	37	Insula_R	ctx-rh-parsopercularis
+AI2	44	16	-4	n/a	AI	23	71	34	Insula_R	ctx-rh-insula
+AI1	44	16	-10	n/a	AI	23	71	31	Insula_R	ctx-rh-insula
+Ca12	24	48	46	n/a	Ca	33	87	59	Frontal_Sup_2_R	n/a
+Ca11	22	48	42	n/a	Ca	34	87	57	Frontal_Sup_2_R	n/a
+Ca10	20	46	38	n/a	Ca	35	86	55	Frontal_Sup_2_R	ctx-rh-superiorfrontal
+Ca9	20	44	34	n/a	Ca	35	85	53	Frontal_Sup_2_R	ctx-rh-superiorfrontal
+Ca8	18	42	28	n/a	Ca	36	84	50	Frontal_Sup_2_R	Right-Cerebral-White-Matter
+Ca7	18	40	24	n/a	Ca	36	83	48	Frontal_Sup_2_R	Right-Cerebral-White-Matter
+Ca6	16	38	18	n/a	Ca	37	82	45	ACC_pre_R	Right-Cerebral-White-Matter
+Ca5	16	34	10	n/a	Ca	37	80	41	ACC_sup_R	Right-Cerebral-White-Matter
+Ca4	14	32	6	n/a	Ca	38	79	39	ACC_sup_R	Right-Cerebral-White-Matter
+Ca3	12	28	0	n/a	Ca	39	77	36	Caudate_R	Right-Cerebral-White-Matter
+Ca2	12	26	-6	n/a	Ca	39	76	33	Caudate_R	Right-Cerebral-White-Matter
+Ca1	10	24	-10	n/a	Ca	40	75	31	Olfactory_R	Right-Cerebral-White-Matter
+LZ12	26	64	24	n/a	LZ	32	95	48	Frontal_Mid_2_R	n/a
+LZ11	24	66	20	n/a	LZ	33	96	46	Frontal_Sup_2_R	n/a
+LZ10	22	66	14	n/a	LZ	34	96	43	Frontal_Sup_2_R	ctx-rh-rostralmiddlefrontal
+LZ9	20	66	8	n/a	LZ	35	96	40	Frontal_Sup_2_R	ctx-rh-rostralmiddlefrontal
+LZ8	18	68	2	n/a	LZ	36	97	37	Frontal_Sup_2_R	ctx-rh-superiorfrontal
+LZ7	16	68	-2	n/a	LZ	37	97	35	Frontal_Sup_2_R	ctx-rh-superiorfrontal
+LZ6	14	70	-6	n/a	LZ	38	98	33	Frontal_Sup_2_R	ctx-rh-frontalpole
+LZ5	14	70	-12	n/a	LZ	38	98	30	Frontal_Med_Orb_R	n/a
+LZ4	12	72	-18	n/a	LZ	39	99	27	OFCant_R	n/a
+LZ3	10	72	-24	n/a	LZ	40	99	24	n/a	n/a
+LZ2	8	74	-30	n/a	LZ	41	100	21	n/a	n/a
+LZ1	8	76	-36	n/a	LZ	41	101	18	n/a	n/a
+ENC12	36	54	32	n/a	ENC	27	90	52	Frontal_Mid_2_R	n/a
+ENC11	34	58	30	n/a	ENC	28	92	51	Frontal_Mid_2_R	n/a
+ENC10	32	60	24	n/a	ENC	29	93	48	Frontal_Mid_2_R	n/a
+ENC9	28	62	20	n/a	ENC	31	94	46	Frontal_Sup_2_R	n/a
+ENC8	26	62	16	n/a	ENC	32	94	44	Frontal_Sup_2_R	ctx-rh-rostralmiddlefrontal
+ENC7	22	64	10	n/a	ENC	34	95	41	Frontal_Sup_2_R	ctx-rh-rostralmiddlefrontal
+ENC6	20	64	4	n/a	ENC	35	95	38	Frontal_Sup_2_R	ctx-rh-rostralmiddlefrontal
+ENC5	16	64	0	n/a	ENC	37	95	36	Frontal_Sup_2_R	Right-Cerebral-White-Matter
+ENC4	14	64	-4	n/a	ENC	38	95	34	Frontal_Sup_2_R	ctx-rh-frontalpole
+ENC3	10	64	-10	n/a	ENC	40	95	31	Frontal_Med_Orb_R	ctx-rh-frontalpole
+ENC2	8	64	-14	n/a	ENC	41	95	29	Frontal_Med_Orb_R	ctx-rh-frontalpole
+ENC1	6	64	-20	n/a	ENC	42	95	26	Rectus_R	ctx-rh-frontalpole
+AC12	52	16	52	n/a	AC	19	71	62	Frontal_Mid_2_R	n/a
+AC11	48	20	52	n/a	AC	21	73	62	Frontal_Mid_2_R	n/a
+AC10	44	22	52	n/a	AC	23	74	62	Frontal_Mid_2_R	ctx-rh-caudalmiddlefrontal
+AC9	38	24	48	n/a	AC	26	75	60	Frontal_Mid_2_R	ctx-rh-caudalmiddlefrontal
+AC8	34	26	48	n/a	AC	28	76	60	Frontal_Mid_2_R	ctx-rh-caudalmiddlefrontal
+AC7	28	28	44	n/a	AC	31	77	58	Frontal_Mid_2_R	ctx-rh-caudalmiddlefrontal
+AC6	24	30	42	n/a	AC	33	78	57	Frontal_Mid_2_R	ctx-rh-superiorfrontal
+AC5	18	32	40	n/a	AC	36	79	56	Frontal_Sup_2_R	Right-Cerebral-White-Matter
+AC4	14	34	36	n/a	AC	38	80	54	Frontal_Sup_2_R	Right-Cerebral-White-Matter
+AC3	8	36	34	n/a	AC	41	81	53	Cingulate_Mid_R	ctx-rh-superiorfrontal
+AC2	4	36	32	n/a	AC	43	81	52	Cingulate_Mid_R	ctx-rh-superiorfrontal
+AC1	0	38	30	n/a	AC	45	82	51	Frontal_Sup_Medial_L	ctx-lh-superiorfrontal
+MFa8	14	86	-4	n/a	MFa	38	106	34	n/a	n/a
+MFa7	6	86	-10	n/a	MFa	42	106	31	n/a	n/a
+MFa6	-4	82	-16	n/a	MFa	47	104	28	n/a	n/a
+MFa5	-10	74	-20	n/a	MFa	50	100	26	n/a	n/a
+MFa4	-16	64	-22	n/a	MFa	53	95	25	n/a	n/a
+MFa3	-20	54	-20	n/a	MFa	55	90	26	OFCant_L	ctx-lh-lateralorbitofrontal
+MFa2	-26	46	-20	n/a	MFa	58	86	26	OFCant_L	n/a
+MFa1	-32	36	-22	n/a	MFa	61	81	25	OFCant_L	n/a
+MFb6	34	78	2	n/a	MFb	28	102	37	n/a	n/a
+MFb5	30	80	-6	n/a	MFb	30	103	33	n/a	n/a
+MFb3	18	78	-28	n/a	MFb	36	102	22	n/a	n/a
+MFb2	10	76	-36	n/a	MFb	40	101	18	n/a	n/a
+MiF6	40	62	-12	n/a	MiF	25	94	30	Frontal_Mid_2_R	n/a
+MiF5	38	64	-18	n/a	MiF	26	95	27	n/a	n/a
+MiF4	26	66	-20	n/a	MiF	32	96	26	OFCant_R	n/a
+MiF3	18	68	-26	n/a	MiF	36	97	23	n/a	n/a
+MiF2	8	70	-36	n/a	MiF	41	98	18	n/a	n/a
+OF12	44	40	-22	n/a	OF	23	83	25	OFClat_R	n/a
+OF11	34	38	-26	n/a	OF	28	82	23	OFCpost_R	n/a
+OF10	22	38	-28	n/a	OF	34	82	22	OFCmed_R	n/a
+OF9	10	36	-30	n/a	OF	40	81	21	Rectus_R	ctx-rh-lateralorbitofrontal
+OF8	2	34	-34	n/a	OF	44	80	19	n/a	n/a
+OF7	-10	34	-34	n/a	OF	50	80	19	n/a	n/a
+OF6	-18	38	-28	n/a	OF	54	82	22	OFCmed_L	ctx-lh-lateralorbitofrontal
+OF5	-28	42	-24	n/a	OF	59	84	24	OFCant_L	n/a
+OF4	-36	46	-20	n/a	OF	63	86	26	OFCant_L	n/a
+OF3	-44	50	-10	n/a	OF	67	88	31	Frontal_Mid_2_L	ctx-lh-parsorbitalis
+OF2	-48	52	0	n/a	OF	69	89	36	Frontal_Mid_2_L	n/a
+OF1	-48	52	12	n/a	OF	69	89	42	Frontal_Mid_2_L	n/a
+AMT12	50	24	-20	n/a	AMT	20	75	26	Temporal_Pole_Sup_R	n/a
+AMT11	44	28	-28	n/a	AMT	23	77	22	Temporal_Pole_Sup_R	n/a
+AMT10	36	30	-36	n/a	AMT	27	78	18	Temporal_Pole_Mid_R	n/a
+AMT9	28	26	-44	n/a	AMT	31	76	14	n/a	n/a
+AMT8	20	20	-46	n/a	AMT	35	73	13	n/a	n/a
+AMT7	16	10	-46	n/a	AMT	37	68	13	Fusiform_R	n/a
+AMT6	18	0	-42	n/a	AMT	36	63	15	Fusiform_R	n/a
+AMT5	22	-8	-36	n/a	AMT	34	59	18	ParaHippocampal_R	ctx-rh-entorhinal
+AMT4	28	-14	-32	n/a	AMT	31	56	20	Fusiform_R	ctx-rh-entorhinal
+AMT3	32	-24	-30	n/a	AMT	29	51	21	Fusiform_R	ctx-rh-parahippocampal
+AMT2	36	-32	-26	n/a	AMT	27	47	23	Fusiform_R	ctx-rh-fusiform
+AMT1	40	-42	-24	n/a	AMT	25	42	24	Fusiform_R	ctx-rh-fusiform
+ALT8	68	-8	0	n/a	ALT	11	59	36	Temporal_Sup_R	ctx-rh-superiortemporal
+ALT7	70	-12	-12	n/a	ALT	10	57	30	Temporal_Mid_R	n/a
+ALT6	68	-14	-24	n/a	ALT	11	56	24	Temporal_Mid_R	ctx-rh-middletemporal
+ALT5	60	-16	-34	n/a	ALT	15	55	19	Temporal_Inf_R	ctx-rh-inferiortemporal
+ALT4	52	-16	-40	n/a	ALT	19	55	16	Temporal_Inf_R	ctx-rh-inferiortemporal
+ALT3	42	-12	-44	n/a	ALT	24	57	14	Temporal_Inf_R	ctx-rh-inferiortemporal
+ALT2	32	-6	-44	n/a	ALT	29	60	14	Fusiform_R	ctx-rh-fusiform
+ALT1	24	0	-46	n/a	ALT	33	63	13	Fusiform_R	n/a
+PT12	68	-14	26	n/a	PT	11	56	49	Postcentral_R	ctx-rh-postcentral
+PT11	70	-24	22	n/a	PT	10	51	47	SupraMarginal_R	n/a
+PT10	72	-34	16	n/a	PT	9	46	44	Temporal_Sup_R	n/a
+PT9	72	-44	10	n/a	PT	9	41	41	Temporal_Mid_R	n/a
+PT8	70	-54	2	n/a	PT	10	36	37	Temporal_Mid_R	n/a
+PT7	66	-62	-4	n/a	PT	12	32	34	Temporal_Inf_R	n/a
+PT6	58	-68	-10	n/a	PT	16	29	31	Temporal_Inf_R	n/a
+PT5	52	-74	-14	n/a	PT	19	26	29	Occipital_Inf_R	ctx-rh-lateraloccipital
+PT4	40	-78	-14	n/a	PT	25	24	29	Occipital_Inf_R	ctx-rh-lateraloccipital
+PT3	30	-80	-14	n/a	PT	30	23	29	Fusiform_R	ctx-rh-lateraloccipital
+PT2	20	-84	-14	n/a	PT	35	21	29	Lingual_R	ctx-rh-lingual
+PT1	10	-88	-12	n/a	PT	40	19	30	Lingual_R	ctx-rh-lingual
+P8	34	30	60	n/a	P	28	78	66	n/a	n/a
+P7	32	22	68	n/a	P	29	74	70	n/a	n/a
+P6	30	12	74	n/a	P	30	69	73	n/a	n/a
+P5	28	2	76	n/a	P	31	64	74	n/a	n/a
+P4	26	-8	78	n/a	P	32	59	75	Frontal_Sup_2_R	n/a
+P3	24	-18	80	n/a	P	33	54	76	Precentral_R	n/a
+P2	20	-28	80	n/a	P	35	49	76	Precentral_R	n/a
+P1	16	-38	80	n/a	P	37	44	76	Postcentral_R	ctx-rh-postcentral
+R4	58	0	54	n/a	R	16	63	63	Frontal_Mid_2_R	n/a
+R3	58	-10	60	n/a	R	16	58	66	n/a	n/a
+R2	58	-20	64	n/a	R	16	53	68	n/a	n/a
+R1	56	-30	64	n/a	R	17	48	68	Postcentral_R	n/a
+L2	-58	32	46	n/a	L	74	79	59	n/a	n/a
+L1	-54	40	40	n/a	L	72	83	56	n/a	n/a
